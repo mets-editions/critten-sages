@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Critten-Sages-Export-13-Plot-Summary-App-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Appendix 3: Plot Summary</title>
+        <author>Critten, Rory G.</author>
+        <author>Wiggins, Alison</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Anderson, Nick</persName>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2026-06" to="2026-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2026-06" to="2026-07">Entered corrections for digital edition</resp>
+          <resp from="2026-06" to="2026-06">Entered corrections for print edition</resp>
+          <resp from="2026-06" to="2026-06">Formatted for print edition</resp>
+          <resp from="2026-06" to="2026-07">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2024-09" to="2024-10">Copyedited and proofread</resp>
+          <resp from="2024-09" to="2024-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for content and scholarship</resp>
+          <resp from="2024-09" to="2024-10">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2026-07" to="2026-07">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2025-12" to="2026-01">Audited documents prior to print/export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2025-11" to="2026-07">Audited documents prior to print/export</resp>
+          <resp from="2025-11" to="2025-11">Checked and corrected bibliographic references</resp>
+          <resp from="2024-10" to="2026-08">Collated and entered corrections</resp>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2024-10" to="2025-12">Copyedited and proofread</resp>
+          <resp from="2026-07" to="2026-07">Encoded TEI</resp>
+          <resp from="2024-10" to="2025-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-12" to="2025-12">Entered corrections for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for XML export</resp>
+          <resp from="2024-10" to="2025-11">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-10" to="2024-12">Reviewed edition for content and scholarship</resp>
+          <resp from="2026-08" to="2026-08">Uploaded / Published digital edition</resp>
+          <resp from="2024-10" to="2025-11">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2026</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Texas</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Critten, Rory G.</editor>
+            <editor>Wiggins, Alison</editor>
+            <title>The Middle English Seven Sages of Rome</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2026</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/critten-sages/blob/main/critten-sages-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2026</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Critten-Sages-Export-13-Plot-Summary-App"/>
+      <div type="text">
+        <p style="heading">Prologue</p>
+        <p style="bodyfirst">The Middle English <hi rend="italic">Seven Sages</hi> opens with a
+          couplet announcing the beginning of the poem (<hi rend="bold">E</hi>1–2). The wife of the
+          emperor Diocletian dies shortly after giving birth to Diocletian’s son, Florentine (<hi
+            rend="bold">E</hi>3–14). When the child reaches the age of seven, Diocletian summons the
+          seven sages with a view to selecting one of them as his tutor (<hi rend="bold"
+          >E</hi>15–30). The sages audition for the role, promising to complete Florentine’s
+          education in longer or shorter periods of time (<hi rend="bold">E</hi>31–<hi rend="bold"
+            >A</hi>126). Having heard these speeches, Diocletian decides to employ all seven sages
+          to instruct his son and the sages depart for the Roman countryside, where they construct a
+          specially designed school on the banks of the Tiber (127–74). There Florentine is taught
+          Latin and the liberal arts; his teaching is intensive and successful: after seven years he
+          surpasses his masters (175–208).</p>
+        <p style="body">Meanwhile, Diocletian’s barons persuade him to take another wife, who, upon
+          discovering Florentine’s existence, plots to trap the son who will inherit Diocletian’s
+          wealth and power (209–54). Feigning an interest in getting to know her stepson, the
+          unnamed empress asks Diocletian to have Florentine come to Rome and Diocletian sends
+          messengers to the seven sages instructing them to deliver the boy to him (255–322). Before
+          responding to the request, the sages consult the heavens and discover that Florentine’s
+          return will result in disaster: if Florentine goes to court, he and they will be killed at
+          the first word he speaks. But Florentine sees a further sign in the stars. If he can keep
+          from speaking for seven days, his safety and that of the sages will be guaranteed;
+          Florentine will be able to secure this if each of the sages agrees to keep him safe for
+          one of the seven days of his silence (323–72). The sages agree; Florentine and the sages
+          entertain the emperor’s messengers; and the scene ends with Florentine in bed plotting to
+          overcome the empress (373–98).</p>
+        <p style="heading">Day 1</p>
+        <p style="bodyfirst">The next day Florentine is conducted to Rome and met by his father on
+          the road (399–418). The empress has him sent to her chambers, where she offers Florentine
+          her love: the emperor is old and impotent, she says, and she only married him to be allied
+          with Florentine (419–46). Florentine rejects his stepmother when she attempts to kiss him,
+          at which the empress becomes angry. She tears at her hair and scratches her face and, when
+          the emperor asks for an explanation, she accuses Florentine of attempting to rape her
+          (447–82). The emperor orders that his son be stripped, beaten, and hanged but his noblemen
+          intervene and Florentine is put in prison awaiting judgment the following day (483–506).
+          The empress is furious and proposes to reignite her husband’s anger towards his son with
+          the first of her tales (507–35).</p>
+        <p style="heading">Tale 1: <hi rend="italic">arbor</hi>, the tree. The empress.</p>
+        <p style="bodyfirst">A rich <hi rend="italic">burgeis</hi> (citizen) of Rome had a beautiful
+          garden behind his palace in the middle of which was a pine tree under which he liked to
+          sit (536–50). One day, on returning from a year-long business trip away from home, the <hi
+            rend="italic">burgeis</hi> noticed a little shoot springing from the root of the pine
+          tree (551–64). Having learned from his gardener that branches from the older tree were
+          blocking the shoot’s light and preventing it from growing taller, the <hi rend="italic"
+            >burgeis</hi> ordered the offending boughs to be cut off and the shoot flourished at the
+          expense of the tree (565–92). As the shoot thrived, the old tree became dry and gangly
+          until, one day, the <hi rend="italic">burgeis</hi> ordered the old tree to be cut down to
+          the ground (593–608). The empress tells the emperor that he is the tree and the shoot is
+          his son: his son will overtake him similarly unless the emperor attends to the situation
+          (609–22). The emperor vows that this will never be the case and resolves to put Florentine
+          to death the next day (623–28).</p>
+        <p style="heading">Day 2</p>
+        <p style="bodyfirst">When the emperor gets up, he commands that Florentine be brought up
+          from his prison and hanged (629–44). The first sage, Bancillas, rides in and greets the
+          emperor before asking him why he is determined to slay his own son (645–58). The emperor
+          upbraids the sage for teaching his son poorly; Bancillas questions the severity of the
+          empress’s accusation as well as its veracity; and the emperor replies that he requires no
+          further proof of his son’s guilt (659–78). Bancillas counsels against listening to
+          stepmothers’ tales and offers his own story of a knight and his greyhound, which he
+          proposes to tell if the emperor will agree to stay Florentine’s execution (679–92). The
+          emperor agrees; Florentine is led back down to prison; and the sage begins his tale
+          (693–700).</p>
+        <p style="heading">Tale 2: <hi rend="italic">canis</hi>, the dog. First sage, Bancillas</p>
+        <p style="bodyfirst">Tournaments were to be held in a meadow belonging to a knight of Rome
+          who had a beautiful wife, a treasured child, and a well-behaved greyhound (701–24). During
+          the jousts, the wife watched from a drawbridge and the nurses left their charge under a
+          wall (725–32). Hearing the noise from the fighting, a snake living in the wall poked its
+          head out, saw the unattended child, and pounced on it, but was prevented from killing the
+          child by the knight’s faithful dog (733–44). In the combat that ensued between the
+          animals, the infant’s cradle was overturned but the baby remained unharmed, and the snake
+          was killed (745–70). When the tournament was finished, the nurses found the upturned
+          cradle and the bloodied dog and assumed that the dog had killed the child; when their
+          mistress returned, they passed on this unhappy news (771–86). The mother threatened to
+          kill herself if her husband would not kill his dog and he complied with her wish, only to
+          discover shortly after the remains of the adder and the child hidden beneath the upturned
+          cradle (787–810). After announcing that his example should teach other husbands not to
+          take their wives’ counsel, the knight left for a forest exile where he intended to expiate
+          his misdeed (811–36). The sage prays that similar dishonor may befall the emperor if on
+          the advice of his wife he kills his son as the knight in the tale did his greyhound
+          (837–42).</p>
+        <p style="body">The emperor vows that this will not be the case and agrees to postpone
+          Florentine’s judgment until the next day (843–46). The court disbands, the sage departs,
+          and the emperor goes to his bedchamber, where he is met by the empress, who is angry
+          because he has ignored her advice (847–60). If he will not avenge her on Florentine, she
+          threatens that he risks suffering the same fate as did a certain boar who liked getting
+          scratched (861–62). The emperor asks to hear the story and the empress begins
+          (863–66).</p>
+        <p style="heading">Tale 3: <hi rend="italic">aper</hi>, the boar. The empress</p>
+        <p style="bodyfirst">Out west there was a forest in which there lived a fearsome boar who
+          every day ate the fruits of a hawthorn tree growing in a clearing there (867–78). A
+          herdsman also lived in the forest and while looking for an animal he had lost came upon
+          the hawthorn tree and gathered some of its fruits (879–87). The herdsman was met there by
+          the boar and, terrified, climbed up the hawthorn tree, which the boar proceeded to attack
+          (888–901). Despairing, the herdsman threw down the fruits that he had collected; the boar
+          ate them and was pacified (902–08). The herdsman climbed down the tree and, hanging from
+          one hand, started to scratch the boar (909–16). Once he had lulled the boar to sleep, he
+          pulled out his knife; stabbed it through the heart; and left the clearing (917–25). The
+          empress says that the emperor is the boar and that his sage is lulling him with wicked
+          tales while at the same time sharpening his teeth; like the herdsman, the sages will
+          deceive the emperor with their “scratching” until they finally kill him (926–32).</p>
+        <p style="body">The emperor replies that his will not happen because he will have his son
+          killed the next day; the empress thanks the emperor and prays that he might kill his son
+          before nightfall (933–40).</p>
+        <p style="heading">Day 3</p>
+        <p style="bodyfirst">The next day, the emperor arrives at court in a fit of anger and orders
+          the hanging of his son (941–52). The execution is interrupted by the arrival of the second
+          sage, Ancilles, whom the emperor rebukes for having mistaught his son (953–78). Ancilles
+          replies that the empress’s accusations should not be believed and proposes that, if he
+          kills his son on her account, the same fate will befall him as befell Ypocras, who falsely
+          slew his nephew (979–86). The emperor asks to hear the story and, when he has secured a
+          stay of execution for Florentine, the sage begins (987–1002).</p>
+        <p style="heading">Tale 4: <hi rend="italic">medicus</hi>, the doctor. Second sage,
+          Ancilles</p>
+        <p style="bodyfirst">Ypocras, a famous Roman doctor, noticed that his nephew, who was also
+          his apprentice, threatened to overtake him in learning, and stopped instructing him, but
+          the nephew learned anyway by secretly observing his uncle, much to Ypocras’s displeasure
+          (1003–18). When the king of Hungary sent for Ypocras to treat his ill son, Ypocras
+          dispatched his nephew in his stead (1019–32). Upon arrival, the nephew discovered from the
+          prince’s urine that the prince was the fruit of an adulterous liaison and, after some
+          persuasion, he extracted the truth of the matter from the queen (1033–80). The nephew
+          promised not to reveal the queen’s indiscretion; healed the son by giving him a diet of
+          beef and broth; and was lavishly rewarded by the king of Hungary (1081–90). When his
+          nephew returned successful, Ypocras plotted his demise: when they are out collecting herbs
+          together, Ypocras stabbed his nephew in the back, buried him as if he had died suddenly,
+          and burnt his books (1091–1118). As punishment for his misdeed, God sent Ypocras incurable
+          dysentery (1119–26). Ypocras gathered his neighbors and announced his imminent death with
+          a trick whereby he stopped a perforated barrel full of water from leaking (1127–44). He
+          could perform this miracle, Ypocras said, but he couldn’t cure himself; he deserved his
+          illness, he added: it was punishment for having killed his nephew, the one person who
+          might now be able to help him (1145–56). In his moral, Ancilles points out that Ypocras
+          gained nothing from killing his nephew and the sage prays that, if he kills his son and
+          his masters on the advice of the queen, the emperor might meet with a similar fate as did
+          the doctor in the tale (1157–68).</p>
+        <p style="body">After he has reconciled with the sage, the emperor goes to his chamber,
+          where he meets the empress, who accuses Florentine of colluding with the emperor’s barons
+          to exile her husband and take the kingdom for himself (1169–1202). If this is indeed the
+          case, she continues, she wishes the same fate upon the emperor as befell the father whose
+          son cast his head into a privy (1203–08). The emperor asks for the story, and, after
+          protesting that he does not like any of her tales, she begins (1209–18).</p>
+        <p style="heading">Tale 5: <hi rend="italic">gaza</hi>, the treasure. The empress</p>
+        <p style="bodyfirst">Octavian, a Roman emperor, acquired great wealth, which he stored in a
+          tower called Cressent (1219–26). Octavian left town, taking five of the seven sages that
+          he had with him and leaving two at home to keep the city; one was stingy, the other was a
+          spendthrift, and though the stingy sage was given the treasury to look after, his
+          spendthrift counterpart knew about it too (1227–42). Taking his son with him, the
+          spendthrift sage raided the treasury one night; when the stingy sage found out he said
+          nothing but made a trap in the tower, reasoning that the thieves would return (1243–72).
+          Once they had spent the treasure that they stole, the father and son returned to the
+          tower, but this time the father was caught in the trap that the stingy sage had set
+          (1273–79). To prevent his discovery and identification, and to protect his family, the
+          spendthrift sage ordered his son to behead him and the son, reluctantly, agreed
+          (1280–1302). The son then threw the head into a privy when he fled the scene (1303–08).
+          When the stingy sage found the headless body, he ordered that it should be dragged through
+          the town: when the spectacle reached the home of the thief’s family, he hoped, the family
+          would betray themselves with their grieving (1309–22). Sure enough, when the body was
+          dragged in front of the dead sage’s house, his family wept, so in order to prevent
+          detection, the son stabbed himself in the thigh (1323–32). When the stingy sage’s officers
+          asked why the family was mourning, the son showed his wound, and the officers are
+          satisfied (1333–38).</p>
+        <p style="body">Having concluded the tale, the empress asks the emperor whether it was not a
+          foul deed when the son threw his father’s head into the privy; he might have buried it
+          more privately, she suggests (1339–45). The emperor agrees and the empress says that a
+          similar fate awaits her husband unless he kills his son (1346–50). The emperor agrees to
+          kill Florentine the next day and the empress thanks him (1351–58).</p>
+        <p style="heading">Day 4</p>
+        <p style="bodyfirst">The next morning, the emperor returns to court determined to execute
+          his son, much to the distress of his people (1359–72). Preparations for the execution are
+          interrupted by the arrival of the third sage, Lentilioun (1373–76). The emperor upbraids
+          Lentilioun for miseducating his son and Lentilioun replies that if the emperor kills his
+          son without the assent of his barons, the same fate should befall him as befell the rich
+          man who was overcome by his wife (1377–90). The emperor wants to know how any woman might
+          beguile a man and, having secured a stay of execution, Lenitilioun begins his tale
+          (1391–1400).</p>
+        <p style="heading">Tale 6: <hi rend="italic">puteus</hi>, the well. Third sage,
+          Lentilioun</p>
+        <p style="bodyfirst">Disdaining his neighbor’s children, a citizen of Rome married a
+          beautiful but dishonest woman; her lover followed her to her new home and met with the
+          woman when the husband was asleep (1401–16). This was during the time that there was a
+          curfew at Rome, so that anyone who was found out at night was arrested and shamefully
+          driven through town in the morning (1417–23). The husband noticed that his wife was often
+          absent during the night and hatched a plan: he pretended to be drunk, waited until his
+          wife left, then bolted the door, and told her through a window that she had been caught
+          red handed and could look forward to having her misbehavior made public (1424–50). The
+          wife threatened to drown herself in the well before the house if her husband would not let
+          her back in and, when this failed to mollify him, she took a big stone; dropped it in the
+          well; then hid by the door (1451–62). Thinking that his wife had made good on her threat,
+          the man rushed out to look for her; meanwhile the wife reentered the house and bolted the
+          door (1463–70). The wife berated her husband from an upstairs window as he had berated her
+          and refused him reentry to the house (1471–84). When the watchmen came, they found the
+          husband and, suspecting what had happened, they asked the wife to readmit her husband
+          (1485–92). She refused; the husband was arrested; and the next day he was led through the
+          town in infamy (1493–1510).</p>
+        <p style="body">At the conclusion of his tale, the sage has the emperor confirm his
+          impression of the wife’s guile and warns him that his own wife is just as bad; if the
+          emperor kills his son on her advice, the sage hopes that a similarly awful fate will
+          befall him as befell the husband in the tale (1511–20). The emperor agrees not to follow
+          his wife’s advice that evening, and the sage departs amidst blessings for the service that
+          he has done for the prince (1521–26). At night, the emperor goes to his bedroom and is
+          greeted sourly by the empress, who predicts that the same end will befall them as befell a
+          lady, a steward, and a king who entered into an agreement together (1527–36). The emperor
+          wants to know what the agreement was and the empress begins the story, although she
+          wonders what the point can be in her tale-telling since the emperor is not inclined to
+          believe her (1537–48).</p>
+        <p style="heading">Tale 7: <hi rend="italic">senescalcus</hi>, the steward. The empress</p>
+        <p style="bodyfirst">A sodomitical king of Apulia and Calabria was rewarded for his youthful
+          dalliances with men by a divine punishment that took the form of an incapacitating
+          swelling in his limbs (1549–59). The king sent for a doctor, who saw in the man’s urine
+          that his disease was curable, placed a poultice under his rib, and prescribed a diet of
+          barley bread and boiled barley water; for the final stage of the king’s cure, the doctor
+          prescribed sex with a woman (1560–68). The king agreed and sent for his steward, whom he
+          ordered to bring him a woman to sleep with; when the steward objected that no women were
+          likely to be willing, the king said that the steward should offer twenty marks as a reward
+          (1569–80). The steward determined to win the reward for himself and, going to his wife,
+          ordered her to spend the night with the king, despite her protestations (1581–1600).</p>
+        <p style="body">At night, the steward introduced his wife to the king’s bedchamber and
+          withdrew, but found it difficult to sleep (1601–09). The next day, the steward rose to
+          find his wife still in the king’s arms and the king reluctant to let her go (1610–24). The
+          steward confessed his predicament to the king — that the woman that the king had been
+          sleeping with was his wife — and the king upbraided him for his deceit, banishing him from
+          his lands on pain of death (1625–40). The steward fled, never to return, and the king kept
+          the steward’s wife for two years before marrying her off with a big dowry to one of his
+          earls (1641–49). The empress concludes that, if he does not follow her advice, the emperor
+          is likely to be driven from his land as was the steward, adding that, like the wife in the
+          story, who was not duped, she will be able to find a new husband even if the emperor is
+          overthrown (1650–62). The emperor agrees to follow her advice (1663–66).</p>
+        <p style="heading">Day 5</p>
+        <p style="bodyfirst">The next day, the emperor rises, his court gathers, and the prince is
+          brought forth to be executed, much to the distress of Rome’s citizens (1667–76). The
+          fourth sage, Malquidras, arrives and is insulted by the emperor, who accuses him of
+          leading his son astray; in response, the sage criticizes the emperor for planning to kill
+          his son without the consent of his barons and wishes on him the same fate that the old
+          wise man had of his wife (1677–1704). The emperor assumes that the wife betrayed her
+          husband and, when Malquidras corrects him, requests to hear the tale (1705–08). After
+          securing the day-long postponement of the prince’s execution, the sage begins
+          (1709–16).</p>
+        <p style="heading">Tale 8: <hi rend="italic">tentamina</hi>, the tests. Fourth sage,
+          Malquidras</p>
+        <p style="bodyfirst">An old man who had already been married twice was persuaded by his
+          attendants to take a young wife but served her poorly (i.e., didn’t have sex with her)
+          (1717–36). Meeting her mother at church, the young wife complained that she must take a
+          lover; the mother attempted to dissuade her from taking this course of action but, when
+          her daughter insisted, she suggested a plan: the daughter should chop down the tree that
+          her husband loved best and tell him she had done it to warm his bones (1735–60). The
+          daughter executed her mother’s plan and upset her husband without bringing about the
+          desired improvement in her marital relations (1761–74). The daughter reported back to her
+          mother, again in church, and again insisted that she must have some loving (1775–81). This
+          time the mother suggested that her daughter should kill the husband’s favorite greyhound
+          (1782–96). The daughter executed the plan, again without exciting her husband’s desire,
+          and again reported back to her mother in church (1797–1817).</p>
+        <p style="body">This time, as well as attempting to dissuade her daughter from taking a
+          lover, the mother asked whom the daughter intended to love (1818–20). The daughter replied
+          that she wanted a priest because she could not trust a knight not to talk (1821–28). The
+          mother said she should not give up on exciting her husband’s love and suggested another
+          plan: at a banquet that the husband would host, the daughter should contrive to get her
+          keychain caught up in the tablecloth and, getting up from the table precipitously, ruin
+          the meal (1829–46). The daughter executed her mother’s plan but this time she was
+          punished: the next day, the husband sent for the barber and terrified his wife by having
+          her bleed three dishes full, one dish for each of her transgressions (1847–98). The
+          daughter sent for her mother, who reminded the daughter of her warnings and extracted from
+          her the promise that she had given up on finding a clerk or a knight to love (1899–1918).
+          Malquidras adds that if the young wife had taken a priest as a lover, things would have
+          turned out worse; he also compares the young wife’s antics with the lying of the empress,
+          which he encourages the emperor to reject (1919–32).</p>
+        <p style="body">The emperor postpones his son’s trial and at nightfall goes to his
+          bedchamber, where he meets his wife, who is weeping and wringing her hands (1933–40). When
+          the empress says that the emperor believes lies and deceit as did Cressus, the emperor
+          wants to hear the story, and the empress begins her tale (1941–54).</p>
+        <p style="heading">Tale 9: <hi rend="italic">Virgilius</hi>, Virgil. The empress</p>
+        <p style="bodyfirst">Virgil was a magician who made a miraculous fire in the middle of Rome
+          by which the poor used to warm themselves; next to it, he put a shining metal statue armed
+          with a crossbow (1955–68). On the forehead of the statue there was written a warning that
+          if anyone should shoot him, he would shoot back, and, when a Lombard tested the promise,
+          the statue shot into the magical fire and extinguished it forever (1969–81). The emperor
+          agrees with the empress that this was a poor outcome (1982–85).</p>
+        <p style="body">The empress continues, explaining that Virgil made three more statues: two
+          on the east and west gates tossed a golden ball between them and a third statue in the
+          middle of the city held a mirror in which the enemies of the city could be seen making
+          their preparations, allowing for their swift eradication (1986–2008). The king of Apulia
+          resented this strategic advantage, which always frustrated his attempts to attack the
+          city, so one day he gathered the wisest men of his land and promised to reward whoever
+          might destroy the statue (2009–20). Two clerks took up the challenge: first they had
+          chests of treasure buried under the east and west gates, then they turned up in Rome
+          promising to reveal the location of hidden treasures to the emperor, Cressus, provided
+          that he would share half whatever they find with them (2021–44). Cressus, who had lost all
+          his money, agreed, and the two clerks departed for the night, claiming that they would
+          discover the location of the treasure in their dreams (2045–56).</p>
+        <p style="body">The next day, the clerks led the emperor to discover the treasure that they
+          had planted at the east and west gates and the older clerk promised to recover even
+          greater treasures after again consulting his dreams (2057–78). On their third day in the
+          city, the clerks told the emperor that more treasure was buried under the statue holding
+          the mirror and, while he was reluctant to risk the statue, Cressus agreed to let them mine
+          beneath it (2079–96). The clerks destroyed the statue’s foundations and, at night, set it
+          alight, causing its collapse (2097–2116). The clerks fled and, when Cressus’s mistake was
+          spotted, the poor people of Rome seized, bound, and killed him: his mouth, nose, ears, and
+          eye sockets were filled with molten gold as a reward for his greed (2117–37). The empress
+          concludes that unless the emperor stops believing the flattering words of his own sages,
+          the emperor will end up like Cressus and his son will be installed in his place; the
+          emperor replies that he will prevent this by ordering his son’s destruction the following
+          morning and the empress is pleased with his response (2138–54).</p>
+        <p style="heading">Day 6</p>
+        <p style="bodyfirst">The next day, the emperor gets up and has his son fetched out of
+          prison; meanwhile, Cato, the fifth sage, arrives at court and is encouraged by the people
+          of Rome to work to save his pupil (2155–65). Cato responds to the emperor’s accusations
+          that he has misled his son with the wish that, if the emperor continues to believe the
+          empress, the same fate might befall him as befell a burgess on account of his magpie
+          (2166–82). The emperor wants to hear the story and, after securing the prince’s life for
+          the day, Cato agrees to tell it (2183–92).</p>
+        <p style="heading">Tale 10: <hi rend="italic">avis</hi>, the bird. Fifth sage, Catoun</p>
+        <p style="bodyfirst">A rich citizen of Rome, a merchant, had an adulterous wife and a
+          beloved magpie that reported on her lovers’ comings and goings in French (2193–2210). One
+          day when the merchant was away, the wife welcomed a lover to her home and the magpie
+          threatened to reveal her infidelity to her husband (2211–25). In response, the wife
+          executed a plan with her maid: together they took a couple of tiles off the roof and from
+          above they harassed the magpie by flashing a candle, banging a bowl, and pouring water on
+          its head (2226–38). The next day, the merchant returned, the lover departed, and the
+          magpie told the merchant that the previous night a visitor had made a whore of the lady of
+          the house during a terrible storm (2239–54).</p>
+        <p style="body">The wife defended herself by saying that the bird must be lying because the
+          weather the night before had been fair; indeed, the wife wants revenge on the magpie for
+          slandering her (2255–64). Upon learning from his neighbors that there was no storm the
+          night before, the merchant broke the magpie’s neck, but immediately regretted his action:
+          he saw that the bird’s cage was wet and spotted further evidence of the wife’s trick
+          (2265–82). The merchant then took a good staff and hammered on his wife’s door and cursed
+          her to the devil (2283–88). Cato concludes that if the merchant had taken better advice
+          the magpie would still be alive; likewise, the emperor should not follow the empress’s
+          advice (2289–2302). The emperor agrees and postpones the judgment of his son
+          (2303–10).</p>
+        <p style="body">Night falls and the emperor goes to his bedchamber, where he meets his wife,
+          who is displeased (2311–14). When she is asked the cause of her anger, she replies that
+          the seven sages will cause him to destroy himself by making him love his enemy: this is
+          why she wishes to leave him, and if he continues along this path, she hopes that the same
+          fate will befall him as befell Herod the king, who marvelously lost his sight (2315–24).
+          The emperor wants to hear the story and the empress begins (2325–28).</p>
+        <p style="heading">Tale 11: <hi rend="italic">vii sapientes</hi>, the seven wise men. The
+          empress</p>
+        <p style="bodyfirst">A Roman emperor, Herod, had seven wise men whose counsel he followed in
+          all things (2329–36). One of the customs that the wise men established is that anyone who
+          had a dream must come to them to have it interpreted and pay one gold coin in return; as a
+          result, the wise men had become richer than the emperor himself (2337–44). One day when
+          the emperor wanted to leave Rome, he became blind at the city gates (2345–49). He sent for
+          his wise men to ask them the cause of his affliction and they secured a fortnight’s
+          reprieve in which to find an answer (2350–57). The wise men were unable to find the
+          required information in their books so resorted to seeking the help of an old man, who
+          told them that the only person who could aid them would be a fatherless child
+          (2358–76).</p>
+        <p style="body">The wise men set out to look for this child and, one day, happened upon
+          Merlin who was bickering with his companions; Merlin broke off, saying that he was about
+          to help the seven wise men visiting him from Rome (2377–90). At the same time, a man
+          appeared with a gold coin in his hand seeking an interpretation for his dream; Merlin told
+          him he could keep the coin and went on to describe his dream and its significance: the man
+          had dreamed that out of his dunghill there sprang a pleasant fountain serving both him and
+          his neighbor, which meant that the dreamer should dig up his dunghill, where he would find
+          treasure (2391–2408). The dreamer followed Merlin’s instructions, found his treasure, and
+          shared it with the sages and his neighbor; Merlin would accept no reward (2409–16).</p>
+        <p style="body">On the road to Rome, the wise men asked Merlin whether he would be able to
+          explain the emperor’s blindness (2417–22). Merlin said that he was confident that this was
+          the case and, on the day that they were appointed to report to the emperor, the sages
+          presented the boy at court and vouched for his reliability (2423–40). Once he had secured
+          a private audience with the emperor, Merlin proceeded to tell him the root of his trouble:
+          deep in the ground under his bed there was a cauldron boiling with seven bubbles and these
+          bubbles blinded him; if he wanted to see again, the bubbles must be extinguished
+          (2441–56). The emperor had his men dig under his bed, discovered the cauldron, and asked
+          Merlin what the bubbles meant (2457–70). After the room had again been cleared, Merlin
+          explained that the seven bubbles stood for the seven wise men, who had established a new
+          tradition whereby everyone who had a dream had to have it interpreted by them; although
+          the sages gave whatever interpretation they liked, they still required a payment of one
+          gold coin: this injustice was the reason for the emperor’s blindness (2471–92).</p>
+        <p style="body">When the emperor asked Merlin how he should remedy his situation, Merlin
+          invited him to test his answer: he should cut off the head of the oldest of the sages;
+          this would extinguish one of the bubbles (2493–2500). The emperor followed the child’s
+          suggestion, the bubble was extinguished, and so the remaining sages were likewise killed;
+          the water became calm and the emperor took over the rule of his lands himself
+          (2501–10).</p>
+        <p style="body">The empress concludes with her moral: the seven sages have blinded the
+          emperor; if he continues to follow their advice, she hopes that he will become blind like
+          Herod, who narrowly escaped a terrible fate (2511–18). The emperor replies that she need
+          not worry because he has little regard for his sages; the empress agrees, repeating her
+          point about their intention to betray him (2519–25).</p>
+        <p style="heading">Day 7</p>
+        <p style="bodyfirst">The next day, the emperor is accosted in his hall by the sixth sage,
+          who tells the emperor that he is foolish to believe his wife and threatens him that, if he
+          kills his son, a fate will befall him like that which befell a certain Roman sheriff: he
+          hurt his wife with a knife and she died (2526–40). The emperor wants to hear the tale and,
+          when he has secured the prince’s safety for the day, the sage proceeds with his story
+          (2641–52).</p>
+        <p style="heading">Tale 12: <hi rend="italic">vidua</hi>, the widow. Sixth sage, Gesse</p>
+        <p style="bodyfirst">A rich sheriff had a wife whom he loved and who loved him in return
+          (2553–58). One day, the couple was playing with a knife that they had been given and the
+          sheriff stabbed his wife in the belly; the husband so regretted his mistake that he died
+          of grief, prompting the sage to reflect that he was either a fool or too tender-hearted
+          (2559–66). The man was buried and the wife was distraught; despite the advice and
+          comforting of her friends, she threw herself on his grave and hoped for an imminent death
+          (2567–91). Her friends built her a little lodge over the tomb and left her there
+          (2592–98).</p>
+        <p style="body">The same day, three thieves had been taken and hanged in the graveyard and a
+          knight had been appointed to watch over their corpses for three nights (2599–2608). That
+          night, the knight spotted the widow’s lodge and went towards it, hoping to warm himself
+          up; he found the mourning widow and begged her to let him in (2609–19). After initially
+          refusing him entry, the widow let the knight in and they talked; he counseled her against
+          excessive mourning and encouraged her to find another lover, all to no avail (2620–38).
+          Remembering his task, the knight then returned to the gallows to find that one of the
+          corpses had been stolen and he worried that he would lose his livelihood (2639–46).
+          Thinking that women give good advice, he returned to the lodge, where the wife agreed to
+          help the knight if he would marry her (2647–54).</p>
+        <p style="body">After the knight agreed to her bargain, the widow said that they should dig
+          up her husband and hang him in place of the missing thief; the knight acquiesced but
+          balked at the idea of hanging a fellow knight, so the widow hoisted up her husband’s body
+          on the gallows herself (2655–75). The knight was horrified by the woman’s actions but
+          finally more concerned by the possibility that their subterfuge would be detected: he
+          pointed out that the missing thief had a head wound by which he was recognized everywhere;
+          the widow told him he should make one similar on the corpse; the knight refused; and so
+          the widow herself made the cut with the knight’s sword (2676–96).</p>
+        <p style="body">The knight understood that the widow was false but continued to turn her
+          willingness to his advantage: he mentioned that the front teeth of the missing man were
+          broken; the widow replied that the knight should break the corpse’s teeth; the knight
+          refused, and so the widow took a stone and did them in herself (2697–2704). The widow
+          expected to have earned the knight’s love through these actions, but he rejected her
+          saying that she would treat him just as she had treated her former husband; indeed, she
+          taught him to avoid women altogether: where they seem fairest they are at their most
+          deceptive (2705–16).</p>
+        <p style="body">The sage concludes with the wish that the same fate might befall the emperor
+          as did the sheriff because the empress has made the emperor want to kill his son; if he
+          can wait until the next day, all the sorrow will be hers when the emperor hears his son
+          speak (2717–24). The emperor agrees; the court retires; and the emperor goes to his
+          quarters, where he finds the empress looking angry, although his own men rejoice
+          (2725–32). When the empress offers to tell a story about a feast for fools, the emperor
+          agrees (2733–40).</p>
+        <p style="heading">Tale 13: <hi rend="italic">Roma</hi>, Rome. The empress</p>
+        <p style="bodyfirst">Rome was besieged by forces intent upon destroying Peter’s see and
+          killing Christians (2741–48). Following an old custom, the protection of the city had been
+          entrusted to seven sages, who had kept it safe for a month (2749–56). After this time,
+          however, their position weakened, and they were forced to resort to special measures
+          (2757–60). Gemes, one of the seven wise men, had a special costume made — it was as black
+          as ink, had more than a thousand squirrels’ tails attached to it, and came with a mask
+          having two terrifying faces painted on it with a bright red tongue — and summoned the
+          sultans besieging the city to battle (2761–<hi rend="bold">E</hi>2791). The sultans agreed
+          and the next day, the sage climbed up into a tower at Rome called Crassus, and,
+          positioning himself in front of a mirror there, proceeded to play fight with two swords
+          and to make a frighteningly loud noise (<hi rend="bold">E</hi>2792–2805). The sultans’ men
+          were terrified and, when the Roman troops ran out of the city to fight them, the besiegers
+          were slaughtered in great numbers (<hi rend="bold">E</hi>2806–15).</p>
+        <p style="body">The empress says that Junyus (<hi rend="bold">E</hi>’s name for <hi
+            rend="bold">A</hi>’s Gemes) did this on the first day of January and that the emperor’s
+          sages will betray him likewise (<hi rend="bold">E</hi>2816–25). The emperor promises to
+          kill his son and orders him to be brought out for execution (<hi rend="bold"
+          >E</hi>2826–31). While Florentine is being led through the town, the next sage arrives and
+          upbraids the emperor: the emperor keeps changing his mind about whether or not he will
+          kill his son; if he can wait until the next day he will want to keep him, otherwise he is
+          giving too much credence to his wife’s tales and he will meet the same end as did a
+          certain earl from a faraway land (<hi rend="bold">E</hi>2832–49). The emperor wants to
+          hear the story and the sage agrees, provided that the prince is kept safe for the day: the
+          next day, the son will speak for himself and the emperor will clearly see who is in the
+          wrong, his son or his wife (<hi rend="bold">E</hi>2850–59). The emperor acquiesces, adding
+          that whoever is found to be in the wrong will be put to death, and the sage begins a tale
+          to the detriment of the empress (<hi rend="bold">E</hi>2960–69).</p>
+        <p style="heading">Tale 14: <hi rend="italic">inclusa</hi>, the recluse. Seventh sage,
+          Maxencyon</p>
+        <p style="bodyfirst">Once in the kingdom of Hungary, a knight had a dream that he loved a
+          lady; he did not know where she might be but he knew that if he could lay eyes on her he
+          would recognize her (<hi rend="bold">E</hi>2870–79). The lady had the same dream (<hi
+            rend="bold">E</hi>2880–85). The knight went in search of the lady and after three months
+          arrived in Apulia at the castle of an earl (<hi rend="bold">E</hi>2886–95). The earl had a
+          noble wife whom he loved very much and jealously kept locked up in a tower; at this time,
+          he was at war with another earl (<hi rend="bold">E</hi>2896–2905).</p>
+        <p style="body">When the knight approached the earl’s tower, he saw his lady and began to
+          sing and lark around; she recognized him but did not dare to call out to him because her
+          husband was sitting below (<hi rend="bold">E</hi>2906–19). The knight greeted the earl and
+          presented himself as a man who had had to flee his homeland because he had killed another
+          knight; the earl returned the knight’s greeting, enlisted him in his struggle against the
+          other earl and, with the knight’s help, defeated his enemy (<hi rend="bold"
+          >E</hi>2920–34). As a reward, the earl made the knight his steward (<hi rend="bold"
+          >E</hi>2935–37). One day, the knight was amusing himself around the lady’s tower and she
+          threw down a letter to him that persuaded him that he must see her by any means (<hi
+            rend="bold">E</hi>2938–49).</p>
+        <p style="body">Having obtained permission from the earl, the knight had a house built next
+          to the lady’s tower and, with the help of a skilled mason, had a secret passage built
+          between the two buildings; once the tower was built, the knight killed the mason (<hi
+            rend="bold">E</hi>2950–83). On his first visit to the lady, she greeted him fairly and
+          gave him a gold ring (<hi rend="bold">E</hi>2984–98). When the knight went for dinner with
+          the earl wearing his present, the earl noticed the ring as a gift that he had given his
+          wife (<hi rend="bold">E</hi>2999–3011). The earl planned to visit his wife to check that
+          she still had the ring, but the knight got there before him and returned the jewel to her
+            (<hi rend="bold">E</hi>3012–17). When the earl greeted his wife, she answered him
+          defiantly and showed him the object that he sought; he spent the night with her and was
+          fooled (<hi rend="bold">E</hi>3018–37).</p>
+        <p style="body">The next day the earl invited the knight to go hunting with him but the
+          knight declined: he had received news that he was welcome to return to his homeland,
+          because a pardon had been arranged for his killing of the other knight; his own lady had
+          come to tell him the news (<hi rend="bold">E</hi>3038–51). The knight invited the earl to
+          dine with them the next day and the earl promised to visit them after his hunt whenever he
+          was summoned (<hi rend="bold">E</hi>3052–61). While the earl was out hunting, the knight
+          decorated his home, brought over his lover, dressed her in a rich robe from his own
+          country, decked her with rings, and disguised her with veils and headdresses (<hi
+            rend="bold">E</hi>3062–83). When the earl arrived, he was greeted by the knight and his
+          own wife and, although he was confident that his tower was impregnable, he was fascinated
+          by the similarity between the knight’s lady and his own: many women look alike, he
+          reasoned, just as the gold ring he gave his wife had (he supposed) its double in the
+          knight’s ring (<hi rend="bold">E</hi>3084–3115). The knight explained that his lady had
+          come to visit him from their country and said that he wished to return to see his friends
+            (<hi rend="bold">E</hi>3116–25). After dinner, the earl dashed to the tower to see his
+          wife, but the knight got her changed back into her own clothes and she returned to her
+          place before the earl arrived; the earl was pleased to see his wife and had his way with
+          her for what would be the last time (<hi rend="bold">E</hi>3126–46).</p>
+        <p style="body">Next the knight hired a ship and, when the earl was out at mass, dressed his
+          lady finely (<hi rend="bold">E</hi>3147–61). When the earl returned, the knight asked the
+          earl’s permission to marry his lover and at church the earl gave his wife to the knight in
+          marriage (<hi rend="bold">E</hi>3162–79). After the ceremony, the earl saw the couple off
+          as they boarded the ship that the knight had chartered; the sage adds that whoever gives
+          his pleasures away deserves to lose them (<hi rend="bold">E</hi>3180–99). When he returned
+          home to his tower, the earl was distraught and became a figure of scorn amongst men (<hi
+            rend="bold">E</hi>3200–11). The sage concludes that the emperor will likewise be
+          deceived by his own wife, whose tales he believes over the evidence of his own two eyes;
+          tomorrow he will learn the whole truth of the matter (<hi rend="bold">E</hi>3212–21). The
+          emperor expresses his eagerness to learn the truth and promises to kill whoever is in the
+          wrong (<hi rend="bold">E</hi>3222–27). The sage announces that the son will reveal the
+          empress’s desire to kill him and the empress sorrows at the prospect of the son recovering
+          his speech (<hi rend="bold">E</hi>3228–35).</p>
+        <p style="heading">Day 8</p>
+        <p style="bodyfirst">The next day, the emperor and his lords and ladies go to hear mass;
+          many people have gathered to hear the prince speak, including the sages (<hi rend="bold"
+            >E</hi>3236–47). Once the mass is over, Florentine is dressed in fine apparel and
+          brought forth by two of his masters, who set him before his father (<hi rend="bold"
+          >E</hi>3248–53). Silence falls and the prince begins to speak: he tells his father that he
+          would have been wrong to kill him and that he has not previously spoken because he and his
+          masters saw in the moon that speaking at court sooner would have plunged him into distress
+          and cost his masters their lives (<hi rend="bold">E</hi>3254–69). The prince wonders, too,
+          that his father was ready to treat him as a man of wicked blood treated his son, whom he
+          cast into the sea for saying that one day he would be greater than him (<hi rend="bold"
+            >E</hi>3270–75). The emperor wants to hear the story and the son agrees to tell it (<hi
+            rend="bold">E</hi>3276–83).</p>
+        <p style="heading">Tale 15: <hi rend="italic">vaticinium</hi>, the prophecy. The prince</p>
+        <p style="bodyfirst">One day, a powerful Roman was out sailing with his fifteen-year-old son
+          when two ravens alighted on the prow of their boat and began to crow (<hi rend="bold"
+            >E</hi>3284–92). The father wondered what the crowing might mean and the son interpreted
+          it: they were saying that one day the son would be such a rich man that, when his hands
+          were being washed, his father would be content to hold the basin and his mother the towel
+            (<hi rend="bold">E</hi>3293–3307). The father was angered by his son’s words and tossed
+          him overboard (<hi rend="bold">E</hi>3308–13). By the grace of God, the child washed up on
+          an island where he spent four days without food and drink and where he was comforted by
+          birds who told him that Christ would soon answer his prayers for help (<hi rend="bold"
+            >E</hi>3314–25). After this, he was picked up by a fisherman who took him to a castle
+          thirty miles away and sold him to the constable there for twenty pounds; the constable
+          loved the child (<hi rend="bold">E</hi>3326–37).</p>
+        <p style="body">In the same country, there was a king who was plagued by ravens that would
+          not cease calling after him and, when this king summoned the wisest man in the land to
+          interpret their behavior, the child resolved to go to court to hear his will (<hi
+            rend="bold">E</hi>3338–51). Although the king promised his daughter in marriage and half
+          his lands to anyone who could explain the mystery of the crows’ calling, none of his lords
+          had an answer (<hi rend="bold">E</hi>3352–65). After asking the constable of the castle to
+          check that the king was serious about his promise, the child delivered his interpretation:
+          the raven that stood apart from the others was the female; of the other two, the larger
+          that one cried out at the smaller one had been the female raven’s companion for thirty
+          years (<hi rend="bold">E</hi>3366–91). The big raven had left the female in a famine year
+          and was replaced by the smaller raven, who in his cawing said that he would not leave her
+          until the king judged which of the ravens should have the female; after receiving his
+          judgment they would cease their calling and fly away (<hi rend="bold">E</hi>3392–3407).
+          With the accordance of his barons, the king judged that the raven that kept the female in
+          the famine year should have her henceforth (<hi rend="bold">E</hi>3408–17). The big raven
+          made a doleful cry then flew away, and the other two ravens were left to each other (<hi
+            rend="bold">E</hi>3418–25).</p>
+        <p style="body">The king gave the child his daughter and half his lands and, a short time
+          later, died; the child was crowned king (<hi rend="bold">E</hi>3426–33). The child’s birth
+          father and mother knew nothing of these developments; in the meantime, they had fallen
+          into poverty and fled to their son’s kingdom, where they were discovered by their son, who
+          sent word by his messengers that he would visit them (<hi rend="bold">E</hi>3434–55). The
+          father regretted that he could not receive the king as he would like but said that he was
+          welcome to visit, and the next day their son arrived (<hi rend="bold">E</hi>3456–67). On
+          meeting the king, the father and mother brought a basin to wash his hands and the towel to
+          dry them, but the son refused their ministrations and announced the fulfilment of the
+          prophecy that he had made all those years before; the father fears for his life (<hi
+            rend="bold">E</hi>3468–85).</p>
+        <p style="body">The prince concludes that the emperor wanted to treat him similarly, despite
+          the fact that he was as guiltless as the child in the story (<hi rend="bold"
+          >E</hi>3486–93). Just as the child in the story was thrown into the sea, so his father
+          threw him into prison on his return to Rome from his school (<hi rend="bold"
+          >E</hi>3494–97). He says that he would rather be hanged than harm his own father; when he
+          came home, the empress took him into her chamber, asked him to lie with her and, when he
+          refused, tore her clothes to pieces to make it look as if he had forced her, but he would
+          rather have died than to do so (<hi rend="bold">E</hi>3498–3513).</p>
+        <p style="heading">Conclusion</p>
+        <p style="bodyfirst">The empress admits that the prince is telling the truth and says that
+          her husband should do with her what he wishes; she adds that she acted out of fear that
+          the prince would destroy her and steal the empire from her (<hi rend="bold"
+          >E</hi>3514–25). The empress is killed in the manner she had ordained for Florentine, by
+          burning (<hi rend="bold">E</hi>3526–47). Florentine respects his father during his
+          father’s life and, on his death, builds an abbey to house his tomb (<hi rend="bold"
+          >E</hi>3548–57). The prince then becomes emperor and rules with great honor (<hi
+            rend="bold">E</hi>3558–65). The poem concludes with a repetition of the story matter: we
+          have heard of Diocletian and his false wife, of how Diocletian’s son was brought out of
+          difficulty, and of how the sages saved him through their wisdom; now the sages are dead
+            (<hi rend="bold">E</hi>3566–74). A closing prayer asks that the poem’s audience might
+          have communion and confession before death; there is also a blessing in the name of the
+          Virgin Mary (<hi rend="bold">E</hi>3575–79).</p>
+      </div>
+    </body>
+  </text>
+</TEI>

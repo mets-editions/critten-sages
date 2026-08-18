@@ -1,0 +1,1934 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Critten-Sages-Export-03-Intro-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Introduction</title>
+        <author>Critten, Rory G.</author>
+        <author>Wiggins, Alison</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Anderson, Nick</persName>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2026-06" to="2026-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2026-06" to="2026-07">Entered corrections for digital edition</resp>
+          <resp from="2026-06" to="2026-06">Entered corrections for print edition</resp>
+          <resp from="2026-06" to="2026-06">Formatted for print edition</resp>
+          <resp from="2026-06" to="2026-07">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2025-09" to="2025-10">Checked and corrected bibliographic references</resp>
+          <resp from="2025-09" to="2025-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-09" to="2025-10">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2024-09" to="2024-10">Copyedited and proofread</resp>
+          <resp from="2024-09" to="2024-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for content and scholarship</resp>
+          <resp from="2024-09" to="2024-10">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2025-08" to="2025-10">Checked and corrected bibliographic references</resp>
+          <resp from="2026-07" to="2026-07">Collected metadata</resp>
+          <resp from="2025-08" to="2025-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-08" to="2025-10">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2025-12" to="2026-01">Audited documents prior to print/export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2025-11" to="2026-07">Audited documents prior to print/export</resp>
+          <resp from="2025-10" to="2025-11">Checked and corrected bibliographic references</resp>
+          <resp from="2024-10" to="2026-08">Collated and entered corrections</resp>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2024-10" to="2025-12">Copyedited and proofread</resp>
+          <resp from="2026-07" to="2026-07">Encoded TEI</resp>
+          <resp from="2024-10" to="2025-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-10" to="2025-12">Entered corrections for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for XML export</resp>
+          <resp from="2024-10" to="2025-11">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-10" to="2024-12">Reviewed edition for content and scholarship</resp>
+          <resp from="2026-08" to="2026-08">Uploaded / Published digital edition</resp>
+          <resp from="2024-10" to="2025-11">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2026</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Texas</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Critten, Rory G.</editor>
+            <editor>Wiggins, Alison</editor>
+            <title>The Middle English Seven Sages of Rome</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2026</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/critten-sages/blob/main/critten-sages-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2026</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Critten-Sages-Export-03-Intro"/>
+      <div type="text">
+        <p style="bodyfirst" n="1">The wife of the Roman emperor Diocletian gives birth to a son,
+          Florentine, and dies shortly after. When Florentine is seven, Diocletian gives the boy to
+          the seven sages of Rome, who take him to a school outside the city, where they teach him
+          for seven years. In the meantime, Diocletian remarries. Although Florentine’s stay outside
+          Rome is kept secret, the new empress soon discovers the boy’s existence and plots his
+          destruction. The empress organizes Florentine’s return to Rome, whereupon she offers him
+          her love and, when she is rejected, simulates an attempted rape. Florentine cannot defend
+          himself against the empress’s accusations because he has seen in the stars that if he
+          speaks before the eighth day after his return to Rome both he and the sages will be lost;
+          only the intervention of Diocletian’s lords secures the postponement of his judgment for a
+          day. That night, the empress tells a story that reignites the emperor’s ire but the next
+          morning a further stay of execution is procured by one of the sages, who tells a story
+          that changes the emperor’s mind. So begins a week-long exchange of tales between the
+          empress and the sages, who speak for Florentine. On the eighth day after his arrival in
+          Rome, Florentine tells his own story and denounces his stepmother, who is burnt on the
+          pyre that she meant for him.</p>
+        <p style="body" n="1">This, in brief, is the story told in the Middle English <hi
+            rend="italic">Seven Sages of Rome</hi>.<note target="#1" type="footnotelink">1</note>
+          The poem belongs to a long tradition of storytelling linking medieval England to the
+          continent and Asia; its popularity in England and elsewhere in the Middle Ages contrasts
+          with its relative neglect in anglophone scholarship. We attribute this neglect in part to
+          the absence of a good teaching text of the Middle English <hi rend="italic">Seven
+            Sages</hi> and we aim to remedy this lack with the present METS edition of the
+          Auchinleck copy of the poem. At the same time, with the apparatus that we provide, we hope
+          to highlight the interest that the <hi rend="italic">Seven Sages</hi> holds for a broad
+          constituency of medievalists. In particular, the text is a rich source of evidence for
+          anyone working on the histories of east-to-west cultural transfer, the exemplum and
+          exemplary writing, and misogyny. The impressive transmission history of the <hi
+            rend="italic">Seven Sages</hi> makes possible comparative approaches to these topics
+          that consider, for example, the ways in which attitudes towards women in fiction might
+          change over time and from place to place. With a view to facilitating enquiries of this
+          kind, our Explanatory Notes record plot variations across different languages and versions
+          of the <hi rend="italic">Seven Sages</hi> as well as between the extant Middle English
+          texts of the poem.</p>
+        <p style="body" n="2">This Introduction describes first the origins and transmission of the
+            <hi rend="italic">Seven Sages of Rome</hi> and next the Middle English texts of the poem
+          and the manuscripts in which they survive; we also give our reasons for choosing to edit
+          the Auchinleck text. We then discuss the reception of the <hi rend="italic">Seven
+            Sages</hi> in scholarship; offer a reading of one of the poem’s inset tales; and advance
+          an approach to the text’s misogyny. Notwithstanding the judicial context in which the
+          inset tales are couched, we contend that they are best read as a commentary on their given
+          purposes rather than as an illustration of them. The text’s equivocal presentation of its
+          arguments extends to the misogyny of its frame. We propose that the <hi rend="italic"
+            >Seven Sages</hi> makes patent the contradictions at the heart of misogynist rhetoric
+          and that at key moments the collection generates sympathy for the women whose lives it
+          depicts.</p>
+        <p style="heading" n="1">Origins and transmission</p>
+        <p style="bodyfirst" n="2">The roots of the <hi rend="italic">Seven Sages of Rome</hi> can
+          be traced back to western and south Asian story-telling traditions. The text takes its
+          frame narrative and four of its tales from the <hi rend="italic">Book of Sindbad</hi>, a
+          work surviving in ten versions whose earliest, now lost, redaction is thought to have
+          originated in Persia at the end of the eighth century CE.<note target="#2"
+            type="footnotelink">2</note> Over the following centuries, this putative Middle Persian
+          original was translated into later forms of Persian and into Arabic, and from Arabic into
+          Syriac, Greek, Spanish, and Hebrew. The dating of these versions is difficult to
+          determine. Many of the surviving manuscripts of the <hi rend="italic">Book of Sindbad</hi>
+          postdate the composition of the versions that they transmit, often by a significant
+          margin, and the extant texts have paratextual materials referring back to precedent texts
+          that are now lost. The most recent work on the transmission of the <hi rend="italic">Book
+            of Sindbad</hi> argues that the Arabic version preserved as part of the <hi
+            rend="italic">One Hundred and One Nights</hi> is the closest analogue to the Middle
+          Persian composition standing at the root of the tradition.<note target="#3"
+            type="footnotelink">3</note></p>
+        <p style="body" n="3">In Table 1 we list the extant texts of the <hi rend="italic">Book of
+            Sindbad</hi> and give the translations of these works that we refer to in this edition.
+          Versions thought to have been composed earlier are listed towards the top of the table
+          with texts thought to have been composed later towards the bottom. We draw this rough
+          chronology from Bettina Krönung, “Fighting with Tales 1.”</p>
+        <p style="heading4">Table 1: Texts and Translations of the <hi rend="italic">Book of
+            Sindbad</hi></p>
+        <table style="basictable">
+
+
+
+
+
+          <row role="label">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">Siglum</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">Language</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">Title and Translation Used
+                (1)</hi></p>
+            </cell>
+          </row>
+
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">SindA101</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Arabic</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">“Story of the Prince and the Seven Viziers”</p>
+              <p style="horizontal-left">in <hi rend="italic">A One Hundred and One Nights</hi>, ed.
+                and trans. Fudge, pp. 216–81.</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">SindA</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Arabic</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">The Seven Viziers</hi></p>
+              <p style="horizontal-left">in Istanbul, Şehid Ali Paşa Library, MS 2743 (2).</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">SindA1001</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Arabic</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">“The King and His Seven Viziers”</p>
+              <p style="horizontal-left">in <hi rend="italic">The Arabian Nights</hi>, trans. Lyons,
+                2:546–610.</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">SindSyr</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Syriac</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">“The History of Sindban and the Seven Wise Masters”</p>
+              <p style="horizontal-left">trans. Gollancz.</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">SindGr</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Greek</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">The Byzantine Sinbad</hi></p>
+              <p style="horizontal-left">by Michael Andreopoulos, trans. Beneker and Gibson.</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">SindP1</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Persian</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">Le Livre des sept vizirs</hi> by</p>
+              <p style="horizontal-left">Zahiri of Samarqand, trans. Bogdanović (3).</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">SindSp</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Spanish</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">The Book of the Wiles of Women</hi></p>
+              <p style="horizontal-left">trans. Keller.</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">SindHeb</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Hebrew</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">Tales of Sendebar</hi></p>
+              <p style="horizontal-left">ed. and trans. Epstein.</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">SindP2</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Persian</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">“The Book of Sindibād”</p>
+              <p style="horizontal-left">extracted in <hi rend="italic">The Book of Sindibād</hi>,
+                ed. Clouston, pp. 3–121 (4).</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">SindP3</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Persian</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">“Story of the Prince, the Seven Viziers, and [. . .] His
+                Father’s Handmaiden” in Nakhshabi, <hi rend="italic">The Cleveland Museum of Art’s
+                </hi><hi rend="italic"><hi rend="diacritic">Ṭ</hi>ū<hi rend="diacritic"
+                    >ṭ</hi></hi><hi rend="italic">ī-nāma</hi>,</p>
+              <p style="horizontal-left">ed. and trans. Simsar, pp. 55–68.</p>
+            </cell>
+          </row>
+
+        </table>
+        <p style="heading4">Notes on the Table:</p>
+        <list rend="nobullets">
+          <item style="indent1">(1) For references to editions of these texts in their original
+            languages, see Krönung, “Fighting with Tales 1.”</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">(2) There is no translation of <hi rend="bold">SindA</hi> into a
+            language that we can read.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">(3) We know of no English translation of <hi rend="bold"
+            >SindP1</hi>.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">(4) <hi rend="italic">The Book of Sindibād</hi>, ed. Clouston,
+            provides a partial account of <hi rend="bold">SindP2</hi> rather than a full
+            translation.</item>
+        </list>
+        <p style="bodysubsection" n="1">It is via one or more of these versions that the <hi
+            rend="italic">Book of Sindbad</hi> became known in the west, where in the second half of
+          the twelfth century it appeared in French as the <hi rend="italic">Roman des sept sages de
+            Rome</hi>.<note target="#4" type="footnotelink">4</note> In the process of transmission,
+          the text’s Persian roots were almost totally effaced.<note target="#5" type="footnotelink"
+            >5</note> A variety of channels has been proposed for the transfer, including written
+          transmission from Greek to Latin, Hebrew to Latin, or Arabic to Spanish, as well as oral
+          transmission between Christian and Arab territories, perhaps as a consequence of crusader
+            traffic.<note target="#6" type="footnotelink">6</note> Whatever the vector or vectors of
+          transmission by which the <hi rend="italic">Book of Sindbad</hi> reached Europe, the <hi
+            rend="italic">Seven Sages</hi> was so speedily adapted and translated that by the end of
+          the Middle Ages, the story collection was circulating in all the major European
+          vernaculars and in Latin. At the beginning of the twentieth century, the text’s most
+          diligent bibliographer, Killis Campbell, counted at least forty different versions of the
+          work surviving in more than two hundred manuscripts and nearly two hundred and fifty early
+            prints.<note target="#7" type="footnotelink">7</note></p>
+        <p style="body" n="4">The transmission history of the <hi rend="italic">Seven Sages</hi> is
+          complex; Campbell provides the overview that remains standard.<note target="#8"
+            type="footnotelink">8</note> For the purposes of this edition, Campbell’s scheme can be
+          simplified as follows:</p>
+        <quote>The now lost first redaction of the <hi rend="italic">Seven Sages</hi>, written in
+          the second half of the twelfth century, in French verse, <hi rend="bold">V</hi>, gives
+          rise to three more versions in French: <hi rend="bold">K</hi>, in verse; <hi rend="bold"
+            >D*</hi>, in prose, derhymed from a text closely related to <hi rend="bold">K</hi>; and
+            <hi rend="bold">A*</hi>, a prose abbreviation. <hi rend="bold">A*</hi> then gives rise
+          to numerous translations, referred to as the <hi rend="bold">A</hi> group or branch, which
+          includes all the Middle English verse versions and a Welsh version as well as another
+          French prose version, <hi rend="bold">L</hi>, which follows <hi rend="bold">A*</hi>
+          closely except in its selection of inset tales at its close. The <hi rend="bold">A</hi>
+          group also includes a Latin prose version, <hi rend="bold">H</hi>, which gives rise to its
+          own group, including translations into English prose and Scots verse; a group of Italian
+          texts, <hi rend="bold">I</hi>; and another French prose version, <hi rend="bold">M</hi>,
+          which rewrites the <hi rend="italic">Seven Sages</hi> to take account of the sequel
+          romances that the work attracted. In a shorter, independent line of transmission, the <hi
+            rend="italic">Dolopathos</hi> (<hi rend="bold">Do</hi>), a late twelfth-century Latin
+          prose version of the <hi rend="italic">Seven Sages</hi> materials, was translated into
+          French verse in the thirteenth century. An abbreviated Latin prose version of the <hi
+            rend="italic">Seven Sages</hi>, <hi rend="bold">S</hi>, was also compiled as part of
+          Johannes Gobi’s <hi rend="italic">Scala celi</hi> in the early fourteenth century.<note
+            target="#9" type="footnotelink">9</note></quote>
+        <p style="bodysubsection" n="2">Although this summary presents the processes of translation
+          and adaptation sequentially, it should be borne in mind that the chronology of the
+          manuscripts does not always match up with the order of Campbell’s scheme. The unique
+          surviving copy of <hi rend="bold">D*</hi> post-dates the earliest Middle English
+          translations of <hi rend="bold">A*</hi>, for example. It is also the case that readers
+          could have simultaneous access to texts belonging to different branches of transmission.
+          Thus, the Middle Scots text of the <hi rend="italic">Seven Sages</hi> combines elements
+          belonging to both Campbell’s groups <hi rend="bold">A</hi> and <hi rend="bold"
+            >H</hi>.<note target="#10" type="footnotelink">10</note></p>
+        <p style="body" n="5">This edition cites the French texts of the <hi rend="italic">Seven
+            Sages</hi> as is shown in Table 2. Our ordering of the versions in this table reflects
+          the presumed order of their composition, which does not correspond to the order in which
+          the surviving manuscripts were made. We rank the texts from earliest (<hi rend="bold"
+            >K</hi>) to latest (<hi rend="bold">M</hi>).</p>
+        <p style="heading4">Table 2: French Texts of the <hi rend="italic">Seven Sages</hi></p>
+        <table style="basictable">
+
+
+
+
+
+          <row role="label">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">Siglum</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">Editions Used, with their Base
+                  Copies</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">MS Date (1)</hi></p>
+            </cell>
+          </row>
+
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">K</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">Le Roman des sept sages de Rome</hi></p>
+              <p style="horizontal-left">ed. Speer and Foehr-Janssens (2)</p>
+              <p style="horizontal-left">Paris, Bibliothèque nationale, MS fr. 1553.</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Late 1200s</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">D*</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">Deux rédactions du Roman des sept
+                  sages</hi></p>
+              <p style="horizontal-left">ed. Paris, pp. 1–54</p>
+              <p style="horizontal-left">Paris, Bibliothèque nationale, MS fr. 5036. (3)</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">1400s</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">A*</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">Les Sept sages de Rome</hi></p>
+              <p style="horizontal-left">ed. Derniame, Henin, and Nais</p>
+              <p style="horizontal-left">Paris, Bibliothèque nationale, MS fr. 2137.</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Late 1200s</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">L</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">“Roman des sept sages de Rome”</p>
+              <p style="horizontal-left">ed. Le Roux de Lincy Paris</p>
+              <p style="horizontal-left">Bibliothèque nationale, MS fr. 19166.</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">1200s</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">M</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">Li Ystoire de la male marastre</hi></p>
+              <p style="horizontal-left">ed. Runte</p>
+              <p style="horizontal-left">Florence, Biblioteca Medicea Laurenziana, MS Ashburnham
+                52.</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">1300s</p>
+            </cell>
+          </row>
+
+        </table>
+        <p style="heading4"><hi rend="smallcaps">Notes on the Table</hi>:</p>
+        <list rend="nobullets">
+          <item style="indent1">(1) We reproduce the manuscript dates given by their editors.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">(2) See too the earlier edition with English apparatus, <hi
+              rend="italic">Le Roman des sept sages de Rome</hi>, ed. Speer.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">(3) <hi rend="bold">K</hi> and <hi rend="bold">D*</hi> are extant
+            only in the manuscripts cited above. The other texts survive in multiple manuscripts.
+            For further details, see <hi rend="italic">Le Roman des sept sages de Rome</hi>, ed.
+            Speer and Foehr-Janssens, pp. 12–17.</item>
+        </list>
+        <p style="bodysubsection" n="3">In this edition, we also refer to a sample of texts
+          representing other groups, languages, and traditions: the Welsh <hi rend="bold">A</hi>
+          text (<hi rend="bold">Aw</hi>); two early modern <hi rend="bold">H</hi> texts in English
+            (<hi rend="bold">He</hi>) and Scots (<hi rend="bold">Hs</hi>); and the Latin <hi
+            rend="italic">Dolopathos</hi> (<hi rend="bold">Do</hi>) and <hi rend="italic">Scala celi
+            </hi>(<hi rend="italic">Stairway to Heaven</hi>) (<hi rend="bold">S</hi>) redactions, as
+          is shown in Table 3. Under “Insular texts” and “Latin texts,” the versions are given in
+          their presumed order of composition; again, this order does not correspond to the order in
+          which the surviving manuscripts were made. We list the earliest versions first.</p>
+        <p style="heading4">Table 3: Some Other Renditions of the <hi rend="italic">Seven Sages</hi>
+          Materials</p>
+        <table style="basictable">
+
+
+
+
+
+
+          <row role="label">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">Siglum</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">Text</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">Editions and Translations Used, with
+                  their Base Copies</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">MS Date</hi></p>
+            </cell>
+          </row>
+
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">Aw</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Insular</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">“The Seven Wise Men of Rome”</p>
+              <p style="horizontal-left">trans. Jones</p>
+              <p style="horizontal-left">Aberystwyth, National Library of Wales, MS Peniarth
+                120.</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">end 1700s (1)</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">He</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Insular</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">The History of the Seven Wise Masters of
+                  Rome</hi></p>
+              <p style="horizontal-left">ed. Gomme</p>
+              <p style="horizontal-left"><hi rend="italic">Thystorye of ye vii. wyse maysters of
+                  Rome</hi>, ed. Wynkyn de Worde.</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">1506? (2)</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">Hs</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Insular</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">The Buke of the Sevyne Sagis</hi></p>
+              <p style="horizontal-left">ed. Van Buuren</p>
+              <p style="horizontal-left">Edinburgh, National Library of Scotland, MS 16500.</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">ca. 1515 (3)</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">Do</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Latin</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">Dolopathos</hi></p>
+              <p style="horizontal-left">by Johannes de Alta Silva, trans. Gilleland</p>
+              <p style="horizontal-left">Luxemburg, Bibliothèque nationale, MS 110.</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">end 1200s (4)</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">S</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Latin</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Abbreviated redaction in Johannes Gobi the Younger’s <hi
+                  rend="italic">Scala celi</hi></p>
+              <p style="horizontal-left">trans. Beaulieu. In Beaulieu, <hi rend="italic">Education,
+                  prédication, et cultures</hi>, pp. 213–32 Vienna, Österreichische
+                Nationalbibliothek, MS 13538.</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">1400s (5)</p>
+            </cell>
+          </row>
+
+        </table>
+        <p style="heading4"><hi rend="smallcaps">Notes on the Table</hi>:</p>
+        <list rend="nobullets">
+          <item style="indent1">(1) The text of the <hi rend="italic">Seven Sages</hi> that Jones
+            translates was copied in the late eighteenth century from a fifteenth century
+            manuscript, now Oxford, Jesus College, MS 20. For details of these manuscripts, see
+            Gadsden, “<hi rend="italic">Chwedleu Seith Doethon Rufein</hi>.”</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">(2) Gomme dates this text to 1520 but <hi rend="italic">STC</hi>
+            21298 gives “1506?” as the date of the publication. Where Gomme’s copy of the de Worde
+            text is deficient, he supplies the missing text from a chap-book dating to 1671 (this
+            procedure is described on his p. iii).</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">(3) For this date, see van Buuren, <hi rend="italic">The Buke of the
+              Sevyne Sagis</hi>, p. 1.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">(4) For this date, see <hi rend="italic">Historia septem
+              sapientum</hi>, ed. Hilka, p. vii.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">(5) For this date, see Beaulieu, <hi rend="italic">Education,
+              prédication, et cultures</hi>, pp. 53–79.</item>
+        </list>
+        <p style="bodysubsection" n="4">In the Explanatory Notes, we focus on elucidating the
+          relationships between the Middle English texts of the <hi rend="italic">Seven Sages</hi>
+          and the versions listed in tables 1–3. Consultation of the <hi rend="italic">Book of
+            Sindbad</hi> in its various manifestations allows for a sense of how the narrative frame
+          of the work and its stories change as they move through time and space. The French and
+          Latin versions include the source of the Middle English poems (<hi rend="bold">A*</hi>) as
+          well as several close analogues; they are representative of versions of the work that
+          English audiences might have met either at home or abroad. The inclusion of a Welsh text
+            (<hi rend="bold">Aw</hi>) and later versions in English (<hi rend="bold">He</hi>) and
+          Scots (<hi rend="bold">Hs</hi>) completes the Insular perspective on the <hi rend="italic"
+            >Seven Sages</hi>. The <hi rend="italic">Dolopathos</hi> (<hi rend="bold">Do</hi>)
+          serves as a reminder of the track that the <hi rend="italic">Seven Sages</hi> did not
+          take. It may be that some of the distinguishing features of the <hi rend="italic"
+            >Dolopathos</hi> restricted its popularity. In contrast to the <hi rend="italic">Seven
+            Sages</hi>, the narrator of the <hi rend="italic">Dolopathos</hi> is monastic; his
+          perspective is anti-courtly and anti-woman throughout; and the empress is given no tales
+          of her own to tell.<note target="#11" type="footnotelink">11</note> Finally, the <hi
+            rend="italic">Scali celi</hi> redaction (<hi rend="bold">S</hi>) is an abbreviation of a
+          now lost <hi rend="italic">Liber de septem sapientibus</hi>; the morals that it draws from
+          the inset tales on occasion differ from those offered in the other versions of the
+          collection.</p>
+        <p style="heading" n="2">The Middle English texts of the <hi rend="italic">Seven Sages of
+            Rome</hi> and their manuscripts</p>
+        <p style="bodyfirst" n="3">There are eight extant manuscript copies of the Middle English
+            <hi rend="italic">Seven Sages of Rome</hi>. Following Campbell, the poem’s editors group
+          these texts into three versions that correspond to the dialects in which they were
+          written: southern, midland, and northern. Campbell determined that all eight of the Middle
+          English texts of the <hi rend="italic">Seven Sages</hi> derive from one original Middle
+          English translation of the French prose text <hi rend="bold">A*</hi>. At the same time,
+          Campbell also showed that none of the Middle English texts copies from any of the other
+          extant texts.<note target="#12" type="footnotelink">12</note> A corollary of this
+          observation is that there must have been more copies of the Middle English poem
+          circulating in the Middle Ages than now survive. The textual history that Campbell
+          describes also indicates the importance of oral transmission in the propagation of the
+            work.<note target="#13" type="footnotelink">13</note></p>
+        <p style="body" n="6">Table 4 lists the manuscript copies of the Middle English <hi
+            rend="italic">Seven Sages</hi> as well as the important scholarly editions by Brunner,
+          Campbell, and Whitelock to which we have referred. We group the texts as these editors do,
+          according to dialect; within these groupings the order follows the date of manuscript
+          production. The composition of the poem must predate the making of the Auchinleck
+          Manuscript (1330s) but it is not clear by how long. Campbell suggests that the parent
+          translation of the Middle English <hi rend="italic">Seven Sages</hi> was written ca.
+            1275.<note target="#14" type="footnotelink">14</note></p>
+        <p style="heading4">Table 4: Middle English Texts of the <hi rend="italic">Seven
+          Sages</hi></p>
+        <table style="basictable">
+
+
+
+
+
+
+          <row role="label">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">Siglum</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">Version, Editor</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">Versions and Editions Used, with
+                  Copies</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">MS Date (1)</hi></p>
+            </cell>
+          </row>
+
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">A</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Southern, ed. Brunner</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Edinburgh, National Library of Scotland, MS Advocates’
+                19.2.1 Auchinleck Manuscript, fols. 85r–99v (ff. 334) (2)</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">1330s</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">Ar</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Southern, ed. Brunner</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">London, British Library, MS Arundel 140, fols. 152r–165v
+                (of the first booklet, ff.165; a second booklet was added later)</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Early 1400s</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">E</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Southern, ed. Brunner</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">London, British Library, MS Egerton 1995, fols. 3r–54v (ff.
+                58)</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Late 1400s</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">F</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Southern, ed. Brunner</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Cambridge University Library, MS Ff.2.38, fols. 134–156v
+                (ff. 261) (3)</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">ca. 1500</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">B</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Southern, ed. Brunner</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Oxford, Balliol College, MS 354,</p>
+              <p style="horizontal-left">fols. 18r–54r / pp. 39–112 (ff. 242 / pp. 514)</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Early 1500s</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">D</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Midland, ed. Whitelock</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Cambridge, University Library, MS Dd.1.17, fols. 54r–63r
+                (of the third volume of this manuscript; vol. 1 is ff. 261; vol. 2 is ff. 93; vol. 3
+                is ff.87)</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Late 1300s</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">R</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Northern, ed. Campbell</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Oxford, Bodleian Library, MS Rawlinson poet. 175, fols.
+                109r–131v (ff. 136)</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Mid 1300s</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">C</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Northern, ed. Campbell</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">London, British Library, MS Cotton Galba E. IX, fols.
+                25r–48r (ff. 114) (4)</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left">Early 1400s</p>
+            </cell>
+          </row>
+
+        </table>
+        <p style="heading4"><hi rend="smallcaps">Notes on the Table</hi>:</p>
+        <list rend="nobullets">
+          <item style="indent1">(1) These dates are from Whitelock.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">(2) Brunner takes <hi rend="bold">A</hi> as his base text for the
+            extant text of <hi rend="bold">A</hi> and gives variant readings from <hi rend="bold"
+              >Ar</hi>, <hi rend="bold">B</hi>, and <hi rend="bold">E</hi>. Where <hi rend="bold"
+              >A</hi> lacks text, Brunner gives parallel texts of the other southern versions; the
+            texts of <hi rend="bold">Ar</hi> and <hi rend="bold">F</hi> are also incomplete. The
+            abbreviation “ff.” is used to indicate the total number of folios in the
+            manuscript.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">(3) Brunner transcribes <hi rend="bold">F</hi> independently at pp.
+            193–210 and 129–92.</item>
+        </list>
+        <list rend="nobullets">
+          <item style="indent1">(4) Campbell edits <hi rend="bold">C</hi> listing variants from <hi
+              rend="bold">R</hi>, which is incomplete.</item>
+        </list>
+        <p style="heading2" n="1">Manuscript transmission</p>
+        <p style="bodyfirst" n="4">The manuscripts that contain the Middle English <hi rend="italic"
+            >Seven Sages</hi> are a valuable source of information regarding the poem’s
+          late-medieval readers and audiences. The following survey aims to draw out patterns in
+          their compilation and the reader profiles that they implicate. Our aim is to narrativize
+          and otherwise flesh out the information that we give more schematically in Table 4. We
+          hold back more detailed descriptions of our base text <hi rend="bold">A</hi> for the next
+          subsection of this Introduction; on the language and scribes of <hi rend="bold">A</hi> and
+          on <hi rend="bold">E</hi>, which we use to supplement <hi rend="bold">A</hi> where <hi
+            rend="bold">A</hi> is deficient, see too the commentary in How We Made This Edition.</p>
+        <p style="body" n="7">The earliest manuscript containing the Middle English <hi
+            rend="italic">Seven Sages</hi> is the <hi rend="bold">Auchinleck Manuscript (A)</hi>.
+          Produced in London in the 1330s, Auchinleck was written by six scribes whose clear
+          bookhands, treatment of mise-en-page, and collaboration all suggest a lay, commercial
+          production context.<note target="#15" type="footnotelink">15</note> Today, Auchinleck
+          contains 44 items across 334 parchment folios (250 x 190mm in format), although originally
+          it was larger and had at least 60 items. Numerous leaves have been lost or intentionally
+          cut out and there is no trace of an original binding, the current modern binding being at
+          least the manuscript’s third. Despite these losses, Auchinleck preserves a wide array of
+          Middle English verse texts, many unique or in their earliest copies, including
+          hagiographical, devotional, moral, historical, and satirical works. It is perhaps most
+          famous today for its large collection of romances, several of which treat the
+          establishment and defense of England by iconic figures such as Guy of Warwick, Bevis of
+          Hampton, Arthur, and Horn.<note target="#16" type="footnotelink">16</note></p>
+        <p style="body" n="8">For a manuscript containing almost entirely Middle English material,
+          Auchinleck was quite lavishly produced. It is likely that many of its items were
+          introduced by a miniature, resulting in fifty or more illuminated illustrations across the
+          book (all but five of these have since been removed or lost to damage).<note target="#17"
+            type="footnotelink">17</note> In its layout and decoration, Auchinleck most closely
+          resembles books containing French and Latin that were being produced for members of the
+          elite of London society at around the same time.<note target="#18" type="footnotelink"
+            >18</note> The great expense its manufacture must have incurred — which may have
+          included the translation of some of its items<note target="#19" type="footnotelink"
+            >19</note> — indicates that its first owners were very wealthy. Book historians argue
+          for a mercantile, noble, or even royal commissioner.<note target="#20" type="footnotelink"
+            >20</note> It may have been a book associated with the court of Edward III. There are
+          links between Auchinleck and the books owned by Walter de Milemete, courtier and tutor to
+          Edward before he became king.<note target="#21" type="footnotelink">21</note> Another
+          possible owner is Edward III’s queen, Philippa of Hainaut.<note target="#22"
+            type="footnotelink">22</note></p>
+        <p style="body" n="9">The manuscript of the Middle English <hi rend="italic">Seven
+            Sages</hi> that is most like Auchinleck in respect of content is <hi rend="bold"
+            >Cambridge, University Library, MS Ff.2.38 (F)</hi>. As it now stands, having lost
+          leaves at various points, this book contains 43 items across 261 folios.<note target="#23"
+            type="footnotelink">23</note> The first quarter of the book (63 folios) contains 33
+          shorter texts covering basic doctrinal instruction, moral topics, saints lives, and texts
+          concerned with the proper upbringing, education, and behavior of members of the
+          patriarchal household, such as <hi rend="italic">How the Goode Man Taght Hys Sone</hi>,
+            <hi rend="italic">How a Merchande Dyd Hys Wyfe Betray</hi>, and <hi rend="italic">A Gode
+            Mater of The Marchand and Hys Sone</hi>. The remaining bulk of the volume includes the
+            <hi rend="italic">Seven Sages</hi> alongside nine other romances, three of which are
+          shared with Auchinleck (<hi rend="italic">Bevis of Hampton</hi>, <hi rend="italic">Guy of
+            Warwick</hi>, and <hi rend="italic">Sir Degaré</hi>, the <hi rend="italic">Seven
+            Sages</hi> coming between <hi rend="italic">Bevis</hi> and <hi rend="italic"
+            >Guy</hi>).<note target="#24" type="footnotelink">24</note> While this book would have
+          been a less costly production than the Auchinleck Manuscript — it lacks decoration and is
+          written on paper — its format is sizable (297 x 210mm) and it appears to have been
+          produced by a commercial scribe for a bourgeois urban household. Because the scribe’s
+          dialect can be located to Leicester and because the book shares a paper stock with another
+          manuscript whose connections to Leicester are secure — Oxford, Bodleian Library, MS
+          Ashmole 61 — it has been argued that CUL Ff.2.38 was produced for use by a patron in that
+            town.<note target="#25" type="footnotelink">25</note></p>
+        <p style="body" n="10"><hi rend="bold">London, British Library, MS Arundel 140 (Ar)</hi>
+          differs from both CUL Ff.2.38 and the Auchinleck Manuscript in its provision of co-texts
+          for the Middle English <hi rend="italic">Seven Sages</hi>. Alongside our poem, the Arundel
+          codex compiles copies of <hi rend="italic">Ypotis</hi>, <hi rend="italic">Mandeville’s
+            Travels</hi>, the <hi rend="italic">Speculum Gy de Warewyke</hi>, and the <hi
+            rend="italic">Prick of Conscience</hi>.<note target="#26" type="footnotelink">26</note>
+          These are all interesting companion pieces for the <hi rend="italic">Seven Sages</hi>. <hi
+            rend="italic">Mandeville’s Travels</hi> narrates a voyage across the Islamic world and
+          shows a clear fascination with the east that contrasts with the studious avoidance in the
+            <hi rend="italic">Seven Sages</hi> of any mention of its source in the <hi rend="italic"
+            >Book of Sindbad</hi>. The frame of the <hi rend="italic">Seven Sages</hi> is mirrored
+          in <hi rend="italic">Ypotis</hi>, which gives a dialogue between a wise child and the
+          Roman emperor Hadrian. Hadrian interrogates the child on topics ranging from the origins
+          of heaven and earth to the varieties of sin and the means of their overcoming; at the
+          text’s close, the child declares that he is Christ and departs for heaven.<note
+            target="#27" type="footnotelink">27</note></p>
+        <p style="body" n="11">The copy of the <hi rend="italic">Speculum Gy</hi> in Arundel 140
+          links the book to the Auchinleck Manuscript, which also has a copy of this text, but the
+          Arundel manuscript’s support — paper leaves measuring 290 x 215mm — combined with its lack
+          of decoration suggest that its audience was more like that addressed by CUL Ff.2.38. The
+          interest in penitence manifested in CUL Ff.2.38 is amplified in Arundel 140, which
+          contains a copy of the popular <hi rend="italic">Prick of Conscience</hi>. Arundel’s
+          moralizing impetus may have made it an attractive host for the copy of Geoffrey Chaucer’s
+          Melibee with which it was bound in the later fifteenth century.<note target="#28"
+            type="footnotelink">28</note></p>
+        <p style="body" n="12">The <hi rend="italic">Prick of Conscience</hi> is copied with the
+          Middle English Seven Sages in two further manuscripts: <hi rend="bold">London, British
+            Library, MS Cotton Galba E. IX (C)</hi> and <hi rend="bold">Oxford, Bodleian Library, MS
+            Rawlinson Poet. 175 (R)</hi>. Both these books have been attributed to a team of North
+          Yorkshire scribes who made books for laypeople; study of the ownership marks in the
+          codices shows that they stayed in the vicinity of their production — possibly Ripon in
+          North Yorkshire — into the early modern period.<note target="#29" type="footnotelink"
+            >29</note> Galba E. IX puts the Middle English <hi rend="italic">Seven Sages</hi> and
+          the <hi rend="italic">Prick of Conscience</hi> alongside a Middle English translation of
+          Chrétien de Troyes’s <hi rend="italic">Chevalier au lion</hi>, passion lyrics, the
+          historical poems of the northern writer, Laurence Minot, and two Middle English texts
+          associated with <hi rend="italic">Cursor mundi</hi>, a massive history of the world
+          covering creation to Doomsday.<note target="#30" type="footnotelink">30</note></p>
+        <p style="body" n="13">Galba E. IX is large in format (335 x 220mm) and written on
+          parchment; it was probably designed for reading at a lectern. Rawlinson Poet. 175 is a
+          more modest production.<note target="#31" type="footnotelink">31</note> While this book is
+          also written on parchment, its format is smaller (268 x 190mm), and the codex appears
+          designed for private reading. Rawlinson Poet. 175 presents the Middle English <hi
+            rend="italic">Seven Sages</hi> and the <hi rend="italic">Prick of Conscience</hi>
+          alongside shorter religious items, which include the <hi rend="italic">Gast of Gy</hi>, a
+          purgatory poem that stages a conversation between a priest and Gy, formerly a citizen of
+          the French town of Alés, who speaks of purgatory from beyond the grave.<note target="#32"
+            type="footnotelink">32</note></p>
+        <p style="body" n="14">All the manuscripts mentioned thus far seem to have been made with a
+          lay audience in mind. In contrast, <hi rend="bold">Cambridge, University Library, MS
+            Dd.1.17 (D)</hi> was probably produced for a religious house.<note target="#33"
+            type="footnotelink">33</note> This is another large format (440 x 305mm) parchment book
+          designed for consultation at a lectern. It comprises three parts: parts one and two treat
+          British and eastern history in Latin while part three contains miscellaneous materials in
+          Middle English, including <hi rend="italic">Mandeville’s Travels</hi> and <hi
+            rend="italic">Piers Plowman</hi> alongside the <hi rend="italic">Seven Sages</hi>.
+          Dialect analysis suggests that the scribe of the Middle English texts was trained in the
+          North of England. Working backwards from what is known of the early modern ownership of
+          the book, Ralph Hanna suggests that CUL Dd.1.17 was copied by a monk attached to Evesham
+          Abbey who was on secondment at the abbey’s cell at Penwortham in Lancashire when he copied
+          the book for his mother house.<note target="#34" type="footnotelink">34</note></p>
+        <p style="body" n="15">The two manuscripts remaining to be treated have both been claimed as
+          early examples of the commonplace book. Written on paper in a reasonably large format (280
+          x 195mm), <hi rend="bold">London, British Library, MS Egerton 1995 (E)</hi> presents the
+          Middle English <hi rend="italic">Seven Sages</hi> followed by a miscellaneous collection
+          of texts including a children’s courtesy book, lists of hunting terms, medical advice, a
+          list of institutions in the city of London, and three historical texts: the <hi
+            rend="italic">Siege of Rouen</hi>, Lydgate’s list of kings after the Conquest, and
+          William Gregory’s London chronicle.<note target="#35" type="footnotelink">35</note>
+          Egerton was written in the hand of a single scribe (except for marginalia) in a secretary
+          script influenced by anglicana (that includes anglicana two-compartment <hi rend="italic"
+            >a</hi>). The style of handwriting, neat ruling, even margins, single-column layout,
+          decorative rubrication, and use of guide letters and catchwords together indicate a
+          well-trained, skilled, and experienced scribe.<note target="#36" type="footnotelink"
+            >36</note> The contents and visual features suggest that Egerton was professionally
+          produced to order. We do not know the name of the scribe or of the original owner, and if
+          there was an original binding then it is now lost.<note target="#37" type="footnotelink"
+            >37</note> The choice of texts implicates a Londoner of middling social level, probably
+          a merchant, whose interests ranged from those of the “rising London businessman” to those
+          of a “literary hobbyist” who might want to read a poem like the <hi rend="italic">Seven
+            Sages</hi>.<note target="#38" type="footnotelink">38</note></p>
+        <p style="body" n="16">Finally, <hi rend="bold">Oxford, Balliol College, MS 354 (B)</hi> can
+          be more securely located in London’s mercantile community.<note target="#39"
+            type="footnotelink">39</note> The manuscript is of paper and has a “holster book”
+          format, being much taller than it is wide (290 x 110mm); it is a kind of book that could
+          be sold blank and pre-bound for the recording of accounts. The scribe of Balliol 354, who
+          was most likely identical with its early owner, Richard Hill, was by his own account a
+          London grocer; he seems to have written the book over an extended period (1503–1536).<note
+            target="#40" type="footnotelink">40</note> His tastes are similar to the commissioner of
+          Egerton 1995, extending from historical materials with a London focus to more practical
+          and literary texts. Alongside its copy of the Middle English <hi rend="italic">Seven
+            Sages</hi>, Balliol 354 compiles extracts from John Gower’s <hi rend="italic">Confessio
+            amantis</hi> and a well-known group of Middle English lyrics.<note target="#41"
+            type="footnotelink">41</note> While both Egerton 1995 and Balliol 354 have selections of
+          items that seem to respond primarily to personal tastes, the similarity between these
+          books — they also share the <hi rend="italic">Siege of Rouen</hi>, for example — suggests
+          that they might equally manifest a shared set of predilections and concerns that defined
+          the merchant community in late-medieval London.<note target="#42" type="footnotelink"
+            >42</note></p>
+        <p style="bodysubsection" n="5">As the foregoing analysis indicates, the Middle English <hi
+            rend="italic">Seven Sages</hi> reached a broad constituency of readers. In terms of rank
+          and class, readers and owners ranged from among the highest levels of the social elite (if
+          we accept that someone like Philippa of Hainaut was the patron of Auchinleck) to the more
+          middling secular readerships and households implicated by CUL Ff.2.38 and Arundel 140 and
+          the mercantile readers of Egerton 1995 and Balliol 345. CUL Dd.1.17 demonstrates that, in
+          at least one instance, the poem was also copied for an audience of professional religious.
+          In terms of their location, readers of the Middle English <hi rend="italic">Seven
+            Sages</hi> could be found in or around towns from London to Leicester in the midlands
+          and Ripon in the north. The dates of the surviving manuscripts show that the poem was
+          being read at these locations from the early fourteenth into the sixteenth centuries.</p>
+        <p style="body" n="17">Further evidence for the reception of the Middle English <hi
+            rend="italic">Seven Sages</hi> can be gleaned from the texts with which it was compiled,
+          which implicate audiences interested in penitential as well as romance literature. The
+          format and appearance of the manuscripts are also telling. The varying sizes of the books
+          could foster a range of reading modes with the larger books inviting more studious
+          reading, or perhaps oral performance, and the smaller, less pretentious ones supporting
+          private reading. Some of the manuscripts were clearly designed to be seen and shared, such
+          as the Auchinleck Manuscript with its many illustrations, whereas others such as Balliol
+          354 might have been more personal productions.</p>
+        <p style="body" n="18">All of this makes patent the successful implantation of the Middle
+          English <hi rend="italic">Seven Sages</hi> in an impressive variety of late-medieval
+          reading contexts. As was pointed out above, there were probably other manuscripts of the
+          poem circulating in the Middle Ages that are now lost.<note target="#43"
+            type="footnotelink">43</note> If these codices had survived, we would have been able to
+          extend our reception history further still. To this material evidence of the work’s
+          transmission we can add the evidence of later authors. Gower appears to have known a
+          version of the <hi rend="italic">Seven Sages</hi>, and Chaucer may have done so too.<note
+            target="#44" type="footnotelink">44</note></p>
+        <p style="heading" n="3">The Auchinleck <hi rend="italic">Seven Sages of Rome</hi></p>
+        <p style="bodyfirst" n="5">Even within their dialect groupings, the eight texts of the <hi
+            rend="italic">Seven Sages</hi> differ quite broadly from one another and from the French
+          prose text <hi rend="bold">A*</hi> that Campbell identified as their source.<note
+            target="#45" type="footnotelink">45</note> These differences make each copy of the poem
+          a rewarding object of study. Our decision to edit Auchinleck for this METS edition is in
+          some ways traditional. <hi rend="bold">A</hi> is the earliest surviving text of the poem
+          and, as such, was chosen by Karl Brunner for his edition of the southern version. While it
+          is not without its idiosyncrasies, which include a tendency to abbreviate materials found
+          at greater length elsewhere, Campbell argues that the Auchinleck <hi rend="italic">Seven
+            Sages</hi> best preserves the language and wording of the parent translation from which
+          all the Middle English texts derive.<note target="#46" type="footnotelink">46</note> Where
+          the Auchinleck text of the poem is deficient due to damage to the manuscript, we supply
+          the text from the next closest manuscript of the southern version having these passages,
+          MS Egerton 1995 (<hi rend="bold">E</hi>).</p>
+        <p style="body" n="19"><hi rend="bold">A</hi> gives us a distinct variety of Middle English
+          from in or around London ca. 1300; a similar variety of the language was used in three
+          other Auchinleck texts: the romances <hi rend="italic">Kyng Alisaunder</hi>, <hi
+            rend="italic">Of Arthour and of Merlin</hi>, and <hi rend="italic">King Richard</hi>.
+          These works show authors making intelligent use of French and Latin as well as English
+          linguistic material. While some commentators have argued that they were written by the
+          same person, others suggest that they were composed by different writers participating in
+          a shared literary idiom that was cultivated in the capital around the turn of the
+          fourteenth century.<note target="#47" type="footnotelink">47</note> Either way, the author
+          of the parent translation of the Middle English <hi rend="italic">Seven Sages</hi> remains
+          anonymous. All that we can say about them with any confidence is that they deserve special
+          praise amongst the early translators of French romance for their rendering of the French
+          prose text <hi rend="bold">A*</hi> into octosyllabic rhyming couplets in Middle English.
+          Whoever this redactor was, they affected a comprehensive re-envisioning of their source
+          that fully exploited the creative potential inherent in earlier Middle English.<note
+            target="#48" type="footnotelink">48</note></p>
+        <p style="body" n="20">Notwithstanding the seniority and linguistic interest of <hi
+            rend="bold">A</hi>, we should admit that our choice of base text also reflects our
+          longer-standing interest in the Auchinleck Manuscript. Indeed, it was our work on this
+          book that initially brought us to the <hi rend="italic">Seven Sages</hi>. Alison Wiggins
+          is part of the team behind the online facsimile and edition of the Auchinleck Manuscript
+          that is hosted by the National Library of Scotland (<ref
+            target="https://auchinleck.nls.uk" type="external">https://auchinleck.nls.uk</ref>). Her
+          subsequent work on the book includes studies of its language and methods of production as
+          well as of the manuscript’s central figure, Guy of Warwick.<note target="#49"
+            type="footnotelink">49</note> Rory Critten has focused on Auchinleck style and the
+          affordances of the French-infused Middle English in which its texts are written; by
+          emphasizing the book’s French debts, he has sought to complicate inherited descriptions of
+          Auchinleck that profile its anglophone and anglophile credentials.<note target="#50"
+            type="footnotelink">50</note> We hope that this edition of the Auchinleck <hi
+            rend="italic">Seven Sages</hi> will encourage new work not only on the poem, by
+          re-presenting its earliest extant copy, but also on the manuscript that contains it.<note
+            target="#51" type="footnotelink">51</note></p>
+        <p style="heading" n="4">Scholarship on the <hi rend="italic">Seven Sages of Rome</hi></p>
+        <p style="bodyfirst" n="6">The popularity of the <hi rend="italic">Seven Sages</hi> in the
+          Middle Ages contrasts with its neglect in modern criticism, including criticism produced
+          as part of a reawakening of interest in the <hi rend="italic">Seven Sages</hi> more
+          broadly. Two journals — <hi rend="italic">Narrative Culture</hi> and <hi rend="italic">Das
+            Mittelalter</hi> — devote recent special issues to the <hi rend="italic">Seven
+            Sages</hi>, but neither features an article considering the work’s Middle English
+            versions.<note target="#52" type="footnotelink">52</note> This neglect ought probably to
+          be attributed to the perception among Middle English scholars that the poem’s
+          moralizations are not only distasteful but also definitive. A surface reading of the
+          collection sees the sages’ stories about the untrustworthiness of women exemplified in the
+          empress’s reprehensible behavior, which justifies her final punishment.<note target="#53"
+            type="footnotelink">53</note> This view of the work is only lightly modified in a more
+          recent attempt to re-present the Middle English <hi rend="italic">Seven Sages</hi> as
+          medieval children’s literature.<note target="#54" type="footnotelink">54</note></p>
+        <p style="body" n="21">Standing against these readings of the poem is the evidence that we
+          have surveyed regarding its reception. As we have seen, book historians propose that the
+          Auchinleck Manuscript was produced for a female patron, and the compilation of the poem
+          alongside texts like the <hi rend="italic">Prick of Conscience</hi>, <hi rend="italic"
+            >Piers Plowman</hi>, and <hi rend="italic">Mandeville’s Travels</hi> suggests that the
+          audiences for whom it was copied could be expected to interact intellectually and
+          emotionally with the materials they read. What then might the attraction of the work have
+          been if it was not the misogyny that is so flagrant in plot summaries of the kind with
+          which this Introduction opened?</p>
+        <p style="body" n="22">At present, the best guides to the appeal of the Middle English <hi
+            rend="italic">Seven Sages</hi> are the scholars working on the French versions of the
+          poem. Among the useful concepts introduced by these writers is the reading practice that
+          Mary B. Speer calls “specular identification,” whereby readers of the inset tales are
+          implicitly invited to consider the different ways in which the actors in these tales might
+          reflect the characters in the frame narrative.<note target="#55" type="footnotelink"
+            >55</note> Also illuminating is Yasmina Foehr-Janssens’s comparison between the Freudian
+          dream and the inset tales, which in their presentation of players and motives condense the
+          complex ethical and emotional engagements of the characters in the frame.<note
+            target="#56" type="footnotelink">56</note> Speer and Foehr-Janssens’s critical
+          approaches help us to see beyond the judicial rhetoric of the frame narrative, in which
+          the empress and the sages use tales to sway the emperor. Their insights encourage us to
+          read the inset tales not as a confirmation of their stated purposes but as a commentary on
+          them. In so doing, Speer and Foehr-Janssens make accessible the full ethical and
+          psychological intelligence that animates the poem.</p>
+        <p style="body" n="23">This argument can be illustrated by means of an example. As a test
+          case, we take the first of the sages’ tales, <hi rend="italic">canis</hi>, the tale of the
+            dog.<note target="#57" type="footnotelink">57</note> This is a tale that is central to
+          both Speer’s and Foehr-Janssens’s analyses of the <hi rend="italic">Seven Sages</hi>. At
+          the same time as we aim to highlight the emotional and intellectual complexities that
+          result from the tale’s embedding in the frame narrative of the <hi rend="italic">Seven
+            Sages</hi>, we also propose to demonstrate the benefits of comparative analysis, which
+          can clarify the particular concerns animating the Middle English versions of the poem. As
+            <hi rend="italic">canis</hi> is one of the four tales that the <hi rend="italic">Seven
+            Sages</hi> carries over from the <hi rend="italic">Book of Sindbad</hi> — the others are
+            <hi rend="italic">senescalcus</hi>, <hi rend="italic">aper</hi>, and <hi rend="italic"
+            >avis</hi>; the tales of the steward, the boar, and the bird — the archive for this
+          story is especially rich.</p>
+        <p style="heading" n="5">A test case: <hi rend="italic">canis</hi></p>
+        <p style="bodyfirst" n="7">The first of the sages’ tales narrates the unhappy fate of a pet
+          who saves his master’s baby from an attack by a snake while the baby is left unattended.
+          Rather than being rewarded for its service, the dog is killed by its master on his return
+          home. As it is told in the Auchinleck text (701–836), this outcome is blamed on the baby’s
+          nurses and the knight’s wife. Returning home before the parents and, seeing the house
+          covered in blood, the nurses assume that the dog has killed the baby, who is nowhere to be
+          found: in the fight with the snake, its cradle has been overturned. Fleeing the house, the
+          nurses encounter the knight’s wife, to whom they tell their story, with the result that
+          the wife demands that her husband kill the dog. The knight agrees to his wife’s request,
+          and, when he realizes his error, he departs barefoot into exile, declaring that his
+          example should warn other men against believing their wives. The sage telling the tale
+          doubles down on the knight’s moral (837–42). If the emperor acquiesces to his wife’s
+          ultimatum and kills his son, then a similar fate should befall the emperor as befell the
+          knight on account of his canicide.</p>
+        <p style="body" n="24">For the sage who tells <hi rend="italic">canis</hi>, the relationship
+          between the frame narrative and the inset tale is clear. The knight stands in for the
+          emperor, the faithful dog is his son, and the knight’s wife is the empress. The killing of
+          the dog thus mirrors the killing of Florentine, which the sages hope to avoid. This
+          interpretation of the tale persuades the emperor, who agrees to postpone his son’s
+          judgement (843–46). But the interpretation of <hi rend="italic">canis</hi> is not so
+          straightforward for readers outside the narrative frame. To begin with, there are more
+          players in the tale than in the frame.<note target="#58" type="footnotelink">58</note> The
+          son in the frame has a possible double in the baby as well as the dog, and it may be that
+          this doubling reflects the emperor’s mixed feelings about his own progeny: he nurtures his
+          son but he also resents him insofar as his son’s accession can only be accomplished at the
+          cost of his own demise.<note target="#59" type="footnotelink">59</note> The empress also
+          has a second potential representative in the tale: the snake who attempts to kill the
+          baby. But the snake might also represent the father. The gendering of the snake in the
+          Auchinleck manuscript is equivocal; it is referred to by both masculine and feminine
+          pronouns, so the creature might be read as a reflection of underlying filicidal urges
+          within the father.<note target="#60" type="footnotelink">60</note></p>
+        <p style="body" n="25">This is not to say that the sage’s story is poorly chosen. In the
+          fortunate discovery of the unharmed baby at the tale’s close, <hi rend="italic">canis</hi>
+          holds out the possibility of a happy ending for the emperor.<note target="#61"
+            type="footnotelink">61</note> But the significance of the tale in the context of the <hi
+            rend="italic">Seven Sages</hi> frame exceeds that attributed to it by its teller. In
+          particular, the inset story affords new insights into the psychology of the emperor and
+          the emotional experience of succession, an idea that is of central importance in the
+            poem.<note target="#62" type="footnotelink">62</note></p>
+        <p style="body" n="26">The tale of the dog is included in all the versions of the <hi
+            rend="italic">Seven Sages</hi> as well as the <hi rend="italic">Dolopathos</hi> and all
+          the versions of the <hi rend="italic">Book of Sindbad</hi> except <hi rend="bold"
+            >SindA1001</hi> and <hi rend="bold">SindP3</hi>.<note target="#63" type="footnotelink"
+            >63</note> It also has a life outside the <hi rend="italic">Sindbad</hi> and <hi
+            rend="italic">Seven Sages</hi> traditions.<note target="#64" type="footnotelink"
+            >64</note> Its history is revealing. In the earlier versions of the tale compiled in the
+            <hi rend="italic">Book of Sindbad</hi>, the story is told as a warning against hasty
+          action; there it is the father who discovers the messy scene at home, draws the conclusion
+          that the dog has killed the child, and kills the animal without any further prompting. The
+          Middle English versions all agree with <hi rend="bold">A*</hi>, their source, in making
+          women responsible for the dog’s murder, but the northern and southern versions lay greater
+          emphasis on this point than does the French text. These versions record the wife’s
+          ultimatum to her husband (795–96); moralize generally on the perils of believing women
+          (812–14); blame the wife for the dog’s death (820–22); and show the knight presenting his
+          self-exile as a lesson to other men to ignore their wives’ counsel (823–26).<note
+            target="#65" type="footnotelink">65</note> Thus the misogyny already inherent in <hi
+            rend="bold">A*</hi> is enhanced in the two main Middle English versions. How is this
+          development to be interpreted?</p>
+        <p style="heading" n="6">Misogyny in the <hi rend="italic">Seven Sages of Rome</hi></p>
+        <p style="bodyfirst" n="8">The antifeminist rhetoric of the <hi rend="italic">Seven
+            Sages</hi> — which, as we have just seen, is amplified in some Middle English versions
+          of the poem — is an aspect of the text that twenty-first-century readers will most likely
+          find off-putting. But the warnings of hasty judgment that animate <hi rend="italic"
+            >canis</hi> should give us pause when interpreting the poem’s misogyny. Like the
+          bloodied dog who greets his master in the inset tale, the self-mutilated empress who
+          appears before her husband at the opening of the poem is a sign requiring careful
+          consideration, notwithstanding the reading of her actions that we are given in the
+          narrative frame. To begin with, we should recognize that the opening scene in which the
+          empress accuses her stepson of an attempted rape is an iteration of a trope familiar to
+          medieval readers.</p>
+        <p style="body" n="27">When the <hi rend="italic">Seven Sages</hi> shows the empress falsely
+          accusing her stepson of an attempted rape, the text reiterates a motif that was best known
+          in the medieval west in the form that it assumes in the biblical story of Potiphar’s wife.
+          In Genesis 39, Joseph catches the eye of the wife of his master, Potiphar, who is a
+          eunuch. Potiphar’s wife repeatedly asks Joseph to lie with her but Joseph refuses. One
+          day, finding Joseph alone, the wife corners him and insists that he should sleep with her,
+          with the result that Joseph flees. Seeing herself so slighted, and in danger of being
+          discovered, the wife claims that Joseph has attempted to rape her; as proof she offers a
+          piece of clothing that Joseph has left behind. Joseph is then thrown into prison, where he
+          meets the butler and baker whose dreams he successfully interprets in Genesis 40.</p>
+        <p style="body" n="28">The Potiphar’s wife motif was popular in both antiquity and the
+          Middle Ages; it survives in eastern as well as European renditions.<note target="#66"
+            type="footnotelink">66</note> Recent scholarship focuses on the motif’s inversion of the
+          most common situation of attempted rape by presenting the victim as a man, not a woman,
+          and by giving the accusing woman the social power necessary to exact vengeance over her
+          supposed rapist; the popularity of the motif into modernity has been found to reflect both
+          men’s fears about the ease with which legally binding rape accusations might be formulated
+          and their guilt about their treatment of women.<note target="#67" type="footnotelink"
+            >67</note> But the motif is open to a broad variety of interpretations. Thus,
+          contemporary Bible scholars argue for readings of Genesis 39 that notice the text’s
+          depiction of Potiphar as an insufficient husband and the role that God’s providence — as
+          opposed to Joseph’s virtue — plays in the successful resolution of the story.<note
+            target="#68" type="footnotelink">68</note> In the Middle Ages too the motif might invite
+          a variety of readings. In Marie de France’s <hi rend="italic">Lanval</hi>, for example, a
+          poem that features a remarkably passive male lead, Guinevere’s propositioning of the hero
+          is one of a series of gender inversions. In <hi rend="italic">Lanval</hi>, it might be
+          argued, the conventions of rape culture are made freshly available for analysis thanks to
+          their cross-gendered representation.<note target="#69" type="footnotelink">69</note></p>
+        <p style="body" n="29">We propose that, like <hi rend="italic">Lanval</hi>, the <hi
+            rend="italic">Seven Sages</hi> invites a reflective reading of the Potiphar’s wife
+          motif. The <hi rend="italic">Seven Sages</hi> is a text that repeatedly displays the
+          opportunistic redeployment of pre-existing tales in order to score a rhetorical point. The
+          sages tell tales that they interpret for the emperor as warnings of the dangers of hasty
+          action or the wiles of women, while the empress presents her stories as evidence for the
+          unreliability of advisors and the usurping desires of princes. Neither teller captures the
+          full potential of their stories and the same doubtful attitude that the poem cultivates
+          towards these narrators can also be extended to the narrator of the frame. Here we follow
+          the model advanced by Bettina Bildhauer, who argues that the rampant misogyny of the
+          monastic <hi rend="italic">Dolopathos</hi> narrator should warn readers against
+          uncritically accepting his account of the empress’s assault on the prince.<note
+            target="#70" type="footnotelink">70</note> After Bildhauer, we might read the Middle
+          English <hi rend="italic">Seven Sages</hi> with its own fortified misogyny as a poem that
+          fosters awareness of the antifeminism not only of its own frame but also of the cultures
+          that perpetuate the Potiphar’s wife motif.<note target="#71" type="footnotelink"
+          >71</note></p>
+        <p style="body" n="30">Support for this argument can be found in medieval literary theory
+          describing the function of <hi rend="italic">exempla</hi>, or short narrative examples.
+          Writers on this topic emphasized the intellectual and emotional training that the use of
+          fiction in moral education might facilitate; in so doing, they dwelt on the potential of
+          individual examples to generate multiple, potentially contradictory readings, especially
+          where they were embedded in bigger narrative contexts.<note target="#72"
+            type="footnotelink">72</note> The stories that the sages tell in the <hi rend="italic"
+            >Seven Sages</hi> exemplify this quality insofar as several of them seem likely to
+          engender sympathy for the women whom they depict. This is the case, for instance, of the
+          stories featuring unhappy, cooped up wives, including <hi rend="italic">puteus</hi>, the
+          tale of the well; <hi rend="italic">tentamina</hi>, the tale of the tests; and <hi
+            rend="italic">inclusa</hi>, the tale of the recluse.<note target="#73"
+            type="footnotelink">73</note> It is also the case that the sages’ own behavior
+          undermines their credibility, for example in the rather ungainly competition with which
+          the text opens in which the sages vie for the right to instruct Florentine.<note
+            target="#74" type="footnotelink">74</note></p>
+        <p style="body" n="31">The empress is similarly discredited in the occasionally odd morals
+          that she appends to her stories. In <hi rend="italic">gaza</hi>, for example, the empress
+          objects not that the son in the tale decapitates his father in order to prevent the
+          father’s identification as a thief but rather that the son throws his father’s head into a
+          privy instead of choosing a more suitable place for its burial (1339–50).<note
+            target="#75" type="footnotelink">75</note> Our point is thus not that the collection is
+          really a pro-woman manifesto but that all of its positive assertions are made doubtful by
+          the fictions that its speakers engage. We view the <hi rend="italic">Seven Sages</hi> as
+          an instantiation of medieval misogyny that is polyvocal insofar as it contains within it
+          the possibility of its own undoing.<note target="#76" type="footnotelink">76</note></p>
+        <p style="body" n="32">The essential slipperiness of the collection’s tales is illustrated
+          by the variety that characterizes their moralization, which we detail in the Explanatory
+          Notes. In the most extreme cases, the tales told switch tellers over the course of the
+          work’s transmission. The redactor of the <hi rend="bold">H</hi>-text saw the potential of
+            <hi rend="italic">inclusa</hi> to speak for the empress and gave the tale to her, for
+          example. Conversely, the empress gets two tales in the <hi rend="italic">Seven Sages</hi>
+          that elsewhere were told by her opponents. In the <hi rend="italic">Book of Sindbad</hi>,
+          a version of <hi rend="italic">senescalcus</hi> is told by one of the sultan’s advisors;
+          and in the <hi rend="italic">Dolopathos</hi>, <hi rend="italic">gaza</hi> is told by one
+          of the wise men pleading for the prince.<note target="#77" type="footnotelink">77</note>
+          Table 5 shows the movement of <hi rend="italic">inclusa</hi> (in bold) from the sages to
+          the empress; it is also intended as a finding aid for readers working across the three
+          main branches of the <hi rend="italic">Seven Sages</hi>, which have the collection’s tales
+          in different orders.</p>
+        <p style="heading4">Table 5: Tales and their Tellers in Three Branches of the <hi
+            rend="italic">Seven Sages</hi></p>
+        <table style="basictable">
+
+
+
+
+
+
+          <row role="label">
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="smallcaps">Tales and Tellers</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">K</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">A</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bold">H</hi></p>
+            </cell>
+          </row>
+
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">1. Empress</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">arbor</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">arbor</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">arbor</hi></p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">2. Sage</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">canis</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">canis</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">canis</hi></p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">3. Empress</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">senescalcus</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">aper</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">aper</hi></p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">4. Sage</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">medicus</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">medicus</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">puteus</hi></p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">5. Empress</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">aper</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">gaza</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">gaza</hi></p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">6. Sage</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">puteus</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">puteus</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">avis</hi></p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">7. Empress</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">Roma</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">senescalcus</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">sapientes</hi></p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">8. Sage</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">tentamina</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">tentamina</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">tentamina</hi></p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">9. Empress</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">gaza</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">Virgilius</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">Virgilius</hi></p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">10. Sage</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">avis</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">avis</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">medicus</hi></p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">11. Empress</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">sapientes</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">sapientes</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">senescalcus</hi> + <hi rend="italic"
+                  >Roma</hi> (1)</p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">12. Sage</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">vidua</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">vidua</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">amatores</hi></p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">13. Empress</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">Virgilius</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">Roma</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bolditalic">inclusa</hi></p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">14. Sage</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bolditalic">inclusa</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="bolditalic">inclusa</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">vidua</hi></p>
+            </cell>
+          </row>
+          <row role="data">
+            <cell style="Basic-Table">
+              <p style="horizontal-left">15. Prince</p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">vaticinium</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">vaticinium</hi></p>
+            </cell>
+            <cell style="Basic-Table">
+              <p style="horizontal-left"><hi rend="italic">vaticinium</hi> + <hi rend="italic"
+                  >amici</hi></p>
+            </cell>
+          </row>
+
+        </table>
+        <p style="heading4"><hi rend="smallcaps">Notes on the Table</hi>:</p>
+        <list rend="nobullets">
+          <item style="indent1">(1) The redactor of the <hi rend="bold">H</hi>-text makes some
+            substantial changes to the conclusion of the work, combining <hi rend="italic"
+              >senescalcus</hi> with <hi rend="italic">Roma</hi>, giving <hi rend="italic"
+              >inclusa</hi> to the empress, and adding one tale not found elsewhere: <hi
+              rend="italic">amatores</hi>, in which a husband and wife conspire to defraud and
+            murder three suitors of the wife and have the wife’s brother dispose of the bodies. The
+              <hi rend="bold">H</hi>-text also pads out its rendition of <hi rend="italic"
+              >vaticinium</hi> with <hi rend="italic">amici</hi>, a version of the <hi rend="italic"
+              >Amis and Amiloun</hi> story. On these alterations, see the headnotes to <hi
+              rend="italic">senescalcus</hi>, <hi rend="italic">Roma</hi>, <hi rend="italic"
+              >inclusa</hi>, and <hi rend="italic">vaticinium</hi>. On <hi rend="italic"
+              >amatores</hi> and <hi rend="italic">amici</hi>, see Foehr-Janssens, <hi rend="italic"
+              >L’Histoire des sept sages</hi>, pp. 35–37 and 41–47.</item>
+        </list>
+        <p style="heading" n="7">Conclusions</p>
+        <p style="bodyfirst" n="9">The reading of the <hi rend="italic">Seven Sages</hi> that we
+          propose is diametrically opposed to that advanced by George Kane, who praised the work for
+          its “skilful manipulation of material [. . .] so that it shall all make one single point.”
+          For Kane, this point was that evil unchecked will triumph:</p>
+        <quote>Wrong triumphs over obtuseness or complacency, and the consequences of that
+          obtuseness or complacency are generally so final and overwhelming that they condemn it
+          more than any formal reproof could have done. So morality is saved, and meanwhile there is
+          opportunity for an extended display of knavery which is both praiseworthy, in view of the
+          end which it serves, and at the same time exciting and interesting in the way that evil is
+          — however deplorably — more exciting and interesting than good.<note target="#78"
+            type="footnotelink">78</note></quote>
+        <p style="bodysubsection" n="6">We commend Kane for being one of the few writers to include
+          the <hi rend="italic">Seven Sages</hi> in a survey of Middle English literature, and we
+          appreciate his sensitivity to the work’s capacity to entertain, but we contest the idea
+          that its morality is so straightforward and, more fundamentally, we reject the idea that
+          the poem might be designed to make only one point.</p>
+        <p style="body" n="33">This Introduction has focused on the psychological acuity of the
+          Middle English <hi rend="italic">Seven Sages</hi>. Here is a text which, in <hi
+            rend="italic">canis</hi>, can depict the mixed feelings that parents might have
+          regarding their children. We have also shown the varying perspectives on women’s
+          experiences and their representation that the poem fosters as well as the multiplicity of
+          interpretations that its inset tales invite. Beyond these considerations, the <hi
+            rend="italic">Seven Sages</hi> taps into concerns that are at the forefront of scholarly
+          minds in the mid 2020s. The text’s rendition of a simulated sexual assault makes it a
+          valuable point of reference for the discussions of rape and consent in medieval contexts
+          that have been held in the wake of pioneering archival work on the Chaucer-Chaumpaigne
+          rape case. The broad transmission and reception history of the poem also constitutes a
+          useful test case for proponents of a Global Middle Ages who seek to illuminate lines of
+          contact between western Europe and the Near East. We hope that this edition will inspire a
+          new generation of students and scholars to take up the Middle English <hi rend="italic"
+            >Seven Sages of Rome</hi> with these — and many other — points in mind.</p>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="1"><space rend="indent1"/>For a more detailed Plot Summary, see
+          Appendix 3.</note>
+        <note type="footnote" n="2"><space rend="indent1"/>See Perry, “The Origin of the Book of
+          Sindbad.” For a defense of the earlier theory that the <hi rend="italic">Book of
+            Sindbad</hi> originates in India, see Upadhyaya, “Indic Background of <hi rend="italic"
+            >The Book of Sindibad</hi>.” On the Indian origins of some of the collection’s inset
+          tales, see Artola, “The Nature of the <hi rend="italic">Book of Sindbād</hi>.”</note>
+        <note type="footnote" n="3"><space rend="indent1"/>See Krönung, “Fighting with Tales
+          1.”</note>
+        <note type="footnote" n="4"><space rend="indent1"/>For this date, see Speer and
+          Foehr-Janssens, pp. 64–74.</note>
+        <note type="footnote" n="5"><space rend="indent1"/>See Foehr-Janssens, “De Jérusalem à
+          Rome,” “Le désir et le savoir,” and “Misogyny and the Trends.” On the alterations that the
+          frame narrative of the <hi rend="italic">Book of Sindbad</hi> undergoes, see too the
+          headnotes to the Prologue and the Conclusion in the Explanatory Notes. For two instances
+          where orientalizing elements appear to have been introduced, see the Explanatory Notes to
+          lines <hi rend="bold">E</hi>61–62 and the headnote to <hi rend="italic">Roma</hi>; see too
+          Critten, “Sodomy and the East.”</note>
+        <note type="footnote" n="6"><space rend="indent1"/>See Belcher, “The Diffusion of the Book
+          of Sindbād,” pp. 49–53. On the theoretical stakes associated with attempts to trace the
+          east-west passage of texts like the <hi rend="italic">Book of Sindbad</hi>, see Mallette,
+          “Reading Backward.”</note>
+        <note type="footnote" n="7"><space rend="indent1"/>See Campbell, p. xvii. See too the
+          repertories of texts in Runte, Wikeley, and Farrell, <hi rend="italic">The Seven Sages of
+            Rome</hi>, pp. 25–157; and <hi rend="italic">Seven Sages of Rome Database</hi> by editor
+          Bettina Bildhauer, data manager Jane Bonsall, and database creator M. North at the
+          University of St Andrews, <ref target="https://db.seven-sages-of-rome.org" type="external"
+            >https://db.seven-sages-of-rome.org</ref>.</note>
+        <note type="footnote" n="8"><space rend="indent1"/>See Campbell, pp. xxi–xxxv.</note>
+        <note type="footnote" n="9"><space rend="indent1"/>For two attempts to represent the
+          transmission history of the <hi rend="italic">Seven Sages</hi> in the form of a stemma,
+          see <hi rend="italic">Li Ystoire de la male marastre</hi>, ed. Runte, p. xviii; and <hi
+            rend="italic">The Buke of the Sevyne Sagis</hi>, ed. van Buuren, p. 187.</note>
+        <note type="footnote" n="10"><space rend="indent1"/>See <hi rend="italic">The Buke of the
+            Sevyne Sagis</hi>, ed. van Buuren, pp. 131–81.</note>
+        <note type="footnote" n="11"><space rend="indent1"/>On the relationship of the <hi
+            rend="italic">Dolopathos</hi> to the Sindbad tradition, see Ziolkowski, “Vergil as
+          Shahrazad.”</note>
+        <note type="footnote" n="12"><space rend="indent1"/>See Campbell, pp. xl–lvii. Brunner (pp.
+          xx–xxi) suggests that <hi rend="bold">D</hi> might represent an independent translation of
+          the French source but Whitelock (pp. xlvi–xlix) disproves this supposition.</note>
+        <note type="footnote" n="13"><space rend="indent1"/>See Whitelock, pp. xxxviii–xlvi.</note>
+        <note type="footnote" n="14"><space rend="indent1"/>See Campbell, p. lix.</note>
+        <note type="footnote" n="15"><space rend="indent1"/>The standard account of the making of
+          the book is Shonk, “A Study of the Auchinleck Manuscript.”</note>
+        <note type="footnote" n="16"><space rend="indent1"/>For a facsimile and edition, see Burnley
+          and Wiggins, <hi rend="italic">The Auchinleck Manuscript</hi>. See too <hi rend="italic"
+            >The Auchinleck Manuscript</hi>, intro. Pearsall and Cunningham. For a recent
+          description, see Fein, “Introduction.”</note>
+        <note type="footnote" n="17"><space rend="indent1"/>On Auchinleck’s post-production career,
+          see Connolly and Edwards, “Evidence for the History of the Auchinleck Manuscript.” Whereas
+          the putative miniature that once opened the Auchinleck <hi rend="italic">Seven Sages</hi>
+          would be a unique instance of illustration in the corpus of Middle English<hi
+            rend="italic"> Seven Sages</hi> manuscripts, several of the books containing French
+          prose text <hi rend="bold">A*</hi> were illustrated. These illustrations offer a
+          thought-provoking guide to the late-medieval reception of the <hi rend="italic">Seven
+            Sages</hi>. See Runte, “The Scribe and Miniaturist as Reader.”</note>
+        <note type="footnote" n="18"><space rend="indent1"/>See Hanna, <hi rend="italic">London
+            Literature</hi>, pp. 104–47. Further description of the decoration in Auchinleck is
+          provided in the Textual Notes.</note>
+        <note type="footnote" n="19"><space rend="indent1"/>See Pearsall, “The Auchinleck
+          Manuscript.”</note>
+        <note type="footnote" n="20"><space rend="indent1"/>For an overview, see Olson, “Romancing
+          the Book,” pp. 99–116.</note>
+        <note type="footnote" n="21"><space rend="indent1"/>See Hanna, <hi rend="italic">London
+            Literature</hi>, pp. 116–17.</note>
+        <note type="footnote" n="22"><space rend="indent1"/>See Meale, “Deluxe Copies of Middle
+          English Romance,” p. 96; and Critten, “The Affordances.”</note>
+        <note type="footnote" n="23"><space rend="indent1"/>For a facsimile and a description, see
+            <hi rend="italic">Cambridge University Library MS Ff.2.38</hi>, intro. McSparran and
+          Robinson.</note>
+        <note type="footnote" n="24"><space rend="indent1"/>On the mix of romance and penitential
+          materials in the codex, see Radulescu, “Macrocosm and Microcosm.”</note>
+        <note type="footnote" n="25"><space rend="indent1"/>See Johnston, <hi rend="italic">Romance
+            and the Gentry</hi>, pp. 119–22, and “Two Leicestershire Romance Codices.”</note>
+        <note type="footnote" n="26"><space rend="indent1"/>For a description, see Lewis and
+          McIntosh, <hi rend="italic">Descriptive Guide</hi>, pp. 57–58.</note>
+        <note type="footnote" n="27"><space rend="indent1"/>For an edition of the text recording
+          variant readings from Arundel 140, see <hi rend="italic">Altenglische Legenden</hi>, ed.
+          Horstmann, pp. 511–26.</note>
+        <note type="footnote" n="28"><space rend="indent1"/>See Jackson, “Chaucer’s <hi
+            rend="italic">Melibee</hi>,” pp. 106–15.</note>
+        <note type="footnote" n="29"><space rend="indent1"/>See Hanna, <hi rend="italic">Introducing
+            English Medieval Book History</hi>, pp. 96–131; and Johnston, “Copying and Reading <hi
+            rend="italic">The Prick of Conscience</hi>,” pp. 765–66.</note>
+        <note type="footnote" n="30"><space rend="indent1"/>For descriptions, see Hanna, <hi
+            rend="italic">Introducing English Medieval Book History</hi>, pp. 98–99; and Lewis and
+          McIntosh, <hi rend="italic">Descriptive Guide</hi>, pp. 58–59.</note>
+        <note type="footnote" n="31"><space rend="indent1"/>For a description, see Lewis and
+          McIntosh, <hi rend="italic">Descriptive Guide</hi>, p. 116.</note>
+        <note type="footnote" n="32"><space rend="indent1"/>For an edition of the text from
+          Rawlinson Poet. 175, see <hi rend="italic">Three Purgatory Poems</hi>, ed. Foster, pp.
+          27–107.</note>
+        <note type="footnote" n="33"><space rend="indent1"/>For a description, see Whitelock, pp.
+          xx–xxxiii.</note>
+        <note type="footnote" n="34"><space rend="indent1"/>See Hanna, “Cambridge, University
+          Library MS Dd.1.17.”</note>
+        <note type="footnote" n="35"><space rend="indent1"/>For a description, see Parker, <hi
+            rend="italic">The Commonplace Book</hi>, pp. 17–36.</note>
+        <note type="footnote" n="36"><space rend="indent1"/>Further description of the decoration in
+          Egerton 1995 is provided in the Textual Notes.</note>
+        <note type="footnote" n="37"><space rend="indent1"/>Egerton was rebound in the nineteenth
+          century in red leather with the crest and motto of Lord Charlemont, the owner of the
+          manuscript until it was purchased by the British Museum in 1865. See <hi rend="italic"
+            >John Page’s Siege of Rouen</hi>, ed. Bellis, pp. xliv–xlvii.</note>
+        <note type="footnote" n="38"><space rend="indent1"/>Parker, <hi rend="italic">The
+            Commonplace Book</hi>, p. 35.</note>
+        <note type="footnote" n="39"><space rend="indent1"/>For a facsimile, see <hi rend="italic"
+            >Digital Bodleian</hi>, <ref target="https://digital.bodleian.ox.ac.uk" type="external"
+            >https://digital.bodleian.ox.ac.uk</ref>. For a description, see Parker, <hi
+            rend="italic">The Commonplace Book</hi>, pp. 37–88.</note>
+        <note type="footnote" n="40"><space rend="indent1"/>See Collier, “Richard Hill”; Gillespie,
+          “Balliol MS 354”; and Thompson, “Texts and the City.”</note>
+        <note type="footnote" n="41"><space rend="indent1"/>For a partial transcription of Balliol
+          354, see <hi rend="italic">Songs, Carols, and Other Miscellaneous Poems</hi>, ed.
+          Dyboski.</note>
+        <note type="footnote" n="42"><space rend="indent1"/>See Lindenbaum, “London Texts,” pp.
+          307–08. For an edition of the <hi rend="italic">Siege of Rome</hi> from Egerton 1995, see
+            <hi rend="italic">John Page’s The Siege of Rouen</hi>, ed. Bellis.</note>
+        <note type="footnote" n="43"><space rend="indent1"/>The notice of a “book of vij Sagys”
+          delivered to Walter Paston in the Paston Letters may refer to one such lost copy. See <hi
+            rend="italic">Paston Letters and Papers</hi>, ed. Davis, 1.576. We are grateful to Diane
+          Watt for sharing this reference with us. See further Watt, <hi rend="italic">God’s Own
+            Gentlewoman</hi>, p. 191.</note>
+        <note type="footnote" n="44"><space rend="indent1"/>See the headnotes to <hi rend="italic"
+            >senescalcus</hi>, <hi rend="italic">Virgilius</hi>, and <hi rend="italic">avis</hi> in
+          the Explanatory Notes.</note>
+        <note type="footnote" n="45"><space rend="indent1"/>Variance is less pronounced between the
+          two northern version texts, <hi rend="bold">C</hi> and <hi rend="bold">R</hi>, which
+          Campbell argues were copied from the same source (pp. lxxi–lxxiii). Variance between the
+          texts of the southern version is more pronounced and is recorded in the on-page notes to
+          Brunner’s edition and discussed in our Explanatory Notes.</note>
+        <note type="footnote" n="46"><space rend="indent1"/>See Campbell, pp. xliii–xlv.</note>
+        <note type="footnote" n="47"><space rend="indent1"/>See <hi rend="italic">Kyng
+            Alisaunder</hi>, ed. Smithers, 2:40–55, arguing for the common authorship of these
+          works; and compare <hi rend="italic">Of Arthour and of Merlin</hi>, ed. Macrae-Gibson,
+          2:65–75.</note>
+        <note type="footnote" n="48"><space rend="indent1"/>On the creative work of the Middle
+          English translator, see further Critten, “The Affordances.”</note>
+        <note type="footnote" n="49"><space rend="indent1"/>See Wiggins, “Are Auchinleck Manuscripts
+          Scribes 1 and 6 the Same Scribe?,” “Guy of Warwick in Warwick,” and “Imagining the
+          Compiler.” On Guy of Warwick, see <hi rend="italic">Guy of Warwick: Icon and
+          Ancestor</hi>, ed. Wiggins and Field; and <hi rend="italic">The Stanzaic Guy of
+            Warwick</hi>, ed. Wiggins.</note>
+        <note type="footnote" n="50"><space rend="indent1"/>See Critten, “The Affordances,” “The
+          Exploitation of French-English Lexical Transfer”; and Critten, Picca, and Gay-Crosier,
+          “French Lexis in the Auchinleck Manuscript.” On the anglophone and anglophile credentials
+          of Auchinleck, see Turville-Petre, <hi rend="italic">England the Nation</hi>, pp.
+          108–41.</note>
+        <note type="footnote" n="51"><space rend="indent1"/>Several other Auchinleck texts are also
+          available in METS editions for research and teaching. As well as Wiggins’s edition of the
+            <hi rend="italic">Stanzaic Guy</hi> (above), see the <hi rend="italic">King of
+          Tars</hi>, ed. Chandler; <hi rend="italic">Sir Owain</hi>, in <hi rend="italic">Three
+            Purgatory Poems</hi>, ed. Foster; <hi rend="italic">Amis and Amiloun</hi>, in <hi
+            rend="italic">Amis and Amiloun</hi>, ed. Foster; <hi rend="italic">Sir Degaré</hi>, <hi
+            rend="italic">Sir Orfeo</hi>, and <hi rend="italic">Lay le Freine</hi>, in <hi
+            rend="italic">The Middle English Breton Lays</hi>, ed. Laskaya and Salisbury; <hi
+            rend="italic">Floris and Blancheflour</hi>, in <hi rend="italic">Sentimental and
+            Humorous Romances</hi>, ed. Kooper; <hi rend="italic">Bevis of Hampton</hi>, in <hi
+            rend="italic">Four Romances of England</hi>, ed. Herzman, Drake, and Salisbury; <hi
+            rend="italic">Roland and Vernagu</hi> and <hi rend="italic">Otuel A Knight</hi>, in <hi
+            rend="italic">The Roland and Otuel Romances</hi>, ed. Melick, Fein, and Raybin; <hi
+            rend="italic">Sir Tristrem</hi>, in <hi rend="italic">Lancelot of the Laik and Sir
+            Tristrem</hi>, ed. Lupack; and <hi rend="italic">The Simonie</hi>, in <hi rend="italic"
+            >Medieval English Political Writings</hi>, ed. Dean. <hi rend="italic">Horn Childe and
+            Maiden Rimnild</hi>, ed. Ford is forthcoming.</note>
+        <note type="footnote" n="52"><space rend="indent1"/>See “The ‘Seven Sages of Rome’ as a
+          Global Narrative Tradition,” ed. Bildhauer, Eming, and Schmidt; and “Shades Of Misogyny,”
+          ed. Reynders and Sleiderink.</note>
+        <note type="footnote" n="53"><space rend="indent1"/>For a reading of the poem along these
+          lines, see Lumiansky, “Thematic Antifeminism.”</note>
+        <note type="footnote" n="54"><space rend="indent1"/>See Clifton, “<hi rend="italic">The
+            Seven Sages of Rome.</hi>” More nuanced readings of the Middle English poem are offered
+          by Allen, “Episodes”; Bahr, <hi rend="italic">Fragments and Assemblages</hi>, pp. 132–37;
+          Ho, “Framed Progeny”; Jaunzems, “Structure and Meaning”; and Steel, <hi rend="italic">How
+            Not to Make a Human</hi>, pp. 23–30, and “Ridiculous Mourning.” With the exception of
+          Jaunzems, none of these writers takes the <hi rend="italic">Seven Sages</hi> as their
+          primary topic.</note>
+        <note type="footnote" n="55"><space rend="indent1"/>See Speer, “Specularity in a Formulaic
+          Frame Romance.”</note>
+        <note type="footnote" n="56"><space rend="indent1"/>See Foehr-Janssens, “La parole
+          condensée.”</note>
+        <note type="footnote" n="57"><space rend="indent1"/>The practice of giving Latin names to
+          the inset tales can be traced back to Goedeke, “<hi rend="italic">Liber de septem
+            sapientibus.</hi>” Like Karl Goedeke and the continental scholars who followed him, we
+          refrain from capitalizing these titles.</note>
+        <note type="footnote" n="58"><space rend="indent1"/>Discussing the version of <hi
+            rend="italic">canis</hi> in <hi rend="bold">K</hi>, on this point, see Speer,
+          “Specularity in a Formulaic Frame Romance.”</note>
+        <note type="footnote" n="59"><space rend="indent1"/>Discussing the version of <hi
+            rend="italic">canis</hi> in <hi rend="bold">K</hi>, on this point, see Foehr-Janssens,
+          “Le chien, la femme et le petit enfant.”</note>
+        <note type="footnote" n="60"><space rend="indent1"/>See further the Explanatory Note for
+          line 735.</note>
+        <note type="footnote" n="61"><space rend="indent1"/>Discussing the version of <hi
+            rend="italic">canis</hi> in <hi rend="bold">K</hi>, on this point, see Foehr-Janssens,
+          “Quand les bêtes se taisent.”</note>
+        <note type="footnote" n="62"><space rend="indent1"/>Discussing the development of this theme
+          in the Middle English <hi rend="italic">Seven Sages</hi>, see further Allen,
+          “Episodes.”</note>
+        <note type="footnote" n="63"><space rend="indent1"/>For details, see the headnote to <hi
+            rend="italic">canis</hi> in the Explanatory Notes.</note>
+        <note type="footnote" n="64"><space rend="indent1"/>See Blackburn, “The Brahmin and the
+          Mongoose”; and Eichel-Lojkine, “<hi rend="italic">Canis</hi> dans tous ses états.”</note>
+        <note type="footnote" n="65"><space rend="indent1"/>See the Explanatory Notes for details on
+          these lines.</note>
+        <note type="footnote" n="66"><space rend="indent1"/>See Faverty, “The Story of Joseph and
+          Potiphar’s Wife”; and <hi rend="italic">Joseph and Potiphar’s Wife</hi>, ed.
+          Yohannan.</note>
+        <note type="footnote" n="67"><space rend="indent1"/>See Vines, “The Many Wives of Potiphar.”
+          For a more sympathetic reading of the portrayal of men as the victim-survivors of sexual
+          violence in the <hi rend="italic">Seven Sages</hi> and its co-texts in the Auchinleck
+          Manuscript, see now too Bonsall and Piercy, “Comparative Approaches to Men’s Experiences
+          of Sexual Coercion.”</note>
+        <note type="footnote" n="68"><space rend="indent1"/>See Kalmanofsky, <hi rend="italic">The
+            Power of Equivocation</hi>, pp. 15–35.</note>
+        <note type="footnote" n="69"><space rend="indent1"/>See Harper, “Teaching the Potiphar’s
+          Wife Motif.” For a bilingual edition of <hi rend="italic">Lanval</hi>, see <hi
+            rend="italic">The Lais of Marie de France</hi>, ed. and trans. Waters, pp. 162–95. On
+          the variety of uses to which the Potiphar’s wife motif might be put by medieval writers,
+          see further Foehr-Janssens, “La femme de Putiphar.”</note>
+        <note type="footnote" n="70"><space rend="indent1"/>See Bildhauer, “Silencing a Woman’s
+          Accusation of Attempted Rape,” and, discussing a German version of the text, “Every
+          Narrator is Biased.”</note>
+        <note type="footnote" n="71"><space rend="indent1"/>For an application of Bildhauer’s
+          insights to a reading of the Middle Scots text of the <hi rend="italic">Seven Sages</hi>
+            (<hi rend="bold">Hs</hi>), see Flynn, “A ‘Wyfis Sawe.’”</note>
+        <note type="footnote" n="72"><space rend="indent1"/>On medieval theories of the <hi
+            rend="italic">exemplum</hi>, see Allen, <hi rend="italic">False Fables</hi>, pp.
+          1–26.</note>
+        <note type="footnote" n="73"><space rend="indent1"/>See the headnotes to these tales in the
+          Explanatory Notes.</note>
+        <note type="footnote" n="74"><space rend="indent1"/>See the headnote to the Prologue in the
+          Explanatory Notes.</note>
+        <note type="footnote" n="75"><space rend="indent1"/>See the headnote to <hi rend="italic"
+            >gaza</hi> in the Explanatory Notes.</note>
+        <note type="footnote" n="76"><space rend="indent1"/>On the supposed anti-feminism of the <hi
+            rend="italic">Seven Sages</hi>, with reference to the complexity of its morals and the
+          mixed audiences that it met, see further Lundt, “<hi rend="italic">The Seven Wise
+            Masters</hi> as a Resource,” and Critten, “Hating Women.”</note>
+        <note type="footnote" n="77"><space rend="indent1"/>See the headnotes to <hi rend="italic"
+            >inclusa</hi>, <hi rend="italic">senescalcus</hi>, and <hi rend="italic">gaza</hi> in
+          the Explanatory Notes.</note>
+        <note type="footnote" n="78"><space rend="indent1"/>Kane, <hi rend="italic">Middle English
+            Literature</hi>, pp. 60–61.</note>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>

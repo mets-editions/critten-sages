@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Critten-Sages-Export-04-Editorial-Policy-Intro-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>How We Made This Edition</title>
+        <author>Critten, Rory G.</author>
+        <author>Wiggins, Alison</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Anderson, Nick</persName>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2026-06" to="2026-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2026-06" to="2026-07">Entered corrections for digital edition</resp>
+          <resp from="2026-06" to="2026-06">Entered corrections for print edition</resp>
+          <resp from="2026-06" to="2026-06">Formatted for print edition</resp>
+          <resp from="2026-06" to="2026-07">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2025-09" to="2025-10">Checked and corrected bibliographic references</resp>
+          <resp from="2025-09" to="2025-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-09" to="2025-10">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2024-09" to="2024-10">Copyedited and proofread</resp>
+          <resp from="2024-09" to="2024-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for content and scholarship</resp>
+          <resp from="2024-09" to="2024-10">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2025-08" to="2025-10">Checked and corrected bibliographic references</resp>
+          <resp from="2026-07" to="2026-07">Collected metadata</resp>
+          <resp from="2025-08" to="2025-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-08" to="2025-10">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2025-12" to="2026-01">Audited documents prior to print/export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2025-11" to="2026-07">Audited documents prior to print/export</resp>
+          <resp from="2025-10" to="2025-11">Checked and corrected bibliographic references</resp>
+          <resp from="2024-10" to="2026-08">Collated and entered corrections</resp>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2024-10" to="2025-12">Copyedited and proofread</resp>
+          <resp from="2026-07" to="2026-07">Encoded TEI</resp>
+          <resp from="2024-10" to="2025-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-10" to="2025-12">Entered corrections for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for XML export</resp>
+          <resp from="2024-10" to="2025-11">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-10" to="2024-12">Reviewed edition for content and scholarship</resp>
+          <resp from="2026-08" to="2026-08">Uploaded / Published digital edition</resp>
+          <resp from="2024-10" to="2025-11">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2026</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Texas</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Critten, Rory G.</editor>
+            <editor>Wiggins, Alison</editor>
+            <title>The Middle English Seven Sages of Rome</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2026</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/critten-sages/blob/main/critten-sages-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2026</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Critten-Sages-Export-04-Editorial-Policy-Intro"/>
+      <div type="text">
+        <p style="bodyfirst" n="1">In 2001, Alison Wiggins completed a semi-diplomatic transcription
+          of the <hi rend="italic">Seven Sages of Rome</hi>. This transcription of the poem was
+          incorporated into the 2003 digital facsimile edition of the Auchinleck Manuscript that
+          Wiggins produced collaboratively with David Burnley and the National Library of Scotland.
+          While the Burnley-Wiggins website continues to be used widely by Auchinleck scholars, it
+          presents its individual texts with minimal apparatus. In response to burgeoning interest
+          in the <hi rend="italic">Seven Sages</hi>, the current edition aims to make the text more
+          broadly accessible and to prompt wider discussion of its Middle English versions. We hope
+          to engage a wide range of student and scholarly readers from across disciplinary fields
+          who will have varying familiarity with Middle English and the literary tradition to which
+          the <hi rend="italic">Seven Sages</hi> belongs. To this end, we have repunctuated
+          Wiggins’s base transcription, regularized features of spelling, emended textual lacunae,
+          added glosses, and produced a critical apparatus of Textual Notes, Explanatory Notes, and
+            commentaries.<note target="#1" type="footnotelink">1</note> We start this account of our
+          editorial procedure and policy details by affording special attention to the scribe of our
+          base text, Auchinleck Scribe 3. Recent work on this scribe’s practices has shaped our
+          editorial approach.</p>
+        <p style="heading" n="1">Auchinleck Scribe 3 and the Auchinleck Manuscript</p>
+        <p style="bodyfirst" n="2">Auchinleck Scribe 3, the copyist of the <hi rend="italic">Seven
+            Sages</hi>, is one of six scribes who contributed to the production of the Auchinleck
+          Manuscript (<hi rend="bold">A</hi>).<note target="#2" type="footnotelink">2</note>
+          Auchinleck Scribe 3 holds an important place in scholarly understanding of the development
+          of Middle English. His language has been mapped to London and has, along with the language
+          of Auchinleck Scribe 1, been described as representative of a distinct stage in the
+          development of London English.<note target="#3" type="footnotelink">3</note> He writes in
+          a cursive bookhand that has been adduced as an early and idiosyncratic example of
+          anglicana formata (the more formal version of anglicana).<note target="#4"
+            type="footnotelink">4</note> He can be associated with a community of polyglot scribes
+          employed for their skills by the higher echelons of London society.</p>
+        <p style="body" n="1">Scribe 3 copied almost the entirety of what is now the third section
+          of the book, Booklet 3, including <hi rend="italic">The Seven Deadly Sins</hi>, <hi
+            rend="italic">The Pater Noster</hi>, <hi rend="italic">The Assumption of the Blessed
+            Virgin</hi>, <hi rend="italic">Sir Degare</hi>, <hi rend="italic">The Seven Sages of
+            Rome</hi>, and <hi rend="italic">Floris and Blauncheflur</hi>; Booklet 3 is completed by
+          the addition of <hi rend="italic">The Sayings of the Four Philosophers</hi> and <hi
+            rend="italic">The Battle Abbey Roll</hi>, which were copied by Scribes 2 and 4. It has
+          been suggested that Scribe 3 copied his texts with minimal oversight from Auchinleck
+          Scribe 1, who is usually credited with organizing the production of the codex, and we know
+          that <hi rend="bold">A</hi> was probably kept unbound as a set of soft-cover booklets for
+          some time.<note target="#5" type="footnotelink">5</note> These factors encourage a view of
+          Booklet 3 as a reading unit in and of itself, so that we can imagine <hi rend="bold"
+            >A</hi>’s text of the <hi rend="italic">Seven Sages</hi> being encountered in the
+          immediate context of Booklet 3 as well as in the larger anthology that the Auchinleck
+          Manuscript constitutes.<note target="#6" type="footnotelink">6</note></p>
+        <p style="body" n="2">The earliest work on Scribe 3 was less appreciative of his role in the
+          production of the Auchinleck Manuscript and, in particular, puzzled over the language in
+          which he writes. For example, Brunner incorrectly interpreted features of Scribe 3’s
+          spelling system as mistakes and hypothesised that he must “obviously” have been “a French
+          Norman” who was unused to writing Middle English.<note target="#7" type="footnotelink"
+            >7</note> More recently, access to digital resources including corpora of Middle English
+          texts and the <hi rend="italic">Linguistic Atlas of Late Mediaeval English</hi> have
+          allowed for systematic reassessments of Scribe 3’s language.<note target="#8"
+            type="footnotelink">8</note> From these studies there emerges the profile of a
+          well-trained scribe who was competent at copying across languages. His spelling system was
+          not odd or anomalous but reflects the spectrum of Middle English variation as a
+          non-standard language and is comparable with other Middle English scribes. His use of yogh
+          (ȝ, Ȝ) and thorn (þ, Þ) is systematic and controlled. Indeed, his efficient use of yogh
+          for a range of defined functions shows him to be meticulous. Scribe 3’s precise handling
+          of the full range of lexical and syntactic forms found in the <hi rend="italic">Seven
+            Sages</hi> secures the reliability of his copy.</p>
+        <p style="body" n="3">In the places where Auchinleck Scribe 3’s copy of the Middle English
+            <hi rend="italic">Seven Sages</hi> is deficient, we turn to the copy made by the scribe
+          of <hi rend="bold">E</hi>, a London manuscript produced towards the end of the fifteenth
+          century. The language of the scribe of <hi rend="bold">E</hi> has been mapped to
+            Surrey.<note target="#9" type="footnotelink">9</note> In this part of our edition, we
+          describe how we turned the Middle English scripts of scribes <hi rend="bold">A</hi> and
+            <hi rend="bold">E</hi> into the printed text presented in this edition.</p>
+        <p style="heading" n="2">Editorial policy</p>
+        <p style="bodyfirst" n="3">Readers interested in observing Scribe 3’s practices and in
+          comparing them with those of the scribe of <hi rend="bold">E</hi> and the edited text are
+          invited to consult the transcriptions compiled in Appendix 1. For the purposes of this
+          edition, we have adapted Scribe 3’s text for the benefit of modern readers of Middle
+          English. Many of the changes that we make conform with the METS editorial policy.<note
+            target="#10" type="footnotelink">10</note> The following account incorporates METS
+          conventions; documents how they apply to this edition; and records further editorial
+          decisions.</p>
+        <p style="heading2" n="1">Emendation</p>
+        <p style="bodyfirst" n="4">Emendations have been incorporated into the text silently and are
+          recorded in the Textual Notes. They include (i) corrections made by the scribes of <hi
+            rend="bold">A</hi> and <hi rend="bold">E</hi> as part of their copying process, such as
+          crossings out or letters inserted above the line; and (ii) our editorial changes to
+          identifiable errors to provide a text that is clearer for today’s readers. We have decided
+          not to emend the text in cases where:</p>
+        <list rend="bulleted">
+          <item style="indent1">We regard a form to be part of the spelling repertoire of the
+            scribe, rather than an error in need of emendation. These include regular use by Scribe
+            3 of <hi rend="bold">A</hi> of &lt;ht&gt; in words such as &lt;soht, wroht, loht,
+            goht&gt;, where &lt;th&gt; may otherwise be expected. We also retain &lt;ihc&gt; as a
+            legitimate spelling form for the first-person singular pronoun (262; emended by Brunner
+            to “ich”).</item>
+          <item style="indent1">Forms used by the scribe of <hi rend="bold">E</hi> vary from those
+            of Scribe 3 of <hi rend="bold">A</hi>. These forms include proper names in the inset
+            tale <hi rend="italic">Roma</hi>, which is incomplete in <hi rend="bold">A</hi> and
+            therefore continued with text supplied from <hi rend="bold">E</hi>. In <hi rend="bold"
+              >A</hi> the disguised sage in <hi rend="italic">Roma</hi> is named &lt;Gemes&gt;,
+            whereas in <hi rend="bold">E</hi> he is named &lt;Iunyus&gt;, and we preserve this
+            distinction. Examples from the <hi rend="bold">A</hi> and <hi rend="bold">E</hi> texts
+            of <hi rend="italic">Roma</hi> are included in the text samples presented in Appendix
+            1.</item>
+        </list>
+        <p style="heading2" n="2">Lineation</p>
+        <p style="bodyfirst" n="5">The base text <hi rend="bold">A</hi> (fols. 85r–99v) is defective
+          due to folios having been cut out. Fol. 84, which would have held the start of the <hi
+            rend="italic">Seven Sages</hi>, is now only a stub featuring initial letters, the text
+          having been cut away with a blade at an early stage in the manuscript’s history; and, at
+          the end of <hi rend="bold">A</hi>, a gathering is missing that would have contained around
+          1200 lines. The missing portions of the poem are supplied from <hi rend="bold">E</hi>. The
+          numbering of lines runs as follows: <hi rend="bold">E</hi>1–<hi rend="bold">E</hi>103
+          (from <hi rend="bold">E</hi>); 120–2770 (from <hi rend="bold">A</hi>, with 903–07 supplied
+          from <hi rend="bold">E</hi>); and <hi rend="bold">E</hi>2786–<hi rend="bold">E</hi>3580
+          (from <hi rend="bold">E</hi>). The lineation runs from <hi rend="bold">E</hi>103 to the
+          next line <hi rend="bold">A</hi>120, and from <hi rend="bold">A</hi>2770 to the next line
+            <hi rend="bold">E</hi>2786. This non-consecutive numbering reflects the slightly
+          different lengths of the <hi rend="bold">A</hi> and <hi rend="bold">E</hi> texts and is
+          aligned with existing editions (Brunner, Burnley-Wiggins). We preferred this solution to
+          the imposition of a new lineation system, or of double or multiple lineations.</p>
+        <p style="heading2" n="3">Layout</p>
+        <p style="bodyfirst" n="6">The layout of this edition includes editorially imposed spatial
+          breaks that serve two purposes. First, they represent visually demarcated points in the
+          manuscripts: both <hi rend="bold">A</hi> and <hi rend="bold">E</hi> feature enlarged
+          decorated capital letters throughout; our text does not distinguish these letters (e.g.,
+          by bolding) but we precede them with a line break. The one paraph in <hi rend="bold"
+            >A</hi> (a blue paraph at 655) is not transcribed but is indicated by a space above the
+          line that it opens. Both the enlarged capitals and the paraph are described in the Textual
+          Notes. Second, the spatial breaks indicate the poem’s narrative structure. Spatial breaks
+          are added where a new inset tale begins and spatial breaks are added before the start of a
+          new day in the tale-telling contest. In <hi rend="bold">A</hi>, the start of a new inset
+          tale usually coincides with an enlarged capital, but the start of a new day is not
+          visually marked. The division of the poem into days as well as the demarcation of its
+          various sections and tales is our own; we give these divisions in square brackets.</p>
+        <p style="heading2" n="4">Abbreviations</p>
+        <p style="bodysubsection" n="1">Both scribes abbreviate lightly and conventionally. We
+          silently expand all abbreviations. For example, elaborated &lt;p&gt; is expanded as “per,”
+          “pre,” or “par” according to context as in “precious” and “emperour,” and a macron above a
+          vowel is taken to represent a nasal as in “him” and “hem” (regularly), “contrarious”
+          (1084), and “garnement” (2765). Otiose strokes through the ascenders of certain letter
+          clusters such as &lt;ght&gt; are not transcribed. Where an ampersand is used by Scribe 3
+          of <hi rend="bold">A</hi>, we render it as “and.” The scribe of <hi rend="bold">E</hi>
+          uses &lt;w&gt; with superscript &lt;t&gt; (w<hi rend="superscript">t</hi>), here rendered
+          as “with;” occasionally he uses thorn with a superscript &lt;u&gt; (þ<hi
+            rend="superscript">u</hi>), which we render “thou.”</p>
+        <p style="heading2" n="5">Spelling</p>
+        <p style="bodyfirst" n="7">The spelling of this edition largely follows the manuscripts.
+          However, there are the following modernizations and regularizations:</p>
+        <list rend="bulleted">
+          <item style="indent1">The obsolete characters yogh (ȝ, Ȝ) and thorn (þ, Þ) are replaced
+            with their modern equivalents, as is described below.</item>
+          <item style="indent1">The letters <hi rend="italic">ff</hi>/<hi rend="italic">F</hi>, <hi
+              rend="italic">i</hi>/<hi rend="italic">j</hi>, and <hi rend="italic">u</hi>/<hi
+              rend="italic">v</hi> have been regularized to align with Present Day English spelling
+            conventions, for example manuscript &lt;haue, vnto, seruyse, saue&gt; have been
+            transcribed as “have,” “unto,” “servyse,” “save.”</item>
+          <item style="indent1">For the purpose of disambiguation, <hi rend="italic">of</hi>/<hi
+              rend="italic">off</hi>, <hi rend="italic">to</hi>/<hi rend="italic">too</hi>/<hi
+              rend="italic">two</hi>, and <hi rend="italic">the</hi>/<hi rend="italic">thee</hi>
+            (the definite article and the second-person pronoun) have been regularized to align with
+            Present Day English spelling conventions.</item>
+          <item style="indent1">For words ending in single &lt;e&gt;, where the vowel is long with
+            full syllabic value, it is marked with an acute accent. This affects many words of
+            French origin, for example “prevyté.” In some cases, the rhyme requires a pronunciation
+            not usually found in French (such as the example in the Explanatory Note to lines
+            2363–64, discussing “queinté”).</item>
+        </list>
+        <p style="heading2" n="6">Thorn</p>
+        <p style="bodyfirst" n="8">We replace thorn by “th.” While the scribes of <hi rend="bold"
+            >E</hi> and <hi rend="bold">A</hi> have different practices in their use of thorn, for
+          both scribes it stands for [θ] or [ð]. Thorn is used in <hi rend="bold">E</hi> typically
+          only for conventional fixed abbreviations, such as &lt;þ<hi rend="superscript">u</hi>&gt;,
+          rendered here as “thou.” In contrast, thorn is used very regularly by the scribe of <hi
+            rend="bold">A</hi> in the word-initial or word-medial position, for example, &lt;þe&gt;
+          rendered here as “the,” &lt;broþer&gt; as “brother.” Where the scribe of <hi rend="bold"
+            >A</hi> uses double thorn, it is rendered “th,” for example, &lt;seþþe&gt; as
+          “sethe.”</p>
+        <p style="heading2" n="7">Yogh</p>
+        <p style="bodyfirst" n="9">The scribe of <hi rend="bold">E</hi> does not use yogh (with one
+          exception, &lt;ȝare&gt;, which we transcribe “yare” at <hi rend="bold">E</hi>3018). By
+          contrast, Scribe 3 of <hi rend="bold">A</hi> uses yogh often and to represent a range of
+          different sounds. According to Scribe 3’s consistent spelling system, the word position of
+          yogh determines the sound that it represents. While Scribe 3 is not anomalous in this
+          respect, his usage of yogh has a wider range of functions than is often found in Middle
+          English. Thus, for the benefit of readers of this edition, we have modernized the spelling
+          by replacement of yogh with a range of characters. We replace yogh variously by <hi
+            rend="italic">g</hi>, <hi rend="italic">y</hi>, <hi rend="italic">gh</hi>, <hi
+            rend="italic">w</hi>, <hi rend="italic">s</hi>, <hi rend="italic">sh</hi>, <hi
+            rend="italic">th</hi>, <hi rend="italic">z</hi>, or by omission, as follows:</p>
+        <list rend="bulleted">
+          <item style="indent1">In the initial or medial position, before a vowel, yogh has been
+            replaced with either <hi rend="italic">g</hi> or <hi rend="italic">y</hi>. For example
+            &lt;aȝen, ȝiue, ȝate, ȝer, ȝouþe, ȝisterdai, eȝen&gt; are rendered “agen,” “give,”
+            “gate,” “yer,” “youthe,” “yisterdai,” “eyen.” Yogh may stand for the sounds [<hi
+              rend="diacritic">ɡ</hi>] or [j] here.</item>
+          <item style="indent1">In the medial position before &lt;t&gt;, yogh has been replaced with
+              <hi rend="italic">gh</hi>. For example &lt;niȝt, miȝt, liȝt, bouȝte, souȝte, þouȝte,
+            eiȝte&gt; are rendered “night,” “might,” “light,” “bought,” “soughte,” “thoughte,”
+            “eighte.” Yogh may stand for the sounds [<hi rend="diacritic">ʌɪ</hi>] or [x]
+            here.</item>
+          <item style="indent1">Where yogh represents a vowel, usually in the terminal position or
+            mid-word, following &lt;ou, w, g, gh, þ&gt;, it has either been omitted or replaced with
+            &lt;w, gh&gt;. For example &lt;feghȝting, deghȝe, seghȝ/seȝgh/seȝ, hegȝ, sloughȝ,
+            thourgȝ, thouȝ&gt; are rendered “feghting,” “deghe,” “segh,” “hegh,” “slough,”
+            “thourgh,” “though.” The combination &lt;þȝ&gt; is rendered &lt;gh&gt;, for example,
+            &lt;iseþȝ&gt; as “isegh.”</item>
+          <item style="indent1">In the initial position, yogh can stand for [<hi rend="diacritic"
+              >ʃ</hi>], in which case it has been replaced with &lt;s&gt; or &lt;sh&gt;. For example
+            &lt;ȝhe, ȝe&gt; are rendered “she,” “she.”</item>
+          <item style="indent1">In the terminal position, yogh can stand for [θ] or [ð], in which
+            case it has been replaced by &lt;th&gt;. For example &lt;wiȝ, worȝ, makeȝ,
+            bisschadeweȝ&gt; are rendered “with,” “worth,” “maketh,” “bisschadeweth.”</item>
+          <item style="indent1">In the terminal position, in certain French words and phrases, yogh
+            stands for [s] or [z] and has been replaced with &lt;z&gt;. For example &lt;saunȝ fail,
+            fiȝ a puteyn, faȝoun&gt; are rendered “saunz fail,” “fiz a puteyn,” “fazoun.”</item>
+        </list>
+        <p style="heading2" n="8">Pronouns and yogh</p>
+        <p style="bodyfirst" n="10">As a result of Scribe 3’s use of yogh, his spelling system
+          includes instances where a single written form is shared by pronouns with different
+          grammatical functions. Thus, Scribe 3’s form &lt;ȝe&gt; can function as either the
+          third-person singular feminine pronoun, or a second-person pronoun, depending on the
+          context of use. Similarly, Scribe 3’s written form &lt;ȝhe&gt; can function either as the
+          masculine or feminine third-person singular pronoun, or as a second-person pronoun. To aid
+          readers, we render Scribe 3’s pronominal form &lt;ȝe&gt; as either “she” or “ye,”
+          depending on the context, and we render Scribe 3’s pronominal form &lt;ȝhe&gt; variously
+          as “he,” “she,” or “ye.” This merging of written forms does not occur throughout the text.
+          Scribe 3 uses more than one spelling form for each pronoun. So, for example, he often uses
+          &lt;sche-&gt; forms for Present Day English <hi rend="italic">she</hi> (e.g., &lt;sche,
+          ssche, scho, sscho&gt; and once &lt;hi&gt;), and &lt;he&gt; for Present Day English <hi
+            rend="italic">he</hi>.</p>
+        <p style="heading2" n="9">Numbers</p>
+        <p style="bodyfirst" n="11">Arabic and Roman numbers are spelled out in the Middle English
+          equivalent following the scribes’ conventions.</p>
+        <p style="heading2" n="10">Capitalization</p>
+        <p style="bodyfirst" n="12">The first letter of the first word of every verse line is
+          capitalized. Elsewhere, modern grammatical conventions are followed, so the first-person
+          singular pronoun is capitalized — manuscript &lt;i&gt; is rendered “I” — and capitals are
+          used for the initial letter of new sentences, for proper names (“Florentin,” “Houngerye”),
+          for names of languages (“Freinch,” “Latin”), and for the deity, “God” or “Gode.” This
+          modification also serves to disambiguate from “god” or “gode” (<hi rend="italic"
+          >good</hi>).</p>
+        <p style="heading2" n="11">Punctuation</p>
+        <p style="bodyfirst" n="13">Both scribes punctuate but have a limited range of marks, as is
+          typical of Middle English. <hi rend="bold">A</hi>’s Scribe 3 punctuates minimally,
+          occasionally using a virgule &lt;/&gt; to mark a rhetorical pause mid line, as in &lt;Þan
+          wil ich ȝhe said / and tok a ston&gt;, or to mark the end of a verse line; and using
+          punctus elevatus to mark exclamatory function, as in &lt;allas <hi rend="diacritic">ˑ</hi>
+          allas <hi rend="diacritic">ˑ</hi>&gt; (fol. 99ra, 2636), and against either side of an
+          exclamation as in &lt;<hi rend="diacritic">ˑ</hi> O <hi rend="diacritic">ˑ</hi>&gt; and
+            &lt;<hi rend="diacritic">ˑ</hi> A <hi rend="diacritic">ˑ</hi>&gt; (as illustrated in
+          Appendix 1, Text Sample 2).<note target="#11" type="footnotelink">11</note> The scribe of
+            <hi rend="bold">E</hi> often uses a virgule &lt;/&gt; and occasionally a curled
+          horizontal line &lt;~&gt; to mark the end of verse lines. These punctuation marks from the
+          original manuscripts are not transcribed. In the process of preparing this edition, we
+          repunctuated the Burnley-Wiggins transcription with a view to assisting readers to
+          understand the text’s grammatical structure, bearing in mind that Middle English
+          conceptions of the sentence differed from those of the present day. Exclamation marks are
+          used for interjections, exclamations, or imperatives, such as “Lo!,” “A!,” “fi! fi!,”
+          “Herkenythe . . . !” Double quotation marks are used to indicate direct speech; single
+          quotation marks are used only within double quotation marks to mark direct speech quoted
+          there. In a departure from Present Day English standard written usage, possession is not
+          indicated by use of an apostrophe, for example, “the childes tale,” “stepmoderes tale,”
+          “wives rede.”</p>
+        <p style="heading2" n="12">Word division</p>
+        <p style="bodyfirst" n="14">We largely regularize word division to align with Present Day
+          English conventions. Examples that appear regularly throughout include the manuscript
+          forms &lt;for soht, for ȝiue, hem selve, him self, in dede, in to, to night, there of,
+          there fore, ther while, whar bi&gt;, which we regularize as “forsoht,” “forgive,”
+          “hemselve,” “himself,” “indede,” “into,” “tonight,” “thereof,” “therefore,” “therwhile,”
+          “wharbi.” Further examples are listed in the Textual Notes, such as where we have emended
+          the manuscript forms &lt;redman, souke ȝing, bistore, so do miȝte&gt; to appear as “red
+          man,” “soukeying,” “bi store,” “sodomighte.” Where the first-person pronoun is attached to
+          the following verb, a space is added, so that manuscript &lt;ido&gt; is transcribed “I
+          do.”</p>
+        <p style="body" n="4">We hyphenate compounds where a hyphen is needed for clarification or
+          to align with Present Day English usage. For example “hond-habbing,” “fot-hot,” “als-so
+          tit,” “to-done,” “anon-ryghtys.” The prefixes &lt;a-, i-, y-, on-, to-, for-&gt; are
+          presented with no space and no hyphen as in “tofore,” “tocragged,” “ofsend,” and “iwis.”
+          For metrical reasons, where it is important not to lose a syllable, we retain the
+          separated genitive where it occasionally appears, as in “the emperoure ys masse.” We
+          retain elided forms of the definite article as they appear in the manuscript, as in
+          “themperour.”</p>
+        <p style="heading2" n="13">Italics</p>
+        <p style="bodyfirst" n="15">Italics are not used by the scribes. The only time we render
+          text in italics is to indicate the name of a book or work, for example “<hi rend="italic"
+            >Catonne</hi>” and “<hi rend="italic">Donet</hi>.” While some editors use italics to
+          mark code-switching out of the matrix language, we do not italicize French- and
+          Latin-derived words and phrases in this way. This decision reflects our conviction that it
+          is not always easy in a text of this date to determine where English ends and the other
+          languages begin. Where a whole phrase appears that is not in Middle English, it is glossed
+          in full (e.g., “Deu vous doint bonjour,” glossed as <hi rend="italic">God give you good
+            day</hi>).</p>
+        <p style="heading" n="3">Further editorial apparatus</p>
+        <p style="bodyfirst" n="16">In accordance with METS practice, we provide glosses and a
+          detailed commentary on the poem and its relationship to the <hi rend="italic">Seven
+            Sages</hi> tradition in the Explanatory Notes.</p>
+        <p style="heading2" n="14">Glosses</p>
+        <p style="bodyfirst" n="17">Words or phrases that we consider difficult for today’s readers
+          are glossed alongside the text in the margin or, for longer phrases, in a footnote. There
+          are five main criteria upon which a gloss has been judged necessary:</p>
+        <list rend="bulleted">
+          <item style="indent1">Words that are obsolete or archaic in Present Day English. For
+            example, “Lo” (<hi rend="italic">look</hi>, <hi rend="italic">hey</hi>, <hi
+              rend="italic">see</hi>), “hoore” (<hi rend="italic">gray</hi>, <hi rend="italic"
+              >gray-haired</hi>), “lemman” (<hi rend="italic">lover</hi>, <hi rend="italic"
+              >beloved</hi>, <hi rend="italic">sweetheart</hi>), “soht” (<hi rend="italic"
+              >truth</hi>).</item>
+          <item style="indent1">Phrases that code-switch into French or words that would now be
+            regarded as French. For example, “par amour” (<hi rend="italic">for love’s sake</hi>),
+            “par nostre fai” (<hi rend="italic">by our faith</hi>), “saunz faile” (<hi rend="italic"
+              >without fail</hi>), “bois” (<hi rend="italic">forest</hi>).</item>
+          <item style="indent1">Words that have changed their meaning or connotations in Present Day
+            English. For example, “selli” (<hi rend="italic">sorry</hi>), “nice” (<hi rend="italic"
+              >foolish</hi>).</item>
+          <item style="indent1">Words that are the same or very similar in Present Day English, but
+            where the Middle English spelling makes them hard to recognize or ambiguous for today’s
+            readers. For example, “habben” (<hi rend="italic">have</hi>), “sone” (<hi rend="italic"
+              >son</hi>), “schild” (<hi rend="italic">child</hi>), “yif” (<hi rend="italic">if</hi>
+            or <hi rend="italic">give</hi>), “sschal” (<hi rend="italic">shall</hi>).</item>
+          <item style="indent1">Phrases, proverbs, or metaphors that are now obsolete or obscure, or
+            where the syntax may be challenging for today’s readers. For example, “So the ax pelt in
+            the helve” (<hi rend="italic">like the axe blade set in the handle of the
+            axe</hi>).</item>
+        </list>
+        <p style="bodysubsection" n="2">Frequently occurring hard words are typically only glossed
+          on their first three or four occurrences. For ease and enjoyment of reading, we suggest
+          learning by heart the frequently occurring Middle English words that we list in Appendix
+          2.</p>
+        <p style="heading2" n="15">Explanatory Notes</p>
+        <p style="bodyfirst" n="18">For the Prologue and Conclusion, and for each inset tale, the
+          Explanatory Notes include (i) an introductory summary of thematic interpretations and
+          rhetorical uses of the tale; (ii) an overview of the main plot variations across the
+          different versions of the <hi rend="italic">Seven Sages</hi>, and (iii) suggested further
+          reading. The plot of the poem and its inset narratives is recounted in Appendix 3.</p>
+        <p style="body" n="5">In the Explanatory Notes, following each introduction we give notes
+          keyed to the text that comment on and highlight features including the following:</p>
+        <list rend="bulleted">
+          <item style="indent1">Cultural and historical references, such as historical persons and
+            places, literary citations, and mythic figures.</item>
+          <item style="indent1">Relevant historical contexts, such as potential readerships.</item>
+          <item style="indent1">Points of language, which include editorial cruxes that need more
+            explanation or clarification, and notable switches in style or tone.</item>
+          <item style="indent1">Formulaic language and its inversions, such as conventions from the
+            genre of Middle English romance, well-known motifs, proverbs, and aphoristic
+            language.</item>
+          <item style="indent1">Differences between the Middle English <hi rend="italic">Seven
+              Sages</hi> in <hi rend="bold">A</hi> and other versions of the text in Middle English,
+            French, Welsh, and Scots.</item>
+          <item style="indent1">Differences between the Middle English <hi rend="italic">Seven
+              Sages</hi> in <hi rend="bold">A</hi> and the <hi rend="italic">Book of Sindbad</hi>
+            where the texts share materials.</item>
+        </list>
+
+      </div>
+      <div type="footnotes">
+
+        <note type="footnote" n="1"><space rend="indent1"/>We found two errors in the
+          Burnley-Wiggins edition, which we have corrected: <hi rend="bold">A</hi>2032 “held” for
+          “beld” and <hi rend="bold">A</hi>2054 “what” for “whan.”</note>
+        <note type="footnote" n="2"><space rend="indent1"/>On the production of the Auchinleck
+          Manuscript, see Shonk, “A Study of the Auchinleck Manuscript,” and Wiggins, “Are
+          Auchinleck Scribes 1 and 6 the Same Scribe?”</note>
+        <note type="footnote" n="3"><space rend="indent1"/>See McIntosh et al., <hi rend="italic"
+            >eLALME</hi>, profile LP6500 (for Auchinleck Scribe 3). The development of the London
+          English dialect and of Scribe 3’s language as representative of ‘Type II’ London English
+          is discussed in Samuels, “Some Applications,” pp. 87–88.</note>
+        <note type="footnote" n="4"><space rend="indent1"/>Parkes, <hi rend="italic">English Cursive
+            Book Hands</hi>, p. xvii.</note>
+        <note type="footnote" n="5"><space rend="indent1"/>See Runde, “Scribe 3’s Literary Project;”
+          and Connolly and Edwards, “Evidence for the History,” p. 303.</note>
+        <note type="footnote" n="6"><space rend="indent1"/>For a reading of Booklet 3 as a miniature
+          anthology, see Bahr, <hi rend="italic">Fragments and Assemblages</hi>, pp. 105–54.</note>
+        <note type="footnote" n="7"><space rend="indent1"/>Brunner, p. ix.</note>
+        <note type="footnote" n="8"><space rend="indent1"/>See Clark, “The Myth of ‘the Anglo-Norman
+          Scribe’”; Laing, “Confusion <hi rend="italic">Wrs</hi> Confounded”; and Runde,
+          “Reexamining Orthographic Practice.”</note>
+        <note type="footnote" n="9"><space rend="indent1"/>See McIntosh et al., <hi rend="italic"
+            >eLALME</hi>, profile LP5630 (for the scribe of <hi rend="bold">E</hi>).</note>
+        <note type="footnote" n="10"><space rend="indent1"/>See the METS Style and Formatting Guide,
+          at <ref target="https://metseditions.org/style-guide/overview" type="external"
+            >https://metseditions.org/style-guide/overview</ref>.</note>
+        <note type="footnote" n="11"><space rend="indent1"/>We thank Graham Williams for discussion
+          of Auchinleck Scribe 3’s punctuation, on which see his chapter “‘Lo!’ Exclamative
+          Punctuation in Middle English Manuscripts.”</note>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>

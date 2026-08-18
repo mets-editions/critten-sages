@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Critten-Sages-Export-05-Seven-Sages-Headnote-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Introduction to the Middle English Seven Sages of Rome</title>
+        <author>Critten, Rory G.</author>
+        <author>Wiggins, Alison</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Anderson, Nick</persName>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2026-06" to="2026-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2026-06" to="2026-07">Entered corrections for digital edition</resp>
+          <resp from="2026-06" to="2026-06">Entered corrections for print edition</resp>
+          <resp from="2026-06" to="2026-06">Formatted for print edition</resp>
+          <resp from="2026-06" to="2026-07">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2025-09" to="2025-10">Checked and corrected bibliographic references</resp>
+          <resp from="2025-09" to="2025-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-09" to="2025-10">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2024-09" to="2024-10">Copyedited and proofread</resp>
+          <resp from="2024-09" to="2024-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-09" to="2024-10">Reviewed and suggested explanatory notes</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for content and scholarship</resp>
+          <resp from="2024-09" to="2024-10">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2025-08" to="2025-10">Checked and corrected bibliographic references</resp>
+          <resp from="2026-07" to="2026-07">Collected metadata</resp>
+          <resp from="2025-08" to="2025-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-08" to="2025-10">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2025-12" to="2026-01">Audited documents prior to print/export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2025-11" to="2026-07">Audited documents prior to print/export</resp>
+          <resp from="2025-10" to="2025-11">Checked and corrected bibliographic references</resp>
+          <resp from="2024-10" to="2026-08">Collated and entered corrections</resp>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2024-10" to="2025-12">Copyedited and proofread</resp>
+          <resp from="2026-07" to="2026-07">Encoded TEI</resp>
+          <resp from="2024-10" to="2025-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-10" to="2025-12">Entered corrections for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for XML export</resp>
+          <resp from="2024-10" to="2024-12">Reviewed and suggested explanatory notes</resp>
+          <resp from="2024-10" to="2025-11">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-10" to="2024-12">Reviewed edition for content and scholarship</resp>
+          <resp from="2026-08" to="2026-08">Uploaded / Published digital edition</resp>
+          <resp from="2024-10" to="2025-11">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2026</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Texas</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Critten, Rory G.</editor>
+            <editor>Wiggins, Alison</editor>
+            <title>The Middle English Seven Sages of Rome</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2026</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/critten-sages/blob/main/critten-sages-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2026</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Critten-Sages-Export-05-Seven-Sages-Headnote"/>
+      <div type="text">
+        <p style="bodyfirst" n="1">As well as elucidating cultural references and points of
+          language, these notes aim to highlight some of the differences between the Middle English
+            <hi rend="italic">Seven Sages</hi> in <hi rend="bold">A</hi> and the other versions of
+          the <hi rend="italic">Seven Sages</hi> materials in English and in other languages. Our
+          focus falls most intensively on the other Middle English texts: <hi rend="bold">Ar</hi>,
+            <hi rend="bold">B</hi>, <hi rend="bold">C</hi>, <hi rend="bold">D</hi>, <hi rend="bold"
+            >E</hi>, <hi rend="bold">F</hi>, <hi rend="bold">R</hi>. We cite these texts as they
+          appear either as the base texts or in lists of variants in the editions by Brunner,
+          Campbell, and Whitelock (in the case of <hi rend="bold">Ar</hi>, <hi rend="bold">B</hi>,
+          and <hi rend="bold">E</hi> we give line numbers only where Brunner edits these texts in
+          parallel; otherwise variants in these three witnesses can be traced in Brunner by
+          Auchinleck line number). We also regularly consider the French prose text from which the
+          Middle English texts derive, <hi rend="bold">A*</hi>, as well as a Welsh <hi rend="bold"
+            >A</hi>-text (<hi rend="bold">Aw</hi>), the French verse text (<hi rend="bold">K</hi>),
+          and an English (<hi rend="bold">He</hi>) and a Scots (<hi rend="bold">Hs</hi>) version of
+          the <hi rend="bold">H</hi>-text. We give selected variants from <hi rend="bold">L</hi> and
+            <hi rend="bold">M</hi>, whose closest relationship is with <hi rend="bold">A*</hi>; from
+            <hi rend="bold">D*</hi>, whose closest relation is <hi rend="bold">K</hi>; and from <hi
+            rend="bold">S</hi>. Where they share material with the <hi rend="italic">Seven
+            Sages</hi>, we refer to the <hi rend="italic">Dolopathos</hi> (<hi rend="bold">Do</hi>)
+          and to the extant texts of the <hi rend="italic">Book of Sindbad</hi> that we have been
+          able to consult in translation (<hi rend="bold">SindA101</hi>, <hi rend="bold"
+            >SindA1001</hi>, <hi rend="bold">SindSyr</hi>, <hi rend="bold">SindGr</hi>, <hi
+            rend="bold">SindSp</hi>, <hi rend="bold">SindHeb</hi>, <hi rend="bold">SindP1</hi>, <hi
+            rend="bold">SindP2</hi>, <hi rend="bold">SindP3</hi>). Our notes relating <hi
+            rend="bold">A</hi> to other renditions of the <hi rend="italic">Seven Sages</hi> are
+          intended to demonstrate the variety with which these materials have been handled; they do
+          not pretend to offer an exhaustive account of the variety that characterizes the <hi
+            rend="italic">Seven Sages</hi> tradition. We hope that readers of this edition will be
+          encouraged to embark on their own comparative studies.</p>
+        <p style="heading" n="1">Prologue</p>
+        <p style="bodyfirst" n="2">The first five hundred lines of the <hi rend="italic">Seven
+            Sages</hi> establish the context in which the ensuing story-telling contest will be
+          conducted. The empress will tell tales designed to incite her husband to execute his son,
+          to which the sages will respond with tales aiming to assuage or redirect the imperial ire.
+          The poem’s audience is made privy to the fallacious nature of the empress’s claim that the
+          prince tried to rape her. Here we see her attempting to seduce the young prince and, when
+          she fails, fabricating evidence of an attack (419–82). A limited perspective on the
+          empress’s motivation is afforded by a passage in which we see her being goaded into action
+          by one of her husband’s courtiers (239–46). The silence of the prince in the face of the
+          empress’s accusations is more thoroughly explained. He has seen in the stars that his
+          survival will require him to remain dumb for the first seven days after his return to his
+          father’s court (323–86). The prince’s taciturnity stokes tension in anticipation of the
+          eighth day, when he will speak in his own defense; at the same time, it necessitates the
+          intervention of the sages on the prince’s behalf in the intervening period.</p>
+        <p style="body" n="1">The setting of the action at Rome is emphasized. We find ourselves at
+          the court of the emperor Diocletian (<hi rend="bold">E</hi>3–8), in the company of the
+          famous Roman pedagogue Cato (<hi rend="bold">E</hi>73–88), and in a hall that is
+          constructed on the banks of the river Tiber (151–56). This location provides uncertain
+          grounds for the ensuing trial. The poem delights in clerical wisdom and pedagogic theory
+          where it depicts the construction of the ideal school and the year-by-year progress of a
+          model student (151–208). But the dignity of the sages is undermined by the ungainly
+          competition in which they bid to become the prince’s tutor (<hi rend="bold">E</hi>27–<hi
+            rend="bold">A</hi>126), by a potential flaw in their curriculum (see the Explanatory
+          Note to lines 168–82, below), and by the odd test that they set to measure the
+          effectiveness of their instruction (183–204). The barons advising Diocletian are likewise
+          tricky figures. If they are correct to caution against hasty action in the face of the
+          empress’s accusations (494–504), it is nevertheless these same men who insist that the
+          widowed emperor should remarry (211–33). This decision is at the root of the dynastic
+          struggle that ensues.</p>
+        <p style="body" n="2">The prince’s silence at his father’s court is open to a variety of
+          interpretations. It recalls the monastic vow of silence, a connection that is made patent
+          in the <hi rend="italic">Dolopathos</hi>, whose Cistercian author, Johannes de Alta Silva,
+          has the frame narrative end with the conversion of the prince and his people to
+          Christianity (<hi rend="bold">Do</hi>, pp. 81–96). The prince’s taciturnity might also be
+          seen to embody his rejection of courtly sociability in favor of the life of the mind into
+          which the sages have inducted him. In this case, the restoration of the prince’s speech
+          can be seen to coincide with the attainment of his readiness to rule. Psychoanalytic
+          readings point out that the breaking of the incest taboo that the empress attempts
+          coincides with the silence of its victim. In this regard, the <hi rend="italic">Seven
+            Sages</hi> contrasts with another text in its orbit, the <hi rend="italic">Life of
+            Secundus</hi>, in which the mutism of the hero follows, rather than precedes, an
+          incestuous encounter.</p>
+        <p style="body" n="3">Special attention is given to the empress’s simulation of an attempted
+          rape in the Introduction. This and much else in the frame of the <hi rend="italic">Seven
+            Sages</hi> is taken over from the <hi rend="italic">Book of Sindbad</hi>. There the
+          story concerns a prince who is long wished for by his father, the king, but who is slow to
+          learn until he reaches the threshold of adulthood. When his tutor, Sindbad, is finally
+          successful, he is commanded to return the prince to court so that his progress can be
+          checked. Sindbad sees in the stars that danger will result if the prince speaks and he
+          accordingly instructs him to remain silent for seven days. At court, the prince is given
+          to one of his father’s concubines, who promises to break his silence, and who proposes to
+          the prince in private that together they seize power. Outraged, the prince forgets
+          Sindbad’s interdiction and reprimands the concubine, who proceeds to simulate a rape. The
+          king is furious and commands his son’s execution, but this vengeance is delayed by a
+          storytelling competition. The father’s counsellors tell tales about the dangers of hasty
+          action and the wiles of wicked women while the concubine tells tales about unreliable sons
+          and counsellors.</p>
+        <p style="body" n="4">This is the outline of a narrative shared by the extant texts of the
+            <hi rend="italic">Book of Sindbad</hi>. Some versions have dedicatory material allowing
+          for their more precise situation and sketching out a genealogy of the text (<hi
+            rend="bold">SindGr</hi>, pp. 2–5; <hi rend="bold">SindSp</hi>, p. 15; <hi rend="bold"
+            >SindP1</hi>, pp. 15–28; <hi rend="bold">SindP2</hi>, pp. 5–8). Other variants concern
+          the name of the tutor, who is also called Sindban (<hi rend="bold">SindSyr</hi>), Syntipas
+            (<hi rend="bold">SindGr</hi>), Sindibad (<hi rend="bold">SindSp</hi>), or Sendebar (<hi
+            rend="bold">SindHeb</hi>); the location of the action, which can be set in Persia (<hi
+            rend="bold">SindGr</hi>, pp. 2–5), Judea (<hi rend="bold">SindSp</hi>, p. 15), or India
+            (<hi rend="bold">SindHeb</hi>, pp. 44–45; <hi rend="bold">SindP1</hi>, p. 27; <hi
+            rend="bold">SindP2</hi>, p. 7; <hi rend="bold">SindP3</hi>, p. 56); and the treatment of
+          the prince’s vow of silence: sometimes the prince does not break his vow (<hi rend="bold"
+            >SindHeb</hi>, pp. 82–85; <hi rend="bold">SindP3</hi>, p. 58) and in one instance he
+          breaks it to ask how his father might be killed (<hi rend="bold">SindP2</hi>, p. 25). In
+          some versions the storytelling begins before the accusation of the concubine (<hi
+            rend="bold">SindA101</hi>, <hi rend="bold">SindP1</hi>, <hi rend="bold">SindP2</hi>) and
+          sometimes there is a competition between the sages before the prince is given or returned
+          to Sindbad for instruction (<hi rend="bold">SindA101</hi>, pp. 216–21; <hi rend="bold"
+            >SindHeb</hi>, pp. 62–71; <hi rend="bold">SindSp</hi>, pp. 17–18). Only the version of
+          the prologue in <hi rend="bold">SindA1001</hi> differs broadly from the summary just
+          given. There the boy is not slow to learn; Sindbad tells the king about the necessity of
+          the prince’s silence; and the prince is sent to a pavilion to be entertained by his
+          father’s slave girls for seven days. There, one of the slaves importunes the prince, which
+          prompts his reprimand and her simulation of a rape (<hi rend="bold">SindA1001</hi>,
+          2:546–47).</p>
+        <p style="body" n="5">When the <hi rend="italic">Book of Sindbad</hi> travels westward, its
+          preliminary materials undergo a series of alterations. Most significantly, the eastern
+          locations of the story are effaced in favor of Rome, Constantinople (in <hi rend="bold"
+            >K</hi> and <hi rend="bold">D*</hi>), or Sicily (in <hi rend="bold">Do</hi>). Where
+          eastern elements are included — such as the name Malquydras, which is given to one of the
+          sages (see the Explanatory Note to lines <hi rend="bold">E</hi>61–62, below) — these have
+          been drawn from a repertoire of medieval European stereotypes and re-imposed on a
+          thoroughly westernized text. The organization and <hi rend="italic">dramatis personae</hi>
+          of the trial are also altered. With one exception (<hi rend="bold">SindP3</hi>), in the
+            <hi rend="italic">Book of Sindbad</hi>, the tales told by the king’s counsellors precede
+          the tales told by his concubine and the counsellors tell two tales each, whereas the
+          concubine tells just one. In the <hi rend="italic">Seven Sages</hi>, the concubine is
+          replaced by the emperor’s second wife; both parties tell one tale per exchange; and the
+          empress speaks first. It might be debated whether this alteration works for or against the
+          accusing woman, who is rendered at once more aggressive and more powerful in the <hi
+            rend="italic">Seven Sages</hi>. In <hi rend="bold">SindP3</hi> and the <hi rend="italic"
+            >Dolopathos</hi>, the frame narrative undergoes a different set of adaptations. There
+          the seven tales are all told by wise men counselling the prosecution of the empress; in
+          these versions, the empress has no tales of her own.</p>
+        <p style="body" n="6">The frame narrative is constructed differently across the extant
+          versions of the <hi rend="italic">Seven Sages</hi>. Variants cluster around the
+          introduction of the story matter, for which some versions imagine an oral performance; the
+          identities given to the emperor and the empress; the description of the prince’s
+          education, in which the Middle English texts take special interest; the motivations and
+          actions ascribed to the stepmother; and the nature of the misogynist commentary offered in
+          the text, which is sometimes more developed in the Middle English versions than in their
+          source.</p>
+        <p style="heading2" n="1">Further reading</p>
+        <p style="bodyfirst" n="3">The <hi rend="italic">Seven Sages of Rome</hi> is unusual among
+          medieval romances insofar as it applies to learning and scholarship the critical attention
+          that the genre more typically dedicates to chivalry. See Foehr-Janssens, <hi rend="italic"
+            >Le temps des fables</hi>, esp. pp. 13–18. The contrast between the training of the hero
+          in the <hi rend="italic">Seven Sages</hi> and in Arthurian romances is highlighted by
+          Cosman, <hi rend="italic">The Education of the Hero</hi>, pp. 147–52. On the equivocal
+          depiction of learning and scholarship in the <hi rend="italic">Seven Sages</hi>, see
+          Foehr-Janssens, “La trahison des sages”; and Speer, “Recycling the Seven Sages”; and
+          contrast Colliot, “La mauvaise vieillesse,” who argues that negative assessments of the
+          sages are appropriate only later in the <hi rend="italic">Seven Sages</hi> cycle of
+          romances.</p>
+        <p style="body" n="7">On baronial counsel in the <hi rend="italic">Seven Sages</hi>, see
+          Barnes, <hi rend="italic">Counsel and Strategy</hi>, pp. 116–20. On the prince’s silence,
+          see Foehr-Janssens, “L’Art de ne rien dire”; and Speer, “The Prince’s Baptism.” For the
+            <hi rend="italic">Life of Secundus</hi>, see <hi rend="italic">Secundus the Silent
+            Philosopher</hi>, ed. and trans. Perry.</p>
+        <p style="body" n="8">On the transformation of the <hi rend="italic">Book of Sindbad</hi> in
+          medieval Europe, see Belcher, “The Diffusion of the Book of Sindbād”; Critten, “Sodomy and
+          the East”; Foehr-Janssens, “Le désir et le savoir,” “De Jérusalem à Rome,” and “Misogyny
+          and the Trends”; and Ziolkowski, “Vergil as Shahrazad.”</p>
+        <p style="heading" n="2">Tale 1: <hi rend="italic">arbor</hi>, the tree. The empress.</p>
+        <p style="bodyfirst" n="4">In her first tale, the empress broaches a theme to which she will
+          return repeatedly: usurpation. From her perspective, the story’s meaning is clear. The
+          grand, old pine tree represents the emperor; the shoot is his son; and the success of the
+          shoot at the expense of the old tree shows what will happen to the emperor unless he acts
+          (611–19). This interpretation is complicated by the presence of the citizen of Rome, the
+            <hi rend="italic">burgeis</hi>, whom the empress does not account for. The burgess who
+          fosters the shoot and orders the gradual destruction of the old tree also has something of
+          the emperor insofar as he can be accused of favoring novelties in the form of his new wife
+          over his longer-term commitments to his son and to his lineage. Two analogues of <hi
+            rend="italic">arbor</hi> direct the reader’s sympathies to the young tree, suggesting
+          that in the <hi rend="italic">Seven Sages</hi> the tale has been adapted to suit the
+          empress’s argument.</p>
+        <p style="body" n="9"><hi rend="italic">Arbor</hi> is included in all the versions of the
+            <hi rend="italic">Seven Sages</hi>. The main variant readings concern the rank of the
+          man in whose garden the tale is set; the properties of the tree and the genesis of the
+          shoot; the outcome of the gardener’s interventions; and the empress’s moralization. On the
+          recycling of the motif of the beloved tree in <hi rend="italic">tentamina</hi>, see the
+          headnote to that tale, below.</p>
+        <p style="heading2" n="2">Further reading</p>
+        <p style="bodyfirst" n="5">On the sympathies for the empress that might be generated in <hi
+            rend="italic">arbor</hi>, see Foehr-Janssens, “Quand les bêtes se taisent.” On the
+          tale’s analogues, see Krappe, “Studies [2].”</p>
+        <p style="heading" n="3">Tale 2: <hi rend="italic">canis</hi>, the dog. First sage,
+          Bancillas.</p>
+        <p style="bodyfirst" n="6">The sages begin their defense of the prince with a tale about the
+          unreliability of women’s advice. In <hi rend="italic">canis</hi>, the central character’s
+          mistake is said to result from his willingness to act upon his wife’s counsel; if the
+          emperor has his son killed on the empress’s advice, he will suffer the same shame as did
+          the knight in the tale on account of his erroneous canicide (837–42). The tale is
+          well-chosen insofar as the knight’s treatment of his dog appears to acknowledge the
+          conflicting feelings that fathers can have regarding their succession at the same time as
+          it adumbrates the happy outcome of the emperor’s conflict with his son. Other aspects of
+          the tale are harder to recruit to the sages’ rhetorical purpose. In particular, the
+          knight’s extravagant mourning at the close of the tale recalls his characterization in
+          other versions of <hi rend="italic">canis</hi> as a figure lacking in self-control. In its
+          long history, <hi rend="italic">canis</hi> has more often been told as a warning against
+          hastiness than as a demonstration of the dangers of women’s counsel.</p>
+        <p style="body" n="10"><hi rend="italic">Canis</hi> was a popular story throughout the
+          premodern east and west; it is included in all the versions of the <hi rend="italic">Seven
+            Sages</hi>, the <hi rend="italic">Dolopathos</hi>, and all the versions of the <hi
+            rend="italic">Book of Sindbad</hi> except <hi rend="bold">SindA1001</hi> and <hi
+            rend="bold">SindP3</hi>. In the <hi rend="italic">Book of Sindbad</hi>, the story treats
+          the fate of a well-trained dog who defends his master’s baby from an attack by a viper
+          when both the master and his wife are away from home (the mother has gone to visit her
+          relatives, and he has been called to attend the king at short notice). When the father
+          returns, he sees the dog covered in blood and kills it, assuming that the animal has
+          either killed or eaten the baby (<hi rend="bold">SindA101</hi>, pp. 254–57; <hi
+            rend="bold">SindSyr</hi>, pp. 116–17; <hi rend="bold">SindGr</hi>, pp. 74–79; <hi
+            rend="bold">SindSp</hi>, p. 33; <hi rend="bold">SindHeb</hi>, pp. 164–69). In the
+          Persian versions, the mother has died since giving birth and it is a cat who saves the
+          child and suffers the consequences of the father’s hasty action (<hi rend="bold"
+            >SindP1</hi>, pp. 119–23; <hi rend="bold">SindP2</hi>, pp. 56–58). In all the versions
+          of the tale transmitted in the <hi rend="italic">Book of Sindbad</hi>, the story is told
+          as a warning against hasty action.</p>
+        <p style="body" n="11">The main variant readings amongst the versions of <hi rend="italic"
+            >canis</hi> transmitted in the <hi rend="italic">Seven Sages</hi> concern the nature of
+          the moral and the insistence with which it is propounded. The Middle English versions, <hi
+            rend="bold">A*</hi> (9.1–11.21), <hi rend="bold">He</hi> (pp. 28–31), and <hi
+            rend="bold">Hs</hi> (405–501), agree in presenting the tale as a warning against acting
+          on women’s testimony and following women’s advice, but they make this claim with varying
+          degrees of insistence. <hi rend="bold">K</hi> (1165–1398) and <hi rend="bold">Do</hi> (pp.
+          40–42) moralize the story as a warning against haste. Other variant readings concern the
+          backgrounding and order of the narrative; the age of the greyhound; the gender of the
+          snake; and the treatment of the knight’s self-exile. On the recycling of the motif of the
+          beloved dog in <hi rend="italic">tentamina</hi>, see the headnote to that tale, below. For
+          a brief discussion of <hi rend="italic">canis</hi>, see the Introduction, pp. 14–15.</p>
+        <p style="heading2" n="3">Further reading</p>
+        <p style="bodyfirst" n="7"><hi rend="italic">Canis</hi> has attracted an unusual volume of
+          critical interest amongst scholars who frequently take the tale as a test case for the
+          kinds of reading that the <hi rend="italic">Seven Sages</hi> anticipates. On the forms
+          that <hi rend="italic">canis</hi> assumes in <hi rend="bold">K</hi> and <hi rend="bold"
+            >Do</hi>, see Speer, “Specularity in a Formulaic Frame Romance” and “The Prodigal
+          Knight.” On the mixed feelings regarding succession that the tale explores, see
+          Foehr-Janssens, “Le chien, la femme et le petit enfant” and “Quand les bêtes se taisent.”
+          On the knight’s extravagant mourning, see Ho, “Framed Progeny.” For the argument that the
+          tale provokes fresh reflection on the importance of animal lives, see Steel, “Ridiculous
+          Mourning” and <hi rend="italic">How Not to Make a Human</hi>, pp. 17–40. On the
+          interdependence of humans and animals in the tale, see too Foehr-Janssens, “Le chien,
+          l’enfant et le serpent.” On the long history of the tale’s transmission from east to west,
+          see Blackburn, “The Brahmin and the Mongoose”; and Eichel-Lojkine, “<hi rend="italic"
+            >Canis</hi> dans tous ses états.” On the analogues of <hi rend="italic">canis</hi>, see
+          too Campbell, pp. lxxix–lxxxii; and Krappe, “Studies [3].”</p>
+        <p style="heading" n="4">Tale 3: <hi rend="italic">aper</hi>, the boar. The empress.</p>
+        <p style="bodyfirst" n="8">The empress responds to <hi rend="italic">canis</hi> with a
+          lesson on the dangerous allure of storytelling. The moral that she draws is clear: like
+          the herdsman who calms the boar before killing him, the sages seek to lull the emperor
+          with their tales in preparation for a mortal attack of their own (926–32). But the
+          parallel between the emperor and the boar might also shed a light on the frame narrative
+          that is less helpful for the empress’s purpose. The boar in <hi rend="italic">aper</hi> is
+          not an innocent victim; it inspires fear across a whole region (871–73) and is capable of
+          terrifying displays of anger (896–E903). Diocletian is likewise prone to fits of rage.
+          Earlier in the day, during a fractious conversation with the sage who tells <hi
+            rend="italic">canis</hi>, the emperor adds to the punishments that he is planning for
+          his son, saying that he will be drawn as well as hanged (667–68). The shepherd boy’s youth
+          and vulnerability invite comparison with the situation of the prince, and so <hi
+            rend="italic">aper</hi> might also be read as an allegory of the emperor’s tyrannical
+          and potentially self-destructive assault on his son.</p>
+        <p style="body" n="12"><hi rend="italic">Aper</hi> is included in all the versions of the
+            <hi rend="italic">Seven Sages</hi> and in all the versions of the <hi rend="italic">Book
+            of Sindbad</hi> except <hi rend="bold">SindA1001</hi> and <hi rend="bold">SindP3</hi>.
+          In the <hi rend="italic">Book of Sindbad</hi>, the story concerns a monkey and either a
+          boar or a pig. In some versions, the concubine invites the prince’s father to see the
+          monkey as a stand-in for the sages. In that case, the boar or pig arrives at a fig tree in
+          which the monkey is sitting; the monkey throws down one or more figs; and the creature
+          kills itself by straining its neck upwards for more fruit (<hi rend="bold">SindA101</hi>,
+          pp. 254–55; <hi rend="bold">SindSp</hi>, p. 32; <hi rend="bold">SindGr</hi>, pp. 72–75).
+            <hi rend="bold">SindHeb</hi> (pp. 204–07) follows this pattern but has a man in the tree
+          instead of the monkey: he has climbed up there in his flight from the boar. <hi
+            rend="bold">SindSyr</hi> (p. 116) also belongs in this group, but the animal is a sow.
+          In the two Persian versions the concubine presents the monkey as a stand-in for herself.
+          Here the monkey has retired from the world, either to pursue a life of prayer or for fear
+          of becoming a burden on its family. Fleeing his enemies, the boar strays onto the monkey’s
+          patch and is fed from the tree by the monkey, either until the monkey accuses the boar of
+          being an ungrateful guest or until there are no more figs. The boar then kills himself in
+          the process of attacking the tree (<hi rend="bold">SindP1</hi>, pp. 131–38; <hi
+            rend="bold">SindP2</hi>, pp. 59–60).</p>
+        <p style="body" n="13">The main variant readings amongst the versions of <hi rend="italic"
+            >aper</hi> transmitted in the <hi rend="italic">Seven Sages</hi> concern its
+          geographical location; the motivation of the herdsman; and the nature of the empress’s
+          moral.</p>
+        <p style="heading2" n="4">Further reading</p>
+        <p style="bodyfirst" n="9">On the various versions of <hi rend="italic">aper</hi>, see
+          Campbell, pp. lxxxii–lxxxiv, and Krappe, “Studies [1].”</p>
+        <p style="heading" n="5">Tale 4: <hi rend="italic">Medicus</hi>, the doctor. Second sage,
+          Ancilles.</p>
+        <p style="bodyfirst" n="10">The second sage intends his tale to underline the
+          unprofitability of competition with one’s natural successors: by killing his nephew and
+          burning his books, Ypocras deprives himself of two routes to healing that he might have
+          tried had he let his apprentice live (1145–68). Like <hi rend="italic">gaza</hi> and <hi
+            rend="italic">vii sapientes</hi>, which are told by the empress, <hi rend="italic"
+            >medicus</hi> is a tale in which scholars come off poorly. The tale also raises the
+          specter of the unnatural child in the form of the king of Hungary’s illegitimate son. The
+          nephew’s treatment of the Hungarian prince (1037–87) risks recalling the empress’s claim
+          that Diocletian’s son is illegitimate (477) when the sages would have the emperor’s
+          attention focused elsewhere. Also counter to their purposes is the characterization of
+          Ypocras’s nephew, who is tricky. When his uncle stops teaching him, the nephew finishes
+          his education by spying on his guardian (1011–14).</p>
+        <p style="body" n="14">For medieval readers, the criticism that accrues to Ypocras in the
+          tale might recall the doctor’s presentation as a dupe of women in the Arthurian romances.
+          In the <hi rend="italic">Estoire del saint Graal</hi>, Hippocrates is humiliated first by
+          a woman who flirts with him but then leaves him hanging in a basket from her window, then
+          by his own wife, who poisons him. Campbell (p. 160) suggests a distant link between the
+          first part of <hi rend="italic">medicus</hi> and a story according to which Hippocrates
+          discovers from external signs that an illness of Perdiccas II, king of Macedonia, was
+          caused by the king having fallen in love with his father’s concubine. Campbell (p.
+          161n1086) also notes as inspiration for the tale a fable relating Hippocrates’s burning of
+          his books at Kos, where he was librarian, in order to conceal the use that he had made of
+          them in his own writings. In the Arthurian tradition and in the <hi rend="italic">Seven
+            Sages</hi>, the value of the book learning that wise men might wield can never entirely
+          escape doubt.</p>
+        <p style="body" n="15"><hi rend="italic">Medicus</hi> is included in all the versions of the
+            <hi rend="italic">Seven Sages</hi>. <hi rend="bold">A*</hi> stands apart from the others
+          where it lacks lines describing Ypocras’s early envy of his nephew and identifying the
+          doctor’s dysentery as his punishment for killing the boy (compare, e.g., <hi rend="bold"
+            >A</hi>1018, <hi rend="bold">A</hi>1119–22, <hi rend="bold">A</hi>1148–56). In <hi
+            rend="bold">K</hi>, the tale’s stages are ordered differently. <hi rend="bold">K</hi>
+          lacks the description of the nephew’s apprenticeship, beginning instead with the story of
+          the adulterous queen’s son, which <hi rend="bold">K</hi> situates in Greece (1707–56).
+          Ypocras is afflicted with dysentery and performs the barrel trick for his friends before
+          he kills his nephew (<hi rend="bold">K</hi>1783–1804); there is also a discussion of an
+          enigmatic dictum that is the only doctrine Ypocras will transmit to his students (<hi
+            rend="bold">K</hi>1805–28). Other variant readings across the extant versions concern
+          the nephew’s apprenticeship; the diagnosis of the son born out of wedlock; the treatment
+          of Ypocras’s barrel trick; and the scope of the sage’s concluding moral.</p>
+        <p style="heading2" n="5">Further reading</p>
+        <p style="bodyfirst" n="11">On the negative depiction of book learning in <hi rend="italic"
+            >medicus</hi>, see Foehr-Janssens, “La trahison des sages” and Speer, “Recycling the
+          Seven Sages.” On the Arthurian background to the tale, see Foehr-Janssens, “Arthur et les
+          sept sages.” On Ypocras as an avatar of the emperor, see Foehr-Janssens, “La parole
+          condensée.” On the representation of Hippocrates in Arthurian romance, see Nicolas,
+          “Fabrique du personnage.” For a Middle English translation of the <hi rend="italic"
+            >Estoire</hi>, see Lovelich, <hi rend="italic">The History of the Holy Grail</hi>, ed.
+          Furnivall and Kempe; on Hippocrates, see chapters 35–37. On the sources and analogues of
+            <hi rend="italic">medicus</hi>, see Campbell, pp. lxxxiv–lxxxv; and Krappe, “Studies
+          [1]” and “Studies [3].” On a possible link between this tale and the tale of Yunan and
+          Duban in the <hi rend="italic">Thousand and One Nights</hi>, see Mallette, “Narration and
+          Silence.”</p>
+        <p style="heading" n="6">Tale 5: <hi rend="italic">gaza</hi>, the treasure. The empress.</p>
+        <p style="bodyfirst" n="12">Like <hi rend="italic">medicus</hi> and <hi rend="italic">vii
+            sapientes</hi>, <hi rend="italic">gaza</hi> is a tale in which sages come off poorly. It
+          is also a tale whose total implications appear to escape its teller. The connection that
+          the empress intends her husband to draw between the behavior of the thieving sage in <hi
+            rend="italic">gaza</hi> and his own sages is made patent where she identifies him as one
+          of a group of seven sages at the court of the emperor Octavian (1227–34). She also impugns
+          the prince’s loyalty to his father: unless the emperor acts, she concludes, his son will
+          be just as quick to chop off his father’s head and throw it in a privy as was the son in
+          the tale (1348–50). But the empress’s moral sits uneasily with her story insofar as the
+          father in <hi rend="italic">gaza</hi> repeatedly commands his own decapitation (1288–89;
+          1297–98). By killing him, the son performs an act of obedience that is ordered to save not
+          only himself but also his family (1292–96). Indeed, the empress seems rather to be
+          clutching at straws when she reserves her principal objection for the way the son disposes
+          of the head rather than the beheading per se (1339–45). Such is the gap between the tale
+          and the empress’s purpose that some readers find the match of teller to tale in this
+          instance to be deliberately designed to discredit her.</p>
+        <p style="body" n="16"><hi rend="italic">Gaza</hi> was a popular story in antiquity and in
+          the Middle Ages; it is included in all the extant versions of the <hi rend="italic">Seven
+            Sages</hi> and in the <hi rend="italic">Dolopathos</hi>. Some part of the empress’s
+          difficulty may derive from the pliability of the tale; in the <hi rend="italic"
+            >Dolopathos</hi>, it is told as an example of the propensity of appearances to deceive
+          by one of the sages contesting the empress’s rape accusation (<hi rend="bold">Do</hi>, pp.
+          43–50). The main variant readings across the extant versions concern the identity of the
+          father; the backgrounding of the narrative, and the character of the son, whose eagerness
+          to engage in the theft and to decapitate his father varies.</p>
+        <p style="heading2" n="6">Further reading</p>
+        <p style="bodyfirst" n="13">On the disjunction between the empress’s moral and her tale, see
+          Bahr, <hi rend="italic">Fragments and Assemblages</hi>, p. 132 and Ho, “Framed Progenies.”
+          For the argument that <hi rend="italic">gaza</hi> is given to the empress to discredit
+          her, see Speer, “<hi rend="italic">Translatio</hi> as <hi rend="italic">Inventio</hi>.” On
+          the transmission of <hi rend="italic">gaza</hi>, see Paris, “Le conte du trésor du roi
+          Rhampsinite,” which finds the earliest extant rendition of the tale in Herodotus. On the
+          tale’s analogues, see too Campbell, pp. lxxxv–xc. On the far eastern career of the story,
+          see Matsubara, “Chinese and Japanese Versions of <hi rend="italic">Gaza</hi>,” and “Une
+          version japonaise de <hi rend="italic">Gaza</hi>.”</p>
+        <p style="heading" n="7">Tale 6: <hi rend="italic">puteus</hi>, the well. Third sage,
+          Lentilioun.</p>
+        <p style="bodyfirst" n="14">The sages’ third tale is presented as an example of feminine
+          deceit: if the emperor kills his son on the advice of his wife, he will have been betrayed
+          by his wife in the same way as was the husband in the story (1516–20). Nevertheless,
+          sympathies might accrue to the tale’s ostensible villain. The opening puts the husband in
+          the wrong where his snobbish rejection of his neighbors’ children is described (1403–08);
+          the marriage agreement is also said to be struck between the husband and his wife’s
+          father, further alleviating the wife of responsibility for the union’s failure (1410–12).
+          Sympathy for the wife in the tale might extend to sympathy for the empress, whose marriage
+          is likewise arranged (227–30). Like <hi rend="italic">tentamina</hi> and <hi rend="italic"
+            >inclusa</hi>, <hi rend="italic">puteus</hi> is a tale in which wives might be less
+          damnable than the sages imply.</p>
+        <p style="body" n="17"><hi rend="italic">Puteus</hi> is included in all the extant versions
+          of the <hi rend="italic">Seven Sages</hi> and in the <hi rend="italic">Dolopathos</hi>,
+          where it is combined with <hi rend="italic">inclusa</hi> (<hi rend="bold">Do</hi>, pp.
+          78–79). There the wife is kept in a tower, escapes to visit a lover, and is locked out,
+          but can switch places with her husband thanks to the well trick. Instead of leaving the
+          husband outside to be discovered by the town guard, in this version, the wife lets him
+          back in after he has promised to stop locking her up. The main variants in the telling of
+          the story in the <hi rend="italic">Seven Sages</hi> concern the identity of the male
+          protagonist; the arrangement of the couple’s marriage; the wife’s relationship to her
+          suitor; and the conditions that allow for the husband’s discovery of his wife’s
+          infidelity.</p>
+        <p style="heading2" n="7">Further reading</p>
+        <p style="bodyfirst" n="15">On the transmission of <hi rend="italic">puteus</hi> beyond the
+            <hi rend="italic">Seven Sages</hi>, including mention of Molière’s <hi rend="italic"
+            >George Dandin</hi>, which reworks the tale’s faked suicide, see Campbell, pp. xc–xci.
+          On the curfew mentioned in many versions of the story, see Hilka, “Zum <hi rend="italic"
+            >Roman des Sept Sages</hi>.”</p>
+        <p style="heading" n="8">Tale 7: <hi rend="italic">senescalcus</hi>, the steward. The
+          empress.</p>
+        <p style="bodyfirst" n="16">The empress uses her fourth tale to present a new argument. If
+          the emperor loses his power, he will be driven from his own country as is the steward in
+          her story; her own losses will be smaller, she says, because she will be free to remarry,
+          as was the steward’s wife (1651–58). While there is a long tradition of portraying
+          stewards as morally tricky characters, the empress’s lesson sits oddly with the tale
+          because there has been no suggestion that the emperor shares this steward’s covetousness;
+          it also shows the empress somewhat indecorously making plans for a life without her
+          current husband. The empress’s attribution of sodomitical tendencies to the king at the
+          opening of the tale may likewise reflect unfavorably upon her given that in medieval
+          romances such accusations are often revealed to be malicious and fallacious. The
+          fourteenth century has been interpreted as a moment where attitudes towards male
+          homosexuality begin to harden and, as this happens, homosexual desires are increasingly
+          projected onto foreign others — here the Italians of Apulia and Calabria.</p>
+        <p style="body" n="18">Some part of the interpretative challenge that the tale and its
+          moralization pose may derive from a mismatch between the tale and its teller. In the <hi
+            rend="italic">Book of Sindbad</hi>, where scholarship refers to the tale under the title
+            <hi rend="italic">balneator</hi> (the bath attendant), <hi rend="italic"
+            >senescalcus</hi> is told by one of the father’s counsellors as a warning against acting
+          in haste (<hi rend="bold">SindA101</hi>, pp. 246–49; <hi rend="bold">SindGr</hi>, pp.
+          58–63; <hi rend="bold">SindSp</hi>, pp. 29–30; <hi rend="bold">SindA1001</hi>, 2:562–63),
+          or as an example of the fickleness of women’s affections (<hi rend="bold">SindP1</hi>, pp.
+          139–43), or their wiles (<hi rend="bold">SindHeb</hi>, pp. 208–19). It may be that in the
+            <hi rend="italic">Seven Sages</hi> the empress is given <hi rend="italic"
+            >senescalcus</hi> to tell as part of a deliberate attempt to discredit her. But it
+          should be emphasized that in the <hi rend="italic">Book of Sindbad</hi> the tale is not a
+          perfect fit for the counsellors either. In <hi rend="bold">SindGr</hi> (pp. 62–63) and <hi
+            rend="bold">SindA1001</hi> (2:563), the wife does not always enjoy the attentions of the
+          prince and additional blame accrues to the husband for disrespecting his spouse.</p>
+        <p style="body" n="19"><hi rend="italic">Senescalcus</hi> is found in all the versions of
+          the <hi rend="italic">Seven Sages</hi> consulted for this edition except <hi rend="bold"
+            >F</hi>. It is found in all the extant versions of the <hi rend="italic">Book of
+            Sindbad</hi> except <hi rend="bold">SindSyr</hi>, where the manuscript is damaged, and
+            <hi rend="bold">SindP3</hi>. It is left untranslated in the text that we have consulted
+          for <hi rend="bold">SindP2</hi> (p. 61n1), apparently on account of its risqué plot. In
+          the <hi rend="italic">Book of Sindbad</hi>, the sodomy motif is absent. There, a
+          bathkeeper who has questioned the virility of a fat prince is charged by the prince with
+          finding him a prostitute to have sex with. Assuming that the prince is impotent and
+          wishing to pocket the prostitute’s fee, the bathkeeper sends his own wife to the prince.
+          The plot backfires when the prince proves himself eminently capable of sex, and the
+          bathkeeper hangs himself, or throws himself off the bathhouse, in shame.</p>
+        <p style="body" n="20">Regarding the king’s sexuality and his illness there is considerable
+          variance across the versions of <hi rend="italic">senescalcus</hi> compiled in the <hi
+            rend="italic">Seven Sages</hi>; two of the Middle English texts appear to have been
+          altered to straighten the story (see the Explanatory Note to lines 1553–54, below). In <hi
+            rend="bold">He</hi> (pp. 99–106), <hi rend="italic">senescalcus</hi> is conflated with
+            <hi rend="italic">Roma</hi>. In this version, the king who unwittingly procures sex with
+          the steward’s wife is the same person as the king who attacks Rome and is routed by the
+          sages’ tricks. The other main variants across the versions of <hi rend="italic"
+            >senescalcus</hi> transmitted in the <hi rend="italic">Seven Sages</hi> concern the
+          description of the relationship between the king and the steward; the fates of the steward
+          and his wife; and the moral. Gower appears to have known one of the <hi rend="bold"
+          >A</hi>-text renditions of <hi rend="italic">senescalcus</hi>, which he retells in <hi
+            rend="italic">Confessio amantis</hi> 5.2643–2825 (<hi rend="italic">The English
+            Works</hi>, ed. Macaulay, 2:19–24).</p>
+        <p style="heading2" n="8">Further reading</p>
+        <p style="bodyfirst" n="17">On the mismatch of the tale to the teller, see Speer, “What Ails
+          the Sodomite King of Egypt?” On the king in <hi rend="italic">senescalcus</hi> as an
+          avatar of Diocletian, see Foehr-Janssens, “La parole condensée.” On fallacious and
+          malicious accusations of sodomy as a motif in medieval romance, see Burgwinkle, <hi
+            rend="italic">Sodomy, Masculinity, and Law</hi>, p. 90. On the varying treatment of the
+          sodomitical ruler in the <hi rend="italic">Seven Sages</hi> tradition, see Critten,
+          “Sodomy and the East.” On male homosexuality more generally, and for the thesis that the
+          fourteenth century sees a hardening of attitudes towards male homosexuality, see Boswell,
+            <hi rend="italic">Christianity, Social Tolerance, and Homosexuality</hi> (Boswell’s
+          arguments have not found universal acceptance; see too the review essay by Kuefler,
+          “Homoeroticism in Antiquity and the Middle Ages”). For a survey of romance stewards, see
+          Hazell, “‘Trewe Man’ or ‘Wicke Traitour?’.” On the conjoining of <hi rend="italic"
+            >senescalcus</hi> and <hi rend="italic">Roma</hi> in the <hi rend="bold">H</hi>-text,
+          see Foehr-Janssens, <hi rend="italic">L’Histoire des sept sages</hi>, pp. 32–37; and
+          Runte, “From the Vernacular to Latin and Back.” On Gower’s use of <hi rend="italic"
+            >senescalcus</hi>, see Gower, <hi rend="italic">The English Works</hi>, ed. Macaulay,
+          2:496n2643ff. On the tale’s analogues, see too Campbell, pp. xci–xciii.</p>
+        <p style="heading" n="9">Tale 8: <hi rend="italic">tentamina</hi>, the tests. Fourth sage,
+          Malquidras.</p>
+        <p style="bodyfirst" n="18">The sages’ fourth tale is a story of a wicked wife with a
+          difference. In this instance, the old husband’s intervention stops the adultery that his
+          young spouse is planning and apparently succeeds in taming her desires. For this reason,
+          the moral drawn in <hi rend="bold">A</hi> feels rather weak: if the emperor kills his son
+          on his wife’s advice, the sage says, a worse fate will befall him than befell the old
+          husband in the tale (1927–32). As is the case in <hi rend="italic">inclusa</hi> and <hi
+            rend="italic">puteus</hi>, some sympathy may accrue to the wife in this tale. The
+          situation of the wife in <hi rend="italic">tentamina</hi> recalls that of the <hi
+            rend="italic">malmariée</hi>, or unhappy wife, of medieval romance. She is trapped in a
+          loveless marriage to a man much older than herself, who is both unresponsive to her
+          attempts to attract his attention and cruel in his punishment of her. It is also
+          significant that two of the wife’s tests allow her to strike out at love objects
+          introduced elsewhere in the collection that attracted inordinate male affection: the
+          little tree in <hi rend="italic">arbor</hi> and the dog in <hi rend="italic">canis</hi>.
+          The targeting of the little tree and the dog in <hi rend="italic">tentamina</hi> reminds
+          us of the propensity of men throughout the poem to neglect their wives.</p>
+        <p style="body" n="21"><hi rend="italic">Tentamina</hi> is found in all the extant versions
+          of the <hi rend="italic">Seven Sages</hi>. A version of the story is also included as one
+          of the examples in the <hi rend="italic">Mesnagier de Paris</hi>, a manual of advice
+          written by an elderly husband for his younger wife; the <hi rend="italic">Mesnagier</hi>
+          cites the <hi rend="italic">Seven Sages</hi> as the source of the anecdote. The major
+          point of difference between the versions of <hi rend="italic">tentamina</hi> told in the
+            <hi rend="italic">Seven Sages</hi> tradition concerns the psychology of desire that
+          underlies the mother’s advice to her daughter. In the northern and southern texts, except
+            <hi rend="bold">F</hi>, the mother’s logic runs that, by angering her elderly husband,
+          her daughter will reignite his libido (e.g., <hi rend="bold">A</hi>1811–12; <hi
+            rend="bold">A</hi>1829–30). The other versions either have the mother suggest that her
+          daughter should test the old man’s quickness to punish before embarking on an affair (<hi
+            rend="bold">A*</hi>, <hi rend="bold">Aw</hi>, <hi rend="bold">D</hi>, <hi rend="bold"
+            >He</hi>, <hi rend="bold">Hs</hi>, <hi rend="bold">S</hi>) or propose that she might
+          wear him down with her continued assaults (<hi rend="bold">F</hi>, <hi rend="bold"
+          >K</hi>). Further important variants concern the husband’s prehistory; the wife’s reliance
+          on her mother and willingness to challenge her; the husband’s reactions to the tests; and
+          the sage’s moral.</p>
+        <p style="heading2" n="9">Further reading</p>
+        <p style="bodyfirst" n="19">For sympathetic readings of the wife’s predicament in <hi
+            rend="italic">tentamina</hi>, see Ho, “Framed Progenies”; and Critten “Hating Women.” On
+          the husband in the tale as an avatar of the emperor, see Foehr-Janssens, “La parole
+          condensée.” The recurrence of the little tree and the dog in the tale has led to the
+          suggestion that the story was written specially for this collection. See Foehr-Janssens,
+          “Le désir et le savoir” and “Misogyny and the Trends.” On the tale’s analogues, see
+          Campbell, pp. xciii–xciv. For the <hi rend="italic">Mesnagier</hi>, see <hi rend="italic"
+            >The Good Wife’s Guide</hi>, trans. Greco and Rose; <hi rend="italic">tentamina</hi>
+          analogue at pp. 132–36. On the use of the <hi rend="italic">Seven Sages</hi> in the <hi
+            rend="italic">Mesnagier</hi>, see Brereton, “Deux sources.”</p>
+        <p style="heading" n="10">Tale 9: <hi rend="italic">Virgilius</hi>, Virgil. The empress.</p>
+        <p style="bodyfirst" n="20">The Roman poet Virgil (70 BCE–19 BCE) is now remembered
+          principally as the author of the <hi rend="italic">Eclogues</hi>, the <hi rend="italic"
+            >Georgics</hi>, and the <hi rend="italic">Aeneid</hi>. Over the course of the Middle
+          Ages, a series of legends attached to this figure that represented him as a magician.
+          Three of these legends are included in the empress’s fifth tale, where the poet is
+          credited with making i) a fire for the poor at Rome that is overseen by an archer statue
+          (1957–72); ii) two more statues at Rome’s east and west gates that throw a golden ball
+          between them (1986–96); and iii) a mirror alerting the Romans to the movements of their
+          enemies (1998–2008). This last Virgilian contraption was perhaps the best known to
+          medieval audiences; to catalogers of Virgilian legend it is known as the <hi rend="italic"
+            >salvatio Romae</hi>, or the salvation of Rome. <hi rend="bold">He</hi> (pp. 82–84) and
+            <hi rend="bold">Hs</hi> (1643–76) offer descriptions of the <hi rend="italic"
+            >salvatio</hi> that are closest to the canonical accounts in which the machine is said
+          to comprise a series of figures representative of the Roman provinces; when one of the
+          provinces is plotting to rebel, the relevant figure rings a bell.</p>
+        <p style="body" n="22">Notwithstanding the time she takes describing the Virgilian marvels,
+          for the empress, the moral of the tale is that wise men flatter and lie in pursuit of
+          their own aims (2145–50). Crassus is painted as another figure who falls foul of false
+          stories (1945–47); in this regard, he reproduces the error of the boar in <hi
+            rend="italic">aper</hi>. <hi rend="italic">Virgilius</hi> is also paralleled by the
+          empress’s other stories about deceitful wise men: <hi rend="italic">gaza</hi>, <hi
+            rend="italic">vii sapientes</hi>, and <hi rend="italic">Roma</hi>. But it differs from
+          these tales insofar as Virgil offers a positive example of a clerk whose knowledge is
+          turned to the public good. Virgil’s marvels are either useful or delightful and those who
+          destroy them are clearly in the wrong. The significance of the narrative is thus more
+          complicated than the empress suggests. <hi rend="italic">Virgilius</hi> teaches us not to
+          reject clerks and learning outright but that it is important to distinguish between
+          applications of learning as either profitable or dangerous.</p>
+        <p style="body" n="23"><hi rend="italic">Virgilius</hi> is found in all the extant versions
+          of the <hi rend="italic">Seven Sages</hi> except <hi rend="bold">F</hi>. The main variants
+          among the extant versions of the <hi rend="italic">Seven Sages</hi> concern the
+          description of the two Virgilian marvels; the involvement of the people of Rome in the
+          story; and the moral. A version of the story of Virgil’s mirror is also told by Gower in
+            <hi rend="italic">Confessio amantis</hi> 5.2031–224 (<hi rend="italic">The English
+            Works</hi>, ed. Macaulay, 2:3–8).</p>
+        <p style="heading2" n="10">Further reading</p>
+        <p style="bodyfirst" n="21">For an overview of the legendary afterlife of Virgil in the
+          Middle Ages as well as an anthology of legendary texts, see <hi rend="italic">The
+            Virgilian Tradition</hi>, ed. Ziolkowski and Putnam, pp. 825–1024. On the relationship
+          of <hi rend="italic">Virgilius</hi> to the legendary tradition, see Spargo, <hi
+            rend="italic">Virgil the Necromancer</hi>, pp. 29–31, 60–68; and Campbell, pp.
+          xciv–xcvii. On the eastern debts of the tradition, see Krappe, “Studies [4].” On Gower’s
+          use of <hi rend="italic">Virgilius</hi>, see Gower, <hi rend="italic">The English
+            Works</hi>, ed. Macaulay, 2:495. Virgil assumes a more central role in the <hi
+            rend="italic">Dolopathos</hi>, where he is the sole tutor of the accused prince and
+          where he is shown to play a crucial role in the preparation of the Roman world for the
+          coming of Christianity. On the poet’s incarnation in that text, see Pifarré, “Le
+          personnage de Virgile.”</p>
+        <p style="heading" n="11">Tale 10: <hi rend="italic">avis</hi>, the bird. Fifth sage,
+          Catoun.</p>
+        <p style="bodyfirst" n="22">The sages’ fifth tale allows for a demonstration of two of their
+          favorite arguments: hasty action should be avoided, and women are habitually tricky. The
+          moralization highlights both these ideas. Reading the magpie as an avatar of the prince,
+          the sage points out that the unjust murder of the magpie might have been avoided if the
+          husband had taken counsel and that the wife’s plotting against the magpie is like the
+          empress’s plotting against the prince (2291–96). If the prince is killed on the empress’s
+          advice, the sage concludes, the emperor will be wracked with regret as was the husband in
+          the tale (2297–2302).</p>
+        <p style="body" n="24">The tale was liable to attract alternative readings, however, not
+          least because there was a strong association in medieval minds between women and magpies.
+          In an Anglo-Norman poem written down contemporaneously with the Auchinleck copy of the <hi
+            rend="italic">Seven Sages</hi>, for example, women are said to be like magpies on
+          account of their delight in ornament as well as their tendencies towards trickery, pride,
+          scolding, spying, vindictiveness, secrecy, and chatter. The potentially double
+          significance of the bird in <hi rend="italic">avis</hi> is especially clear in <hi
+            rend="bold">A</hi>, where the magpie is referred to by both masculine and feminine
+          pronouns (see further the Explanatory Note to line 2206, below). Any association between
+          the magpie and the empress complicates the tale’s moral considerably because this magpie
+          tells the truth (2209–10; 2289–90).</p>
+        <p style="body" n="25">If the magpie has something of the empress as well as the prince,
+          then the tale might encourage consideration of the similarities between these characters’
+          experiences in the frame narrative. While the prince is his father’s literal captive, the
+          tale teaches us to see that the empress might also be constrained, or caged, as the bird
+          is here (2204). Her situation as a woman married to an older man recalls the <hi
+            rend="italic">malmariée</hi> of medieval romance (on which, see the headnote for <hi
+            rend="italic">tentamina</hi>, above). The power structures that the empress must
+          negotiate also shape her actions. There is no reason to disbelieve her when she claims at
+          the close of the text that she was motivated in her desire to destroy the prince by a fear
+          of losing her position at court (<hi rend="bold">E</hi>3519–25).</p>
+        <p style="body" n="26">The story of the tell-tale bird was well known in the Middle Ages;
+          other versions in Middle English include those told by Gower in <hi rend="italic"
+            >Confessio amantis</hi> 3.768–817 (<hi rend="italic">The English Works</hi>, ed.
+          Macaulay, 1:246–48) and Chaucer in the <hi rend="italic">Canterbury Tales</hi>
+          (IX[H]105–362). In both those story-collections, the fate of the bird is presented as a
+          lesson on the importance of keeping one’s counsel. <hi rend="italic">Avis</hi> is found in
+          all the extant versions of the <hi rend="italic">Seven Sages</hi> except <hi rend="bold"
+            >Aw</hi>. It is also included in all the versions of the <hi rend="italic">Book of
+            Sindbad</hi> except <hi rend="bold">SindP3</hi>. In the <hi rend="italic">Book of
+            Sindbad</hi>, the story concerns a husband who has a parrot that he sets to spy on his
+          wife during his travels. When the wife meets a lover at home, the parrot reports back and
+          the wife is repudiated. The wife at first suspects her servant of revealing her secret but
+          the servant tells her it was the parrot, and together they simulate a storm one night so
+          that the bird will give a false account of the weather to the husband in the morning. The
+          plan works and the husband assumes that the parrot has been lying all along, kills the
+          bird, and reconciles with the wife. The story is told as an example of the dangers of
+          haste as well as of the wiles of evil women (<hi rend="bold">SindA101</hi>, pp. 228–31;
+            <hi rend="bold">SindSyr</hi>, pp. 105–06; <hi rend="bold">SindGr</hi>, pp. 24–31; <hi
+            rend="bold">SindHeb</hi>, pp. 102–11; <hi rend="bold">SindSp</hi>, pp. 22–23; <hi
+            rend="bold">SindA1001</hi>, 2:549–50).</p>
+        <p style="body" n="27">There are some interesting variants amongst the versions of the tale
+          compiled in the <hi rend="italic">Book of Sindbad</hi>. In <hi rend="bold">SindA101</hi>,
+          the husband is shown teaching the bird to speak and setting it free at the end of the
+          story; and in <hi rend="bold">SindA1001</hi>, the wife is subsequently rediscovered in her
+          adultery and killed. The Persian versions have a slightly longer tale. First the husband
+          departs, the wife spends the night with her lover, the parrot reports, and the husband
+          beats her; then the husband departs again, the wife and the servant perform the trick, the
+          parrot relates the storm and is killed, and a neighbor questions the husband’s judgment:
+          since birds cannot lie, the neighbor says, the husband should press the servant to
+          discover the truth. The servant reveals the trick and the husband regrets his error (<hi
+            rend="bold">SindP1</hi>, pp. 71–81; <hi rend="bold">SindP2</hi>, pp. 31–35).</p>
+        <p style="body" n="28">The main variants between the versions of <hi rend="italic">avis</hi>
+          as it appears in the <hi rend="italic">Seven Sages</hi> concern the characterization of
+          the magpie; the wife’s reasons for taking a lover; the identity of her helper; the tale’s
+          conclusion; the moral; and the density of misogynist commentary with which the tale is
+          infused.</p>
+        <p style="heading2" n="11">Further reading</p>
+        <p style="bodyfirst" n="23">On the magpie as a representative of the empress in <hi
+            rend="italic">avis</hi>, see Foehr-Janssens, “Quand les bêtes se taisent”; and Critten,
+          “Hating Women.” For an edition and translation of the Anglo-Norman poem “Femmes a la pye”
+          (“Women and Magpies”), see <hi rend="italic">The Complete Harley 2253 Manuscript</hi>, ed.
+          and trans. Fein, 3:124–29. For a collection of tell-tale bird stories, including eastern
+          analogues of <hi rend="italic">avis</hi>, see Clouston, “The Tell-Tale Bird.” More
+          recently, including an assessment of Chaucer’s possible debts to the <hi rend="italic"
+            >Seven Sages</hi>, see Wheatley, “The Manciple’s Tale.” On the tale’s analogues, see too
+          Campbell, pp. xcvii–xcix.</p>
+        <p style="heading" n="12">Tale 11: <hi rend="italic">vii sapientes</hi>, the seven wise men.
+          The empress.</p>
+        <p style="bodyfirst" n="24">In Geoffrey of Monmouth’s influential <hi rend="italic">History
+            of the Kings of Britain</hi> (ca. 1140), the British king Vortigern is advised to build
+          a tower to defend himself against invading Saxons but whenever foundations are laid, they
+          are swallowed up by the earth on which they stand. Vortigern’s magicians advise him that
+          the building materials should be fortified with the blood of a fatherless child and the
+          search which follows results in the discovery of Merlin, whose anonymous paternity comes
+          to light in an overheard dispute between the boy and one of his peers. Merlin escapes
+          death by showing Vortigern the true reason for his failing construction: beneath the land
+          chosen for the stronghold lies a pond under which there are two sleeping dragons. The pond
+          is drained and the two dragons emerge and fight.</p>
+        <p style="body" n="29">The empress’s sixth tale adapts the Arthurian story of Vortigern’s
+          tower so as to furnish a further example of deceptive wise men. Several key elements from
+          the story are taken over, including the pernicious advisors, the character of the child
+          Merlin, and the subterranean source of the emperor’s predicament. At the same time, the
+          story-matter is domesticated — the action in <hi rend="italic">vii sapientes</hi> takes
+          place in the emperor’s bedchamber, not on the battlefield — and the scene is moved to
+          Rome. The empress fits the tale to her broader argument. The similarity between Diocletian
+          and the ruler in the tale is highlighted at the outset — both emperors are advised by
+          seven wise men (2333–34) — and the moral makes the empress’s understanding of this
+          parallel patent. Just as the overweening magicians in the tale blinded their master
+          through their machinations, she says, so the sages in the frame narrative are clouding her
+          husband’s judgment (2511–14).</p>
+        <p style="body" n="30">Some aspects of <hi rend="italic">vii sapientes</hi> evade the
+          empress’s moral and risk undermining her position. Most obviously, the tale implicitly
+          aligns the empress with the tricky figure of Merlin, who liberates Vortigern from the grip
+          of his bad advisors. Merlin is a morally ambiguous figure throughout Arthurian literature,
+          not least because his conception was said to have resulted from an encounter between his
+          mother and an incubus. The tale’s intertextual connections also complicate its meaning. In
+          the <hi rend="italic">History of the Kings of Britain</hi>, after interpreting the battle
+          between the dragons, Merlin goes on to forecast the downfall of Vortigern at the hands of
+          his rivals. For audiences of <hi rend="italic">vii sapientes</hi> who were aware of this
+          connection, the bigger context in which the tower story fits invites doubt regarding both
+          the security of Diocletian’s position and the loyalties of his wife and son. For Merlin
+          might also be read as a representative of the prince. Like Merlin, the emperor’s son is
+          precocious in his learning and, although he is not fatherless, risks disinheritance and
+          murder at his father’s hands.</p>
+        <p style="body" n="31">The tale of <hi rend="italic">vii sapientes</hi> is included in all
+          the versions of the <hi rend="italic">Seven Sages of Rome</hi>. The main variants concern
+          the condition of the emperor at the opening of the tale and the nature of his affliction;
+          the discovery of the child who heals the emperor; and the conclusion of the tale and its
+          moral. The story of Vortigern’s tower was well known in medieval England thanks to
+          Geoffrey of Monmouth’s history and the translations and adaptations that it inspired,
+          including the Middle English romance <hi rend="italic">Of Arthour and of Merlin</hi>,
+          which is compiled with the <hi rend="italic">Seven Sages of Rome</hi> in the Auchinleck
+          Manuscript. The similarity of the descriptions that these texts give of the sages’
+          discovery of Merlin is marked. See <hi rend="italic">Of Arthour and of Merlin</hi>, ed.
+          Macrae-Gibson, lines 1195–1208. The version of the Vortigern’s tower story told in <hi
+            rend="italic">vii sapientes</hi> appears to have influenced subsequent Arthurian
+          literature in a fashion that belies the traditional distinction between the matters of
+          Rome and Britain.</p>
+        <p style="heading2" n="12">Further reading</p>
+        <p style="bodyfirst" n="25">On <hi rend="italic">vii sapientes</hi> as a skeptical comment
+          on the value of clerical wisdom, see Foehr-Janssens, “La trahison des sages”; and Speer,
+          “Recycling the Seven Sages.” On the ruler in the tale as an avatar of Diocletian, see
+          Foehr-Janssens, “La parole condensée.” On the overlap between the matters of Rome and
+          Britain in <hi rend="italic">vii sapientes</hi>, see Foehr-Janssens, “Arthur et les sept
+          sages.” On the Celtic and Germanic analogues of the story, see Krappe, “Note sur un
+          épisode de l’<hi rend="italic">Historia Britonum</hi>”; and Paton, “The Story of
+          Vortigern’s Tower.” On the adaptation of the story in the <hi rend="italic">Seven
+            Sages</hi>, see too Campbell, pp. 175–76n2635f; Campbell, “The Source of the Story of
+            <hi rend="italic">Sapientes</hi>”; Foehr-Janssens, “Misogyny and the Trends,” and “Le
+          désir et le savoir”; and Krappe, “Studies [1],” and “Studies [4].” For Geoffrey of
+          Monmouth’s account of Vortigern’s tower and Merlin’s conception, see <hi rend="italic">The
+            History of the Kings of Britain</hi>, ed. Reeve, pp. 136–44.</p>
+        <p style="heading" n="13">Tale 12: <hi rend="italic">vidua</hi>, the widow. Sixth sage,
+          Gesse.</p>
+        <p style="bodyfirst" n="26">The sages’ sixth tale reprises the popular story of the Matron
+          of Ephesus with the aim once again of discrediting the emperor’s wife and women more
+          generally (2547–48). (Since the sage’s name is not given in the lead-up to the tale, we
+          give it from the Prologue (E91), where the sixth sage is named Gesse). At the close of <hi
+            rend="italic">vidua</hi>, the same fate is wished upon the emperor as befell the husband
+          in the tale should the emperor kill his son (2717–20). That fate is worse than the outcome
+          described in the classical iteration of the plot by Petronius in his <hi rend="italic"
+            >Satyricon</hi> (ca. 50 BCE); there the narrative misses the mutilation of the husband’s
+          corpse. In <hi rend="italic">vidua</hi>, after hanging her own husband’s body, the wife
+          wounds him and knocks out his teeth so that he better resembles the thief whose place he
+          is taking (2657–2704). Some versions visit further indignities upon the corpse (see
+          Explanatory Note to line 2704, below). Petronius’s text also lacks the attempt at moral
+          clarity that characterizes <hi rend="italic">vidua</hi>. In the <hi rend="italic"
+            >Satyricon</hi> we are told that some of the people who hear the tale laugh, a woman
+          blushes, and only one man draws a harsher moral: “Lichas was not amused, shook his head
+          angrily and said: ‘If the governor had been a just man, he would have put the husband’s
+          body back in the tomb and attached the woman to the cross.’” See <hi rend="italic"
+            >Petronius: Satyricon</hi>, ed. and trans. Schmeling, p. 317.</p>
+        <p style="body" n="32">In the Middle Ages, too, the Matron of Ephesus could be treated more
+          lightly. The fabliau of <hi rend="italic">La dolonte qui fu fotue sur la tonbe</hi> (<hi
+            rend="italic">The Mourner Who Got Fucked at the Grave Site</hi>) is an analogous
+          treatment of the theme in which some grudging credit accrues to the wife for finding
+          satisfaction with the knight. If the meaning of the story in the <hi rend="italic">Seven
+            Sages</hi> is not completely controlled by the sages’ moral, its resonances with the
+          frame narrative might likewise generate sympathy for the empress, who at the outset of the
+          poem renounces her old husband in favor of a newcomer, his son. When contrasted with the
+          overwrought emotionality of the husband and the hypocrisy of the knight, the pragmatism of
+          the wife in <hi rend="italic">vidua</hi> may strike readers as the least objectionable of
+          the qualities displayed in the tale.</p>
+        <p style="body" n="33"><hi rend="italic">Vidua</hi> is included in all the versions of the
+            <hi rend="italic">Seven Sages of Rome</hi> except <hi rend="bold">Hs</hi>. The main
+          variants concern the description of the relationship between the husband and wife and the
+          manner of her injury; the mutilations visited upon the corpse; the conclusion and
+          moralization of the tale; and the density of misogynist commentary.</p>
+        <p style="heading2" n="13">Further reading</p>
+        <p style="bodyfirst" n="27">On the tale’s early analogues, see Campbell, pp. ci–cviii. For a
+          longer reception history, see Ure, “The Widow of Ephesus.” For an edition and lively
+          Modern English translation of <hi rend="italic">La dolonte qui fu fotue sur la tonbe</hi>,
+          see <hi rend="italic">The Fabliaux</hi>, trans. Dubin, pp. 324–31. On this fabliau
+          rendition of the Matron of Ephesus story, see Foehr-Janssens, “Mourir d’aimer.” On the
+          generic affiliation of the tale and its moralization in <hi rend="italic">vidua</hi>, see
+          Critten, “Hating Women.”</p>
+        <p style="heading" n="14">Tale 13: <hi rend="italic">Roma</hi>, Rome. The empress.</p>
+        <p style="bodyfirst" n="28">In her final tale, the empress returns to her claim that
+          Diocletian’s wise men are deceivers. In <hi rend="italic">Roma</hi>, she shows how a sage
+          in an elaborate disguise strikes fear into seven heathen armies and enables the
+          inhabitants of Rome to break a long siege that has confined them; the moral that she draws
+          is that her husband’s sages will deceive and subjugate him similarly (<hi rend="bold"
+            >E</hi>2820–25). The obvious problem with this deployment of the tale is that in <hi
+            rend="italic">Roma</hi>, the costumed sage is defending Rome, Diocletian’s own town,
+          from a formidable enemy. The text identifies this hostile force as <hi rend="italic"
+            >saresonys</hi>, or Saracens (<hi rend="bold">E</hi>2806). This term was used by
+          Europeans to refer to the Muslims met in the Holy Land in the context of the crusades; the
+          descriptions that it enabled were often so extravagantly exoticizing and bear so little
+          relation to what is now known about actual medieval Muslims that modern scholars now use
+          the term only to refer to medieval European representations of these people. Since the
+          term is so loaded with racist meaning some recent researchers argue that its use even in
+          this narrow sense should be avoided.</p>
+        <p style="body" n="34">By virtue of its form as a framed narrative, the <hi rend="italic"
+            >Seven Sages</hi> affords an unusual opportunity for reconsideration of what <hi
+            rend="italic">saresonys</hi> might be. Anyone pursuing the empress’s logic must at least
+          momentarily weigh up the commensurability of the besieging forces and Diocletian’s own
+          Romans; in effect, the empress asks her audience to take sides against Rome. It takes an
+          effort of the mind to fault the empress, and individual readers might vary in their haste
+          to condemn her reasoning. The inclusion of a Muslim element at this juncture appears to
+          have been deliberate, because it does not characterize the analogous versions of the story
+          in the <hi rend="italic">De Divisionibus temporum</hi> attributed to Bede (ca. 673–735 CE)
+          and in Philippe de Thaon’s <hi rend="italic">Comput</hi> (ca. 1113 CE). In contrast to the
+          general trend in the <hi rend="italic">Seven Sages</hi> to obscure the eastern origins of
+          the story collection (on which see the Introduction, p. 3), here it appears that an
+          eastern element has been imported.</p>
+        <p style="body" n="35"><hi rend="italic">Roma</hi> is included in all the versions of the
+            <hi rend="italic">Seven Sages of Rome</hi> except <hi rend="bold">Hs</hi>, <hi
+            rend="bold">L</hi>, and <hi rend="bold">S</hi>. The tale remains stable across the
+          extant versions; the main variants concern the sage’s eventual reward and the moralization
+          of the tale. In <hi rend="bold">He</hi> (pp. 99–106), <hi rend="italic">Roma</hi> is
+          conjoined with <hi rend="italic">Senescalcus</hi>, so that the king who sleeps with the
+          steward’s wife is identical with the king besieging Rome. See further the headnote to <hi
+            rend="italic">Senescalcus</hi>, above. In <hi rend="bold">Aw</hi> (pp. 652–53), where
+            <hi rend="italic">Roma</hi> is told by one of the sages, the tale treats a different
+          story of siege at an eastern town. When the oppressing forces offer to depart in return
+          for the sages who have opposed them, the sages dissuade their fellow citizens from handing
+          them over by telling them a story about a wolf, a shepherd, and his dogs. The wolf had
+          promised to leave the shepherd in peace if the shepherd gave the dogs over to him. But
+          when the shepherd complied, the wolf slaughtered both him and his flock. The citizens of
+          the town are persuaded to keep the sages and, with the sages’ help, they finally defeat
+          their besiegers.</p>
+        <p style="heading2" n="14">Further reading</p>
+        <p style="bodyfirst" n="29">On the significance of the term “Saracen,” with particular
+          reference to the texts of the Auchinleck Manuscript, see Calkin, <hi rend="italic"
+            >Saracens and the Making of English Identity</hi>, pp. 1–12; and, more recently,
+          Rajabzadeh, “The Depoliticized Saracen.” On the tale’s Islamophobia, see Critten, “Sodomy
+          and the East.” On the sources and analogues of <hi rend="italic">Roma</hi>, see Campbell,
+          pp. cviii–cix; Krappe, “Studies [3]”; and Paris, “Le récit <hi rend="italic">Roma</hi>
+          dans les <hi rend="italic">Sept Sages</hi>.” On the treatment of <hi rend="italic"
+            >Roma</hi> in <hi rend="bold">Aw</hi>, see Gadsden, “<hi rend="italic">Chwedleu Seith
+            Doethon Rufein</hi>.”</p>
+        <p style="heading" n="15">Tale 14: <hi rend="italic">inclusa</hi>, the recluse. Seventh
+          sage, Maxencyon.</p>
+        <p style="bodyfirst" n="30">The sages’ final story is moralized as an example of the dangers
+          that come from trusting one’s wife’s words over the evidence that one has before one’s own
+          eyes (<hi rend="bold">E</hi>3214–17). The moral suits the story insofar as the husband in
+            <hi rend="italic">inclusa</hi> misses the abduction of his wife as it takes place under
+          his very nose. But the enclosed wife in the tale, in fact, says relatively little. The
+          main agent in the deception of the husband — at least in this version of the story — is
+          not the recluse but the knight who sets out to find her after seeing her in a dream. Any
+          attempt to present this story as another example of the wiles of women seems destined to
+          be at least a partial failure. What is more, the husband’s treatment of his wife and her
+          own questioning of his treatment of her (<hi rend="bold">E</hi>3019–23) seems more likely
+          to provoke sympathy for the heroine than condemnation. In this respect, <hi rend="italic"
+            >inclusa</hi> joins <hi rend="italic">puteus</hi> and <hi rend="italic">tentamina</hi>
+          as a tale told by the sages in which men’s treatment of women might attract censure.</p>
+        <p style="body" n="36"><hi rend="italic">Inclusa</hi> was a well-known tale in the Middle
+          Ages. It is included in all the versions of the <hi rend="italic">Seven Sages of Rome</hi>
+          except <hi rend="bold">L</hi> and <hi rend="bold">S</hi>. In the <hi rend="italic"
+            >Dolopathos</hi> it is combined with <hi rend="italic">puteus</hi>. See further the
+          headnote to that tale, above. Two texts attempt to repair the mismatch between the moral
+          and the tale described above. In the midland version, the wife becomes the agent of her
+          own abduction: she plans the ring trick and then instructs the knight in the method he
+          will use to take her away. In <hi rend="bold">He</hi>, the tale switches tellers. There
+          the empress tells the story as another example of deceit amongst royal servants: the
+          husband is a king and the knight who abducts his wife has previously been made his
+          steward; <hi rend="bold">He</hi> (p. 119) also devotes some time to a reflection from the
+          queen on the difficult situation in which the affair has placed her. Other important
+          variants amongst the extant texts concern the geography of the tale; the outcomes for the
+          mason and the husband; the commentary that accompanies the tale; and the moralization.</p>
+        <p style="heading2" n="15">Further reading</p>
+        <p style="bodyfirst" n="31">On the propensity of <hi rend="italic">inclusa</hi> to elicit
+          sympathy for the wife, see Foehr-Janssens, “Une recluse fort (peu) courtoise”; and
+          Critten, “Hating Women.” On the changing of the tale’s teller in the <hi rend="bold"
+            >H</hi>-texts, see Foehr-Janssens, <hi rend="italic">L’Histoire des sept sages</hi>, pp.
+          38–41; and Runte, “From the Vernacular to Latin and Back.” On the transmission of <hi
+            rend="italic">inclusa</hi> and its analogues, see Campbell, pp. cix–cxii; Hilka, “Die
+          Wanderung der Erzählung von der <hi rend="italic">Inclusa</hi>”; and Krappe, “Studies
+          [5].”</p>
+        <p style="heading" n="16">Tale 15: <hi rend="italic">vaticinium</hi>, the prophesy. The
+          prince.</p>
+        <p style="bodyfirst" n="32">When the prince finally speaks on the eighth day of his trial,
+          he prefaces his response to the empress’s accusations with a tale of his own. His argument
+          differs from that of his masters, who in their stories and moralizations have insisted on
+          the unreliability of women in general and the empress in particular. Instead, the prince’s
+          tale features examples of filial helpfulness and forgiveness that hold out to the emperor
+          the possibility of a positive outcome to their shared ordeal. In <hi rend="italic"
+            >vaticinium</hi>, the prince draws a parallel between his experience and the career of
+          the boy in the tale, who is cast out by his father but who makes good, thanks to his
+          obedience and intelligence. These are the qualities that win him the love and respect
+          first of his adoptive father (<hi rend="bold">E</hi>3336–37), then of the king and the
+          barons for whom he interprets the crying of three crows (<hi rend="bold">E</hi>3426–31).
+          In his moralization, the prince reproaches his father for throwing him into prison but
+          stresses his loyalty to him notwithstanding this harsh treatment (<hi rend="bold"
+          >E</hi>3494–3503). This is how the prince responds to the empress’s recurring claim that
+          unchecked sons will usurp their fathers’ power prematurely.</p>
+        <p style="body" n="37">The crows’ debate and its resolution complicate the prince’s argument
+          insofar as the judgment in favor of the more recently arrived bird (<hi rend="bold"
+          >E</hi>3410–17) invites reconsideration of the empress’s condition as the newest member in
+          the family constituted primarily by the emperor and his son. More crucially, the prince
+          leaves the resolution of his tale hanging. It is unclear at the end of <hi rend="italic"
+            >vaticinium</hi> whether the boy who is by this point king will forgive his father for
+          his transgression or insist upon his punishment (<hi rend="bold">E</hi>3482–85). Thus, <hi
+            rend="italic">vaticinium</hi> engages without resolving two of the key themes running
+          throughout the <hi rend="italic">Seven Sages</hi>: the management of succession and the
+          correct interpretation of speech.</p>
+        <p style="body" n="38">Regarding the tale’s treatment of succession, it has been observed
+          that <hi rend="italic">vaticinium</hi> returns to the story of Joseph, which also provides
+          the Potiphar’s wife motif deployed at the opening of the frame narrative (on which see the
+          Introduction, pp. 15–16). In Genesis 37, Joseph recounts a dream that he interprets as
+          proof that he will surpass his father and his brothers and is cast out by his brothers. In
+            <hi rend="italic">vaticinium</hi>, the story is adapted so that the envy motivating
+          Joseph’s treatment becomes paternal. Regarding the tale’s interest in acts of
+          interpretation, the species of the birds involved is potentially telling because there was
+          a long tradition associating crows with poets and the pitfalls of poetry. In Chaucer’s
+          Manciple’s Tale, for example, the crow loses his song as a punishment for telling tales on
+          his master’s wife (<hi rend="italic">CT</hi> X[H]292–308). On Chaucer’s possible
+          familiarity with <hi rend="italic">avis</hi>, which tells a similar story, see Wheatley,
+          “The Manciple’s Tale.”</p>
+        <p style="body" n="39"><hi rend="italic">Vaticinium</hi> is included in all the versions of
+          the <hi rend="italic">Seven Sages</hi> except <hi rend="bold">L</hi>. The main variants
+          are of crucial importance to interpretations of the tale, because they relate to the
+          interpretation of the crows’ debate and the tale’s conclusion. In <hi rend="bold">He</hi>
+          and <hi rend="bold">Hs</hi>, the crows are fighting over custody of the third crow, their
+          son (see the Explanatory Note to lines <hi rend="bold">E</hi>3376–78, below). Regarding
+          the conclusion, <hi rend="bold">E</hi> is unusual in not describing a moment of resolution
+          between father and son. Also of note is a lengthy interpolation of a version of the <hi
+            rend="italic">Amis and Amiloun</hi> story in the <hi rend="bold">He</hi> text of <hi
+            rend="italic">vaticinium</hi>. Other points of difference include the age of the child
+          and the involvement of the barons in the king’s decision making.</p>
+        <p style="heading2" n="16">Further reading</p>
+        <p style="bodyfirst" n="33">On the significance of the prince’s returning speech, see
+          Foehr-Janssens, “L’Art de ne rien dire”; and Speer, “The Prince’s Baptism.” On the tale’s
+          handling of the theme of succession, see Allen, “Episodes”; and Foehr-Janssens, “Le désir
+          et le savoir.” On the significance of bird speech in the tale, see Foehr-Janssens, “Quand
+          les bêtes se taisent.” On the interpolation of the <hi rend="italic">Amis and Amiloun</hi>
+          story in the <hi rend="bold">H</hi>-text, see Foehr-Janssens, <hi rend="italic">L’Histoire
+            des sept sages</hi>, pp. 41–47. On the tale’s debts to the Joseph story and its
+          analogues more broadly, see Campbell, p. cxii-cxiv; and Krappe, “Studies [2].”</p>
+        <p style="heading" n="17">Conclusion</p>
+        <p style="bodyfirst" n="34">The extant copies of the <hi rend="italic">Seven Sages</hi>
+          conclude the frame narrative differently. The variants recorded below cluster around the
+          empress’s defense; the events occurring prior to her execution; and the resolution of the
+          story. The <hi rend="italic">Book of Sindbad</hi> also varies in its final stages. In <hi
+            rend="bold">SindA101</hi> (pp. 280–81) and <hi rend="bold">SindHeb</hi> (pp. 294–95),
+          the concubine is pardoned; in <hi rend="bold">SindA1001</hi> (2:610), she is banished; in
+            <hi rend="bold">SindGr</hi> (pp. 174–77) and <hi rend="bold">SindP1</hi> (p. 262), she
+          keeps her life but has her head shaved and is ridden through town in infamy; and in <hi
+            rend="bold">SindSp</hi> (p. 51) and <hi rend="bold">SindP3</hi> (p. 68), she is
+          executed. In two versions, manuscript damage obscures the passage describing her fate (<hi
+            rend="bold">SindSyr</hi>, <hi rend="bold">SindP2</hi>). In several versions, the
+          prince’s accuser is given another story in which she compares herself to a fox trapped in
+          a city by night. The fox plays dead during the day and must suffer various parts of its
+          body to be cut off by the townspeople for various uses until someone attempts to excise
+          the animal’s heart, at which the fox jumps up and flees through the town gates, which have
+          been opened for the new day. Like the fox, the concubine says, she can suffer everything
+          apart from having her heart torn out (<hi rend="bold">SindGr</hi>, pp. 170–75; <hi
+            rend="bold">SindHeb</hi>, pp. 288–93; <hi rend="bold">SindP1</hi>, pp. 259–62).</p>
+        <p style="body" n="40">On the eighth day of the trial in <hi rend="bold">Do</hi> (pp.
+          77–96), Virgil flies in on a giant bird, denounces the queen, tells his version of <hi
+            rend="italic">puteus</hi> (on which see the headnote to that tale, above), and announces
+          that Lucinius should not have been tried because he was mute. Lucinius is released and
+          tells his story, the queen is burned, and then the deaths of Dolopathos and Virgil are
+          narrated. Lucinius becomes ruler of Sicily, converts to Christianity after a lengthy
+          exchange with a visiting missionary, abdicates, and finally departs on a pilgrimage to the
+          Holy Land.</p>
+        <p style="heading2" n="17">Further reading</p>
+        <p style="bodyfirst" n="35">Kunkel, “Misogyny, Wisdom, and Legal Practice” and Reynders,
+          “How Lonely Are Women[?]” offer comparative readings of texts in the <hi rend="italic"
+            >Seven Sages</hi> tradition that focus in part on the frame narrative’s differing
+          conclusions.</p>
+        <p style="bodysubsection" n="1">The textual notes record differences between the text of
+          this edition and the corresponding manuscript texts on which it is based (<hi rend="bold"
+            >A</hi> and <hi rend="bold">E</hi>). These notes also include a record of visual
+          features in the manuscripts (rubrication, penwork initials, paragraph signs) and of our
+          editorial emendations, which have been made for sense or to correct clear errors. We do
+          not record here codicological and paratextual features, such as catchwords, signatures,
+          and marginalia. Nor do we provide here a record of variants between the Middle English
+          texts, for which readers are directed to the editions by Brunner, Campbell, and
+          Whitelock.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

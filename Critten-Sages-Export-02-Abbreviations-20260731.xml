@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Critten-Sages-Export-02-Abbreviations-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Abbreviations List</title>
+        <author>Critten, Rory G.</author>
+        <author>Wiggins, Alison</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Anderson, Nick</persName>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2026-06" to="2026-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2026-06" to="2026-07">Entered corrections for digital edition</resp>
+          <resp from="2026-06" to="2026-06">Entered corrections for print edition</resp>
+          <resp from="2026-06" to="2026-06">Formatted for print edition</resp>
+          <resp from="2026-06" to="2026-07">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2025-09" to="2025-10">Checked and corrected bibliographic references</resp>
+          <resp from="2025-09" to="2025-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-09" to="2025-10">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2024-09" to="2024-10">Copyedited and proofread</resp>
+          <resp from="2024-09" to="2024-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for content and scholarship</resp>
+          <resp from="2024-09" to="2024-10">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2025-08" to="2025-10">Checked and corrected bibliographic references</resp>
+          <resp from="2026-07" to="2026-07">Collected metadata</resp>
+          <resp from="2025-08" to="2025-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-08" to="2025-10">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2025-12" to="2026-01">Audited documents prior to print/export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2025-11" to="2026-07">Audited documents prior to print/export</resp>
+          <resp from="2025-10" to="2025-11">Checked and corrected bibliographic references</resp>
+          <resp from="2024-10" to="2026-08">Collated and entered corrections</resp>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2024-10" to="2025-12">Copyedited and proofread</resp>
+          <resp from="2026-07" to="2026-07">Encoded TEI</resp>
+          <resp from="2024-10" to="2025-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-10" to="2025-12">Entered corrections for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for XML export</resp>
+          <resp from="2024-10" to="2025-11">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-10" to="2024-12">Reviewed edition for content and scholarship</resp>
+          <resp from="2026-08" to="2026-08">Uploaded / Published digital edition</resp>
+          <resp from="2024-10" to="2025-11">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2026</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Texas</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Critten, Rory G.</editor>
+            <editor>Wiggins, Alison</editor>
+            <title>The Middle English Seven Sages of Rome</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2026</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/critten-sages/blob/main/critten-sages-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2026</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Critten-Sages-Export-02-Abbreviations"/>
+      <div type="text">
+        <list style="abbreviations">
+          <item style="abbreviation-listitem"><hi rend="bold">A</hi><space rend="indent1"/>The
+            Southern version of the Middle English <hi rend="italic">Seven Sages of Rome</hi> in
+            Edinburgh, National Library of Scotland, MS Advocates’ 19.2.1 (the Auchinleck
+            Manuscript) [base manuscript lines <hi rend="bold">A</hi>120–<hi rend="bold">A</hi>2770,
+            fols. 85r–99v]. Also Brunner’s base manuscript lines <hi rend="bold">A</hi>120–<hi
+              rend="bold">A</hi>2770.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">A*</hi><space rend="indent1"/>The
+            French prose version of the <hi rend="italic">Roman des sept sages</hi> in Paris,
+            Bibliothèque nationale, MS fr. 2137, fols. 1r–46v, ed. Derniame, Henin, and Nais.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">Ar</hi><space rend="indent1"/>The
+            Southern version of the Middle English <hi rend="italic">Seven Sages of Rome</hi> in
+            London, British Library, MS Arundel 140, fols. 152r–165v, variants and partial edition
+            in Brunner.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">Aw</hi><space rend="indent1"/>The
+            Welsh version of the <hi rend="bold">A</hi>-text of the <hi rend="italic">Seven Sages of
+              Rome</hi> in Aberystwyth, National Library of Wales, MS Peniarth 120, fols. 47r–67r,
+            trans. Jones.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">B</hi><space rend="indent1"/>The
+            Southern version of the Middle English <hi rend="italic">Seven Sages of Rome</hi> in
+            Oxford, Balliol College, MS 354, fols. 18r–54r, variants and partial edition in
+            Brunner.</item>
+          <item style="abbreviation-listitem">Brunner<space rend="indent1"/>Brunner, ed., <hi
+              rend="italic">The Seven Sages of Rome: Southern Version</hi></item>
+          <item style="abbreviation-listitem"><hi rend="bold">C</hi><space rend="indent1"/>The
+            Northern version of the Middle English <hi rend="italic">Seven Sages of Rome</hi> in
+            London, British Library, MS Cotton Galba E. IX, fols. 25r–48r, ed. Campbell.</item>
+          <item style="abbreviation-listitem">Campbell<space rend="indent1"/>Campbell, ed., <hi
+              rend="italic">The Seven Sages of Rome</hi></item>
+          <item style="abbreviation-listitem">CUL<space rend="indent1"/>Cambridge University
+            Library</item>
+          <item style="abbreviation-listitem"><hi rend="bold">D</hi><space rend="indent1"/>The
+            Midland version of the Middle English <hi rend="italic">Seven Sages of Rome</hi> in
+            Cambridge, University Library, MS Dd. 1. 17, vol. 3, fols. 54r–63r, ed.
+            Whitelock.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">D*</hi><space rend="indent1"/>The
+            French prose version of the <hi rend="italic">Roman des sept sages</hi> in Paris,
+            Bibliothèque nationale, MS fr. 5036, fols. 42r–72r, ed. Paris, pp. 1–54.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">Do</hi><space rend="indent1"/>The
+            Latin prose <hi rend="italic">Dolopathos</hi> by Johannes de Alta Silva in Luxemburg,
+            Bibliothèque nationale, MS 110, fols. 139r–170v, trans. Gilleland.</item>
+          <item style="abbreviation-listitem"><hi rend="italic">DMF</hi><space rend="indent1"/><hi
+              rend="italic">Dictionnaire du Moyen Français</hi></item>
+          <item style="abbreviation-listitem"><hi rend="bold">E</hi><space rend="indent1"/>The
+            Southern version of the Middle English <hi rend="italic">Seven Sages of Rome</hi> in
+            London, British Library, MS Egerton 1995, fols. 3r–54v [base manuscript lines <hi
+              rend="bold">E</hi>1–<hi rend="bold">E</hi>103, <hi rend="bold">E</hi>903–07, and <hi
+              rend="bold">E</hi>2786–<hi rend="bold">E</hi>3579, fols. 3r–4r, 16r, and 43r–54v].
+            Variants and partial edition also in Brunner.</item>
+          <item style="abbreviation-listitem">EETS<space rend="indent1"/>Early English Text
+            Society</item>
+          <item style="abbreviation-listitem">EETS e.s.<space rend="indent1"/>Early English Text
+            Society, extra series</item>
+          <item style="abbreviation-listitem">EETS o.s.<space rend="indent1"/>Early English Text
+            Society, original series</item>
+          <item style="abbreviation-listitem">EETS s.s.<space rend="indent1"/>Early English Text
+            Society, special series</item>
+          <item style="abbreviation-listitem"><hi rend="bold">F</hi><space rend="indent1"/>The
+            Southern version of the Middle English <hi rend="italic">Seven Sages of Rome</hi> in
+            Cambridge, University Library, MS Ff. 2.38, fols. 134r–156v, ed. Brunner.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">He</hi><space rend="indent1"/>The
+            English version of the <hi rend="bold">H</hi>-text of the <hi rend="italic">Seven Sages
+              of Rome</hi> published by Wynkyn de Worde, ed. Gomme.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">Hs</hi><space rend="indent1"/>The
+            Scots version of the <hi rend="bold">H</hi>-text of the <hi rend="italic">Seven Sages of
+              Rome</hi> in Edinburgh, National Library of Scotland, MS 16500, fols. 167r–209v, ed.
+            van Buuren.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">K</hi><space rend="indent1"/>The
+            French verse version of the <hi rend="italic">Roman des sept sages</hi> in Paris,
+            Bibliothèque nationale, MS fr. 1553, fols. 338v–367v, ed. Speer and
+            Foehr-Janssens.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">L</hi><space rend="indent1"/>The
+            French prose version of the <hi rend="italic">Roman des sept sages</hi> in Paris,
+            Bibliothèque nationale, MS 19166, fols. 1r–30r, ed. Le Roux de Lincy.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">M</hi><space rend="indent1"/>The
+            French prose version of the <hi rend="italic">Roman des sept sages</hi> in Florence,
+            Biblioteca Medicea Laurenziana, MS Ashburnham 52, fols. 136v–162r, ed. Runte.</item>
+          <item style="abbreviation-listitem"><hi rend="italic">MED</hi><space rend="indent1"
+            />McSparran et al., <hi rend="italic">Middle English Dictionary</hi></item>
+          <item style="abbreviation-listitem"><hi rend="italic">OED</hi><space rend="indent1"/><hi
+              rend="italic">Oxford English Dictionary</hi></item>
+          <item style="abbreviation-listitem"><hi rend="bold">R</hi><space rend="indent1"/>The
+            Northern version of the Middle English <hi rend="italic">Seven Sages of Rome</hi> in
+            Oxford, Bodleian Library, MS Rawlinson Poet. 175, fols. 109r–131v, variants in
+            Campbell.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">S</hi><space rend="indent1"/>The Latin
+            prose version of the <hi rend="italic">Seven Sages of Rome</hi> in Johannes Gobi the
+            Younger’s <hi rend="italic">Scala celi</hi> in Vienna, Österreichische
+            Nationalbibliothek, MS 13538, fols. 5r–160r, trans. Beaulieu, in <hi rend="italic"
+              >Education, prédication, cultures</hi>, pp. 213–32.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">SindA</hi><space rend="indent1"/>The
+            version of the Arabic <hi rend="italic">Book of Sindbad</hi> in Istanbul, Şehid Ali Paşa
+            Library, MS 2743.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">SindA1001</hi><space rend="indent1"
+            />The version of the Arabic <hi rend="italic">Book of Sindbad</hi> in the <hi
+              rend="italic">One Thousand and One Nights</hi>, trans. Lyons, 2:546–610.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">SindA101</hi><space rend="indent1"
+            />The version of the Arabic <hi rend="italic">Book of Sindbad</hi> in the <hi
+              rend="italic">One Hundred and One Nights</hi>, ed. and trans. Fudge, pp.
+            216–81.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">SindGr</hi><space rend="indent1"/>The
+            Byzantine version of the <hi rend="italic">Book of Sindbad</hi> by Michael Andreopoulos,
+            trans. Beneker and Gibson.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">SindHeb</hi><space rend="indent1"/>The
+            Hebrew version of the <hi rend="italic">Book of Sindbad</hi>, ed. and trans.
+            Epstein.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">SindP1</hi><space rend="indent1"/>The
+            Persian prose version of the <hi rend="italic">Book of Sindbad</hi> by Zahiri of
+            Samarqand, trans. Bogdanović.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">SindP2</hi><space rend="indent1"/>The
+            anonymous Persian verse version of the <hi rend="italic">Book of Sindbad</hi> extracted
+            in Clouston, pp. 3–121.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">SindP3</hi><space rend="indent1"/>The
+            prose version of the Persian <hi rend="italic">Book of Sindbad in Tales of a Parrot</hi>
+            by Ziya<hi rend="diacritic">ʿ</hi>al-Din Nakhshabi, trans. Simsar, pp. 55–68.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">SindSp</hi><space rend="indent1"/>The
+            Spanish version of the <hi rend="italic">Book of Sindbad</hi>, trans. Keller.</item>
+          <item style="abbreviation-listitem"><hi rend="bold">SindSyr</hi><space rend="indent1"/>The
+            Syriac version of the <hi rend="italic">Book of Sindbad</hi>, trans. Gollancz.</item>
+          <item style="abbreviation-listitem">Speer and Foehr-Janssens<space rend="indent1"/>Speer
+            and Foehr Janssens, eds., <hi rend="italic">Le Roman des Sept Sages</hi></item>
+          <item style="abbreviation-listitem"><hi rend="italic">STC</hi><space rend="indent1"/><hi
+              rend="italic">A Short-Title Catalogue of Books Printed in England, Scotland and
+              Ireland</hi>, ed. Jackson, Ferguson, and Pantzer.</item>
+          <item style="abbreviation-listitem">Whitelock<space rend="indent1"/>Whitelock, ed., <hi
+              rend="italic">The Seven Sages of Rome: Midland Version</hi></item>
+          <item style="abbreviation-listitem">Whiting<space rend="indent1"/>Whiting and Whiting, <hi
+              rend="italic">Proverbs, Sentences, and Proverbial Phrases</hi></item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Critten-Sages-Export-14-Bib-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bibliography</title>
+        <author>Critten, Rory G.</author>
+        <author>Wiggins, Alison</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Anderson, Nick</persName>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2026-06" to="2026-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2026-06" to="2026-07">Entered corrections for digital edition</resp>
+          <resp from="2026-06" to="2026-06">Entered corrections for print edition</resp>
+          <resp from="2026-06" to="2026-06">Formatted for print edition</resp>
+          <resp from="2026-06" to="2026-07">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2025-09" to="2025-10">Checked and corrected bibliographic references</resp>
+          <resp from="2025-09" to="2025-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-09" to="2025-10">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2024-09" to="2024-10">Copyedited and proofread</resp>
+          <resp from="2024-09" to="2024-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for content and scholarship</resp>
+          <resp from="2024-09" to="2024-10">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2025-08" to="2025-10">Checked and corrected bibliographic references</resp>
+          <resp from="2026-07" to="2026-07">Collected metadata</resp>
+          <resp from="2025-08" to="2025-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-08" to="2025-10">Entered corrections for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2025-12" to="2026-01">Audited documents prior to print/export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2025-11" to="2026-07">Audited documents prior to print/export</resp>
+          <resp from="2025-10" to="2025-11">Checked and corrected bibliographic references</resp>
+          <resp from="2024-10" to="2026-08">Collated and entered corrections</resp>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2024-10" to="2025-12">Copyedited and proofread</resp>
+          <resp from="2026-07" to="2026-07">Encoded TEI</resp>
+          <resp from="2024-10" to="2025-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-10" to="2025-12">Entered corrections for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for XML export</resp>
+          <resp from="2024-10" to="2025-11">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-10" to="2024-12">Reviewed edition for content and scholarship</resp>
+          <resp from="2026-08" to="2026-08">Uploaded / Published digital edition</resp>
+          <resp from="2024-10" to="2025-11">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2026</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Texas</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Critten, Rory G.</editor>
+            <editor>Wiggins, Alison</editor>
+            <title>The Middle English Seven Sages of Rome</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2026</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/critten-sages/blob/main/critten-sages-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2026</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Critten-Sages-Export-14-Bib"/>
+      <div type="text">
+        <p style="heading">Manuscripts of the <hi rend="italic">Seven Sages of Rome</hi> and related
+          texts</p>
+        <listBibl>
+          <bibl>Aberystwyth, National Library of Wales, MS Peniarth 120, fols. 47r–67r. Online at
+              <ref target="http://hdl.handle.net/10107/4619123" type="external"
+              >http://hdl.handle.net/10107/4619123</ref> [trans. Jones = <hi rend="bold"
+            >Aw</hi>].</bibl>
+          <bibl>Cambridge, University Library, MS Dd. 1. 17, vol. 3, fols. 54r–63r [ed. Whitelock =
+              <hi rend="bold">D</hi>].</bibl>
+          <bibl>Cambridge, University Library, MS Ff. 2. 38, fols. 134r–156v [ed. Brunner = <hi
+              rend="bold">F</hi>].</bibl>
+          <bibl>Edinburgh, National Library of Scotland, MS 16500, fols. 167r–209v. Online at <ref
+              target="https://digital.nls.uk/235163104" type="external"
+              >https://digital.nls.uk/235163104</ref> [ed. van Buuren = <hi rend="bold"
+            >Hs</hi>].</bibl>
+          <bibl>Edinburgh, National Library of Scotland, MS Advocates’ 19. 2. 1, fols. 85r–99v.
+            Online at <ref target="https://digital.nls.uk/233337262" type="external"
+              >https://digital.nls.uk/233337262</ref> [ed. Brunner = <hi rend="bold">A</hi>; base
+            manuscript lines <hi rend="bold">A</hi>120–<hi rend="bold">A</hi>2770, fols.
+            85r–99v].</bibl>
+          <bibl>Florence, Bibliotheca Medicea Laurenziana, MS Ashburnham 52, fols. 136v–162r [ed.
+            Runte = <hi rend="bold">M</hi>].</bibl>
+          <bibl>Istanbul, Şehid Ali Paşa Library, MS 2743 [= <hi rend="bold">SindA</hi>].</bibl>
+          <bibl>London, British Library, MS Arundel 140, fols. 152r–165v [ed. Brunner = <hi
+              rend="bold">Ar</hi>].</bibl>
+          <bibl>London, British Library, MS Cotton Galba E. IX, fols. 25r–48r [ed. Campbell = <hi
+              rend="bold">C</hi>].</bibl>
+          <bibl>London, British Library, MS Egerton 1995, fols. 3r–54v [ed. Brunner = <hi
+              rend="bold">E</hi>; base manuscript lines <hi rend="bold">E</hi>1–<hi rend="bold"
+              >E</hi>103, <hi rend="bold">E</hi>903–07, and <hi rend="bold">E</hi>2786–<hi
+              rend="bold">E</hi>3579, fols. 3r–4r, 16r, and 43r–54v].</bibl>
+          <bibl>Luxemburg, Bibliothèque nationale, MS 110, fols. 139r–170v [trans. Gilleland = <hi
+              rend="bold">Do</hi>]. Online at <ref target="https://doi.org/10.11588/diglit.16270"
+              type="external">https://doi.org/10.11588/diglit.16270#0037</ref>.</bibl>
+          <bibl>Oxford, Balliol College, MS 354, fols. 18r–54v. Online at <ref
+              target="https://digital.bodleian.ox.ac.uk/objects/e0d10554-db39-4b58-a944-45da5e66248e/"
+              type="external"
+              >https://digital.bodleian.ox.ac.uk/objects/e0d10554-db39-4b58-a944-45da5e66248e/</ref>
+            [ed. Brunner = <hi rend="bold">B</hi>].</bibl>
+          <bibl>Oxford, Bodleian Library, MS Rawlinson Poet. 175, fols. 109r–131v [ed. Campbell =
+              <hi rend="bold">R</hi>].</bibl>
+          <bibl>Paris, Bibliothèque nationale, MS fr. 1553, fols. 338v–367v. Online at <ref
+              target="https://gallica.bnf.fr/ark:/12148/btv1b8454669r" type="external"
+              >https://gallica.bnf.fr/ark:/12148/btv1b8454669r</ref> [ed. Speer and Foehr-Janssens =
+              <hi rend="bold">K</hi>].</bibl>
+          <bibl>Paris, Bibliothèque nationale, MS fr. 2137, fols. 1r–46v. Online at <ref
+              target="https://gallica.bnf.fr/ark:/12148/btv1b525184500/f102.item" type="external"
+              >https://gallica.bnf.fr/ark:/12148/btv1b525184500/f102.item</ref>. [ed. Derniame,
+            Henin, and Nais = <hi rend="bold">A*</hi>].</bibl>
+          <bibl>Paris, Bibliothèque nationale, MS fr. 5036, fols. 42r–72r [ed. Paris = <hi
+              rend="bold">D*</hi>].</bibl>
+          <bibl>Paris, Bibliothèque nationale, MS fr. 19166, fols. 1r–30r. Online at <ref
+              target="https://gallica.bnf.fr/ark:/12148/btv1b90633265" type="external"
+              >https://gallica.bnf.fr/ark:/12148/btv1b90633265</ref> [ed. Le Roux de Lincy = <hi
+              rend="bold">L</hi>].</bibl>
+          <bibl>Vienna, Österreichische Nationalbibliothek, MS 13538, fols. 5r–160r [trans. Beaulieu
+            = <hi rend="bold">S</hi>].</bibl>
+        </listBibl>
+        <p style="heading">Primary sources</p>
+        <listBibl>
+          <bibl>Andreopoulos, Michael. <hi rend="italic">The Byzantine Sinbad</hi>. Trans. Jeffrey
+            Beneker and Craig A. Gibson. Dumbarton Oaks Medieval Library 67. Cambridge, MA: Harvard
+            University Press, 2021.</bibl>
+          <bibl>Brunner, Karl, ed. <hi rend="italic">The Seven Sages of Rome: Southern Version</hi>.
+            EETS o.s. 191. London: Oxford University Press, 1933. Online at <ref
+              target="https://archive.org/details/sevensagesofrome0000unse_z7m5/page/n7/mode/2up"
+              type="external"
+              >https://archive.org/details/sevensagesofrome0000unse_z7m5/page/n7/mode/2up</ref>.</bibl>
+          <bibl>Burnley, David, and Alison Wiggins, eds. <hi rend="italic">The Auchinleck
+              Manuscript</hi>. The National Library of Scotland, 5 July 2003. Version 1.1. Online at
+              <ref target="https://auchinleck.nls.uk" type="external"
+              >https://auchinleck.nls.uk</ref>.</bibl>
+          <bibl>Campbell, Killis, ed. <hi rend="italic">The Seven Sages of Rome</hi>. The Albion
+            Series of Anglo-Saxon and Middle English Poetry. Boston: Ginn, 1907. Online at <ref
+              target="https://hdl.handle.net/2027/loc.ark:/13960/t6sx6t95j" type="external"
+              >https://hdl.handle.net/2027/loc.ark:/13960/t6sx6t95j</ref>.</bibl>
+          <bibl>Chandler, John H., ed. <hi rend="italic">The King of Tars</hi>. METS. Kalamazoo, MI:
+            Medieval Institute Publications, 2015. Online at <ref
+              target="https://metseditions.org/editions/79NXj5xYtD6k9h4wEjiRqrGi6gxQd6aRj"
+              type="external"
+              >https://metseditions.org/editions/79NXj5xYtD6k9h4wEjiRqrGi6gxQd6aRj</ref>.</bibl>
+          <bibl>Chaucer, Geoffrey. <hi rend="italic">The Riverside Chaucer</hi>. Gen. ed. Larry D.
+            Benson. 3rd ed. Oxford: Oxford University Press, 1987. Online at <ref
+              target="https://archive.org/details/riversidechaucer0000chau" type="external"
+              >https://archive.org/details/riversidechaucer0000chau</ref>.</bibl>
+          <bibl>Clouston, W. A., ed. T<hi rend="italic">he Book of Sindibād; or, The Story of the
+              King, His Son, The Damsel, and the Seven Vazīrs</hi>. Glasgow: privately printed,
+            1884. Online at <ref
+              target="https://archive.org/details/bookofsindibador00sind/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/bookofsindibador00sind/page/n5/mode/2up</ref>.</bibl>
+          <bibl>Davidson, Clifford, ed. <hi rend="italic">The York Corpus Christi Plays</hi>. METS.
+            Kalamazoo, MI: Medieval Institute Publications, 2011. Online at <ref
+              target="https://metseditions.org/editions/p01jmzrFBMyIAXQSN95Pi5wzXdqzmv"
+              type="external"
+            >https://metseditions.org/editions/p01jmzrFBMyIAXQSN95Pi5wzXdqzmv</ref>.</bibl>
+          <bibl>Davis, Norman, ed. <hi rend="italic">Paston Letters and Papers of the Fifteenth
+              Century</hi>. Vol 1. EETS s.s. 20. Oxford: Oxford University Press, 2004. Online at
+              <ref target="https://archive.org/details/pastonletterspap0000unse/page/n7/mode/2up"
+              type="external"
+              >https://archive.org/details/pastonletterspap0000unse/page/n7/mode/2up</ref>.</bibl>
+          <bibl>Derniame, O., M. Henin, and H. Nais, eds. <hi rend="italic">Les Sept sages de Rome:
+              Roman en prose du XIIIe siècle</hi>. Travaux du CRAL 2. Nancy: Centre de Recherches et
+            d’Appliquations Linguistiques, 1981.</bibl>
+          <bibl>Dubin, Nathaniel E., trans. <hi rend="italic">The Fabliaux: A New Verse
+              Translation</hi>. New York: Liveright, 2013.</bibl>
+          <bibl>Dyboski, Roman, ed. <hi rend="italic">Songs, Carols, and Other Miscellaneous Poems
+              from the Balliol MS. 354, Richard Hill’s Commonplace Book</hi>. EETS e.s. 101. London:
+            Oxford University Press, 1908. Online at <ref
+              target="https://hdl.handle.net/2027/uc1.31175035146060" type="external"
+              >https://hdl.handle.net/2027/uc1.31175035146060</ref>.</bibl>
+          <bibl>Epstein, Morris, ed. and trans. <hi rend="italic">Tales of Sendebar</hi>. Judaica
+            texts and translations, 1st series 2. Philadelphia: Jewish Publication Society of
+            America, 1967.</bibl>
+          <bibl>Fein, Susanna, ed and trans., with David Raybin and Jan Ziolkowski. <hi
+              rend="italic">The Complete Harley 2253 Manuscript</hi>. 3 vols. METS. Kalamazoo, MI:
+            Medieval Institute Publications, 2014–2015. Online at <ref
+              target="https://metseditions.org/editions/465Pm1LSPGpfxLahvLzDsbgz6MPj6m"
+              type="external"
+            >https://metseditions.org/editions/465Pm1LSPGpfxLahvLzDsbgz6MPj6m</ref>.</bibl>
+          <bibl>Foster, Edward E., ed. <hi rend="italic">Three Purgatory Poems: The Gast of Gy, Sir
+              Owain, The Vision of Tundale</hi>. METS. Kalamazoo, MI: Medieval Institute
+            Publications, 2004. Online at <ref
+              target="https://metseditions.org/editions/4p0qlpB0i2mKwHxejIvXGQHGGLXVLR4M"
+              type="external"
+              >https://metseditions.org/editions/4p0qlpB0i2mKwHxejIvXGQHGGLXVLR4M</ref>.</bibl>
+          <bibl>Foster, Edward E., ed. <hi rend="italic">Amis and Amiloun, Robert of Cisyle, and Sir
+              Amadace</hi>. 2nd edition. METS. Kalamazoo, MI: Medieval Institute Publications, 2007.
+            Online at <ref
+              target="https://metseditions.org/editions/8yxzBgdc8P9Xf1WEC17dYiE8d9kd15P"
+              type="external"
+              >https://metseditions.org/editions/8yxzBgdc8P9Xf1WEC17dYiE8d9kd15P</ref>.</bibl>
+          <bibl>Fudge, Bruce, ed. and trans. <hi rend="italic">A Hundred and One Nights</hi>.
+            Hardcover edition. Library of Arabic Literature 45. New York: New York University Press,
+            2016.</bibl>
+          <bibl>Geoffrey of Monmouth. <hi rend="italic">The History of the Kings of Britain</hi>.
+            Ed. Michael D. Reeve. Trans. Neil Wright. Arthurian Studies 69. Cambridge: D. S. Brewer,
+            2007.</bibl>
+          <bibl>Gollancz, Hermann, trans. “The History of Sindban and the Seven Wise Masters.” <hi
+              rend="italic">Folklore</hi> 8, no. 2 (1897), 99–131. Online at <ref
+              target="https://www.jstor.org/stable/1252967" type="external"
+              >https://www.jstor.org/stable/1252967</ref>.</bibl>
+          <bibl>Gomme, George Laurence, ed. <hi rend="italic">The History of the Seven Wise Masters
+              of Rome. Printed from the Edition of Wynkyn de Worde, 1520</hi>. Chap-Books and
+            Folk-Lore Tracts f.s. 2. London: Villon Society, 1885. Online at <ref
+              target="https://babel.hathitrust.org/cgi/pt?id=hvd.hw37n3&amp;seq=7" type="external"
+              >https://babel.hathitrust.org/cgi/pt?id=hvd.hw37n3&amp;seq=7</ref>.</bibl>
+          <bibl>Gower, John. <hi rend="italic">The English Works of John Gower</hi>. Ed. G. C.
+            Macaulay. 2 vols. EETS e.s. 81, 82. London: Oxford University Press, 1900–1901. Online
+            at <ref target="https://archive.org/details/bwb_P9-BHX-975_1/page/n7/mode/2up"
+              type="external">https://archive.org/details/bwb_P9-BHX-975_1/page/n7/mode/2up</ref>
+            and <ref target="https://archive.org/details/bwb_P9-BHX-976_2/mode/2up" type="external"
+              >https://archive.org/details/bwb_P9-BHX-976_2/mode/2up</ref>.</bibl>
+          <bibl>Greco, Gina L., and Christine M. Rose, trans. <hi rend="italic">The Good Wife’s
+              Guide: Le Ménagier de Paris, A Medieval Household Book</hi>. Ithaca, NY: Cornell
+            University Press, 2009.</bibl>
+          <bibl>Herzman, Ronald B., Graham Drake, and Eve Salisbury, eds. <hi rend="italic">Four
+              Romances of England: King Horn, Havelok the Dane, Bevis of Hampton, Athelston</hi>.
+            METS. Kalamazoo, MI: Medieval Institute Publications, 1999. Online at <ref
+              target="https://metseditions.org/editions/x312XpmSvXDdt4pwvCjQYPse9Z4b73yj"
+              type="external"
+              >https://metseditions.org/editions/x312XpmSvXDdt4pwvCjQYPse9Z4b73yj</ref>.</bibl>
+          <bibl><hi rend="italic">The Holy Bible: Douay-Rheims Bible</hi>. Rockford, IL: Tan Books
+            and Publishers, 1899. Online at <ref target="https://www.drbo.org" type="external"
+              >https://www.drbo.org</ref>.</bibl>
+          <bibl>Horstmann, Carl, ed. <hi rend="italic">Altenglische Legenden: Neue Folge</hi>.
+            Heilbronn: Henninger, 1881. Online at <ref
+              target="https://archive.org/details/altenglischelege00hors/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/altenglischelege00hors/page/n5/mode/2up</ref>.</bibl>
+          <bibl>Johannis de Alta Silva. <hi rend="italic">Historia septem sapientum II: Johannis de
+              Alta Silva Dolopathos sive De rege et septem sapientibus</hi>. Ed. Alfons Hilka.
+            Heidelberg: Carl Winter Universitätsbuchhandlung, 1913. Online at <ref
+              target="https://archive.org/details/historiaseptemsa00dolo/page/n3/mode/2up"
+              type="external"
+              >https://archive.org/details/historiaseptemsa00dolo/page/n3/mode/2up</ref>.</bibl>
+          <bibl>Johannes de Alta Silva. <hi rend="italic">Dolopathos, or, the King and the Seven
+              Wise Men</hi>. Trans. Brady B. Gilleland. Medieval and Renaissance Texts and Studies
+            2. Binghamton, NY: Center for Medieval and Early Renaissance Studies, 1981. Online at
+              <ref target="https://archive.org/details/dolopathosorking0000joha/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/dolopathosorking0000joha/page/n5/mode/2up</ref>.</bibl>
+          <bibl>Jones, G. Hartwell, trans. “The Seven Wise Men of Rome.” In <hi rend="italic"
+              >Selections from the Hengwrt MSS. Preserved in the Peniarth Library</hi>. Vol 2.
+            London: Quaritch, 1892. Pp. 647–62. Online at <ref
+              target="https://hdl.handle.net/2027/ien.35556025396508" type="external"
+              >https://hdl.handle.net/2027/ien.35556025396508</ref>.</bibl>
+          <bibl>Keller, John Esten, trans. <hi rend="italic">The Book of the Wiles of Women</hi>.
+            Studies in the Romance Languages and Literatures 27. Chapel Hill: University of North
+            Carolina Press, 1956.</bibl>
+          <bibl>Kooper, Erik, ed. <hi rend="italic">Sentimental and Humorous Romances</hi>. METS.
+            Kalamazoo, MI: Medieval Institute Publications, 2006. Online at <ref
+              target="https://metseditions.org/editions/E6pge7KhrDE7HNbgIqNjgh6bm4ENQyg"
+              type="external"
+              >https://metseditions.org/editions/E6pge7KhrDE7HNbgIqNjgh6bm4ENQyg</ref>.</bibl>
+          <bibl>Laskaya, Anne, and Eve Salisbury, eds. <hi rend="italic">The Middle English Breton
+              Lays</hi>. METS. Kalamazoo, MI: Medieval Institute Publications, 1995. Online at <ref
+              target="https://metseditions.org/editions/vMwewNZhMkppHg3eUmKGbi3r1pzrQ8M"
+              type="external"
+              >https://metseditions.org/editions/vMwewNZhMkppHg3eUmKGbi3r1pzrQ8M</ref>.</bibl>
+          <bibl>Le Roux de Lincy, ed. “Roman des sept sages de Rome en prose.” In A. Loiseleur
+            Deslongchamps, <hi rend="italic">Essai sur les fables indiennes et sur leur introduction
+              en Europe</hi>. Paris: Techener, 1838. Pp. 1–76. Online at <ref
+              target="https://archive.org/details/essaisurlesfable00loisuoft/page/n245/mode/2up"
+              type="external"
+              >https://archive.org/details/essaisurlesfable00loisuoft/page/n245/mode/2up</ref>.</bibl>
+          <bibl>Lovelich, Henry. <hi rend="italic">The History of the Holy Grail by Henry
+              Lovelich</hi>. Ed. Frederick J. Furnivall and Dorothy Kempe. Part III. EETS e.s. 28.
+            London: N. Trübner &amp; Co., 1877. Online at <ref
+              target="https://archive.org/details/historyholygrai00kempgoog/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/historyholygrai00kempgoog/page/n5/mode/2up</ref>.</bibl>
+          <bibl>Lupack, Alan, ed. <hi rend="italic">Lancelot of the Laik and Sir Tristrem</hi>.
+            METS. Kalamazoo, MI: Medieval Institute Publications, 1994. Online at <ref
+              target="https://metseditions.org/editions/RjGrk5xhRBEUbMPSv6MZs7p3YEY3EN"
+              type="external"
+            >https://metseditions.org/editions/RjGrk5xhRBEUbMPSv6MZs7p3YEY3EN</ref>.</bibl>
+          <bibl>Lyons, Malcolm C., trans. with Ursula Lyons. <hi rend="italic">The Arabian Nights:
+              Tales of 1001 Nights</hi>. Vol 2. Penguin Classics. London: Penguin, 2008.</bibl>
+          <bibl>Macrae-Gibson, O. D., ed. <hi rend="italic">Of Arthour and of Merlin</hi>. 2 vols.
+            EETS o.s. 268, 279. London and Oxford: Oxford University Press, 1973, 1979.</bibl>
+          <bibl>Marie de France. <hi rend="italic">The Lais of Marie de France</hi>. Ed. and trans.
+            Claire M. Waters. Peterborough: Broadview, 2018.</bibl>
+          <bibl>McSparran, Frances, and P. R. Robinson, intro. <hi rend="italic">Cambridge
+              University Library MS Ff.2.38</hi>. London: Scolar Press, 1979.</bibl>
+          <bibl>Melick, Elizabeth, Susanna Fein, and David Raybin, eds. <hi rend="italic">The Roland
+              and Otuel Romances and the Anglo-Norman Otinel</hi>. METS. Kalamazoo, MI: Medieval
+            Institute Publications, 2019. Online at <ref
+              target="https://metseditions.org/editions/p2zb96K0TV09uBzbyuNeGLiZ41zkyBKZ"
+              type="external"
+              >https://metseditions.org/editions/p2zb96K0TV09uBzbyuNeGLiZ41zkyBKZ</ref>.</bibl>
+          <bibl>Nakhshabi, Ziya<hi rend="diacritic">ʿ</hi>al-Din. <hi rend="italic">The Cleveland
+              Museum of Art’s </hi><hi rend="italic"><hi rend="diacritic">Ṭ</hi>ū<hi
+                  rend="diacritic">ṭ</hi></hi><hi rend="italic">ī-nāma: Tales of a Parrot by Ziya’u’d-din
+                    Nakhshabi.</hi> Ed. and trans. Muhammed A. Simsar. Graz: Akademische Druck und
+            Verlagsanstalt, 1978.</bibl>
+          <bibl>Page, John. <hi rend="italic">John’s Page’s The Siege of Rouen</hi>. Ed. Joanna
+            Bellis. Middle English Texts 51. Heidelberg: Winter Universitätsverlag, 2015.</bibl>
+          <bibl>Paris, Gaston, ed. <hi rend="italic">Deux rédactions du Roman des sept sages de
+              Rome</hi>. Paris: Firmin Didot, 1876. Online at <ref
+              target="https://archive.org/details/deuxrdactionsd00pari/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/deuxrdactionsd00pari/page/n5/mode/2up</ref>.</bibl>
+          <bibl>Pearsall, Derek, and I. C. Cunningham, intro. <hi rend="italic">The Auchinleck
+              Manuscript: National Library of Scotland Advocates’ MS. 19.2.1</hi>. London: Scolar
+            Press, 1977.</bibl>
+          <bibl>Perry, Ben Edwin, ed. and trans. <hi rend="italic">Secundus, the Silent
+              Philosopher</hi>. Philological Monographs 22. Ithaca, NY: American Philological
+            Association, 1964. Online at <ref
+              target="https://archive.org/details/trent_0116301458265/page/n7/mode/2up"
+              type="external"
+            >https://archive.org/details/trent_0116301458265/page/n7/mode/2up</ref>.</bibl>
+          <bibl>Runte, Hans R., ed. <hi rend="italic">Li Ystoire de la male marastre</hi>. Beihefte
+            zur Zeitschrift fur Romanische Philologie 141.Tübingen: Max Niemeyer, 1974.</bibl>
+          <bibl>Schmeling, Gareth, ed. and trans. <hi rend="italic">Petronius: Satyricon; Seneca:
+              Apocolocyntosis</hi>. Loeb Classical Library 15. Cambridge, MA: Harvard University
+            Press, 2020. Online at <ref
+              target="https://www.loebclassics.com/view/LCL015/2020/volume.xml" type="external"
+              >https://www.loebclassics.com/view/LCL015/2020/volume.xml</ref>.</bibl>
+          <bibl>Smithers, G. V., ed. <hi rend="italic">Kyng Alisaunder</hi>. 2 vols. EETS o.s. 227,
+            237. London: Oxford University Press, 1952, 1957.</bibl>
+          <bibl>Speer, Mary B., ed. <hi rend="italic">Le Roman des sept sages de Rome: A Critical
+              Edition of the Two Verse Redactions of a Twelfth-Century Romance</hi>. Edward C.
+            Armstrong Monographs on Medieval Literature 4. Lexington, KY: French Forum Publishers,
+            1989.</bibl>
+          <bibl>Speer, Mary B., and Yasmina Foehr-Janssens, eds. <hi rend="italic">Le Roman des sept
+              sages de Rome</hi>. Moyen Age 44. Paris: Champion classiques, 2017.</bibl>
+          <bibl>Van Buuren, Catherine, ed. <hi rend="italic">The Buke of the Sevyne Sagis</hi>.
+            Germanic and Anglistic Studies of the University of Leiden 20. Leiden: Leiden University
+            Press, 1982.</bibl>
+          <bibl>Whitelock, Jill, ed. <hi rend="italic">The Seven Sages of Rome: Midland
+            Version</hi>. EETS o.s. 324. Oxford: Oxford University Press, 2005. Online at <ref
+              target="https://archive.org/details/sevensagesofrome0000unse/page/n3/mode/2up"
+              type="external"
+              >https://archive.org/details/sevensagesofrome0000unse/page/n3/mode/2up</ref>.</bibl>
+          <bibl>Wiggins, Alison, ed. <hi rend="italic">The Stanzaic Guy of Warwick</hi>. METS.
+            Kalamazoo, MI: Medieval Institute Publications, 2004. Online at <ref
+              target="https://metseditions.org/editions/yk3mzQGiRBMczGqCXdxxu5R2Ak5Mde"
+              type="external"
+            >https://metseditions.org/editions/yk3mzQGiRBMczGqCXdxxu5R2Ak5Mde</ref>.</bibl>
+          <bibl>Yohannan, John D., ed. <hi rend="italic">Joseph and Potiphar’s Wife in World
+              Literature: An Anthology of the Story of the Chaste Youth and the Lustful
+              Stepmother</hi>. New York: New Directions, 1968.</bibl>
+          <bibl>Zahiri of Samarqand. <hi rend="italic">Zahiri de Samarkand: Le Livre des sept
+              vizirs</hi>. Trans. Dejan Bogdanović. Paris: Sindbad, 1975.</bibl>
+          <bibl>Ziolkowski, Jan M., and Michael C. J. Putnam, eds. <hi rend="italic">The Virgilian
+              Tradition: The First Fifteen Hundred Years</hi>. New Haven: Yale University Press,
+            2008.</bibl>
+        </listBibl>
+        <p style="heading">Secondary sources</p>
+        <listBibl>
+          <bibl>Allen, Elizabeth. <hi rend="italic">False Fables and Exemplary Truth in Later Middle
+              English Literature</hi>. The New Middle Ages. Houndmills: Palgrave Macmillan,
+            2005.</bibl>
+          <bibl>Allen, Elizabeth. “Episodes.” In <hi rend="italic">Middle English</hi>. Ed. Paul
+            Strohm. Oxford Twenty-First Century Approaches to Literature. Oxford: Oxford University
+            Press, 2007. Pp. 191–206.</bibl>
+          <bibl>Artola, George. “The Nature of the Book of Sindbād.” In Niedzielski, Runte, and
+            Hendrickson, <hi rend="italic">Studies on the Seven Sages of Rome and other Essays in
+              Medieval Literature</hi>. Pp. 7–31.</bibl>
+          <bibl>Bahr, Arthur. <hi rend="italic">Fragments and Assemblages: Forming Compilations of
+              Medieval London</hi>. Chicago: University of Chicago Press, 2013.</bibl>
+          <bibl>Barnes, Geraldine. <hi rend="italic">Counsel and Strategy in Middle English
+              Romance</hi>. Cambridge: D. S. Brewer, 1993.</bibl>
+          <bibl>Beaulieu, Marie-Anne Polo de. <hi rend="italic">Éducation, prédication, et cultures
+              au Moyen Age: Essai sur Jean Gobi le Jeune</hi>. Lyon: Presses universitaires de Lyon,
+            1999. Online at <ref target="https://books.openedition.org/pul/19950" type="external"
+              >https://books.openedition.org/pul/19950</ref>.</bibl>
+          <bibl>Belcher, Stephen. “The Diffusion of the Book of Sindbād.” <hi rend="italic"
+              >Fabula</hi> 28 (1987), 34–58.</bibl>
+          <bibl>Bildhauer, Bettina. “Silencing a Woman’s Accusation of Attempted Rape in Johannes de
+            Alta Silva’s <hi rend="italic">Dolopathos</hi>.” <hi rend="italic">Nottingham Medieval
+              Studies</hi> 64 (2020), 117–36. Online at <ref
+              target="https://research-repository.st-andrews.ac.uk/handle/10023/29125"
+              type="external"
+            >https://research-repository.st-andrews.ac.uk/handle/10023/29125</ref>.</bibl>
+          <bibl>Bildhauer, Bettina. “Every Narrator is Biased: The Polyphonic Poetics of ‘The Seven
+            Sages of Rome’ in a German Version.” <hi rend="italic">Das Mittelalter</hi> 28, no. 1
+            (2023), 137–54. Online at <ref
+              target="https://research-repository.st-andrews.ac.uk/handle/10023/27978"
+              type="external"
+            >https://research-repository.st-andrews.ac.uk/handle/10023/27978</ref>.</bibl>
+          <bibl>Bildhauer, Bettina, Jutta Eming, and Nora Schmidt, eds. “The ‘Seven Sages of Rome’
+            as a Global Narrative Tradition.” Special Issue, <hi rend="italic">Das Mittelalter</hi>
+            28, no. 1 (2023).</bibl>
+          <bibl>Bildhauer, Bettina, Jane Bonsall, and M. North. <hi rend="italic">Seven Sages of
+              Rome Database</hi>. Online at <ref target="https://db.seven-sages-of-rome.org"
+              type="external">https://db.seven-sages-of-rome.org</ref>.</bibl>
+          <bibl>Blackburn, Stuart. “The Brahmin and the Mongoose: The Narrative Context of a
+            Well-Travelled Tale.” <hi rend="italic">Bulletin of the School of Oriental and African
+              Studies, University of London</hi> 59, no. 3 (1996), 494–507. Online at <ref
+              target="https://www.jstor.org/stable/619805" type="external"
+              >https://www.jstor.org/stable/619805</ref>.</bibl>
+          <bibl>Bonsall, Jane, and Hannah Piercy. “Comparative Approaches to Men’s Experiences of
+            Sexual Coercion: Reading Across Multi-Text Manuscripts.” In <hi rend="italic"
+              >Reconsidering Consent and Coercion</hi>. Ed. Jane Bonsall and Hannah Piercy. Gender
+            and Sexuality in the Global Middle Ages 1. Turnhout: Brepols, 2025. Pp. 111–27. Online
+            at <ref target="https://brepolsonline.net/doi/book/10.1484/M.GMS-EB.5.132932"
+              type="external"
+            >https://brepolsonline.net/doi/book/10.1484/M.GMS-EB.5.132932</ref>.</bibl>
+          <bibl>Boswell, John. <hi rend="italic">Christianity, Social Tolerance, and Homosexuality:
+              Gay People in Western Europe from the Beginning of the Christian Era to the Fourteenth
+              Century</hi>. Chicago: The University of Chicago Press, 1980. Online at <ref
+              target="https://www.fulcrum.org/concern/monographs/7m01bk84w#toc" type="external"
+              >https://www.fulcrum.org/concern/monographs/7m01bk84w#toc</ref>.</bibl>
+          <bibl>Brereton, Georgina E. “Deux sources du <hi rend="italic">Ménagier de Paris</hi>: Le
+              <hi rend="italic">Roman des sept sages de Rome</hi> et les <hi rend="italic">Moralitez
+              sur le jeu des eschecs</hi>.” <hi rend="italic">Romania</hi> 74, no. 295 (3) (1953),
+            338–57. Online at <ref target="https://www.jstor.org/stable/45045783" type="external"
+              >https://www.jstor.org/stable/45045783</ref>.</bibl>
+          <bibl>Burgwinkle, William E. <hi rend="italic">Sodomy, Masculinity, and Law in Medieval
+              Literature: France and England, 1050–1230</hi>. Cambridge Studies in Medieval
+            Literature 51. Cambridge: Cambridge University Press, 2004.</bibl>
+          <bibl>Calkin, Siobhain Bly. <hi rend="italic">Saracens and the Making of English Identity:
+              The Auchinleck Manuscript</hi>. Studies in Medieval History and Culture. London:
+            Routledge, 2005.</bibl>
+          <bibl>Campbell, Killis. “The Source of the Story <hi rend="italic">Sapientes</hi> in the
+              <hi rend="italic">Seven Sages of Rome</hi>.” <hi rend="italic">Modern Language
+              Notes</hi> 23, no. 7 (1908), 202–04. Online at <ref
+              target="https://doi.org/10.2307/2916837" type="external"
+              >https://doi.org/10.2307/2916837</ref>.</bibl>
+          <bibl>Clark, Cecily. “The Myth of ‘The Anglo-Norman Scribe.’” In <hi rend="italic">History
+              of Englishes: New Methods and Interpretation in Historical Linguistics</hi>. Ed. Matti
+            Rissanen, Ossi Ihalainen, Terttu Nevalainen, and Irma Taavitsainen. Topics in English
+            Linguistics 10. Berlin: De Gruyter, 1992. Pp. 117–29. Online at <ref
+              target="https://doi.org/10.1515/9783110877007" type="external"
+              >https://doi.org/10.1515/9783110877007</ref>.</bibl>
+          <bibl>Clifton, Nicole. “<hi rend="italic">The Seven Sages of Rome</hi>, Children’s
+            Literature, and the Auchinleck Manuscript.” In <hi rend="italic">Childhood in the Middle
+              Ages and the Renaissance: The Results of a Paradigm Shift in the History of
+              Mentality</hi>. Ed. Albrecht Classen. Berlin: De Gruyter, 2005. Pp. 185–201. Online at
+              <ref target="https://library.oapen.org/handle/20.500.12657/31669" type="external"
+              >https://library.oapen.org/handle/20.500.12657/31669</ref>.</bibl>
+          <bibl>Clouston, W. A. “The Tell-Tale Bird: Latin Source, Other European Versions, and
+            Asiatic Analogues of Chaucer’s <hi rend="italic">Manciple’s Tale</hi>.” In <hi
+              rend="italic">Originals and Analogues of Some of Chaucer’s Canterbury Tales</hi>. Ed.
+            F. J. Furnivall, Edmund Brock, and W. A. Clouston. London: N. Trübner, 1888. Pp. 437–80.
+            Online at <ref
+              target="https://archive.org/details/originalsanalogu00furnuoft/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/originalsanalogu00furnuoft/page/n5/mode/2up</ref>.</bibl>
+          <bibl>Collier, Heather. “Richard Hill—A London Compiler.” In Mullally and Thompson, <hi
+              rend="italic">The Court and Cultural Diversity</hi>. Pp. 319–29.</bibl>
+          <bibl>Colliot, Régine. “La mauvaise vieillesse des sept sages de Rome.” In <hi
+              rend="italic">Vieillesse et vieillissement au Moyen Âge</hi>. Senefiance 19.
+            Aix-en-Provence: Presses universitaires de Provence, 1987. Pp. 55–71. Online at <ref
+              target="https://books.openedition.org/pup/3243" type="external"
+              >https://books.openedition.org/pup/3243</ref>.</bibl>
+          <bibl>Connolly, Margaret, and A. S. G. Edwards. “Evidence for the History of the
+            Auchinleck Manuscript.” <hi rend="italic">The Library</hi> 18, no. 3 (2017), 292–304.
+            Online at <ref target="https://doi.org/10.1093/library/18.3.292" type="external"
+              >https://doi.org/10.1093/library/18.3.292</ref>.</bibl>
+          <bibl>Cosman, Madeleine Pelner. <hi rend="italic">The Education of the Hero in Arthurian
+              Romance</hi>. Chapel Hill: University of North Carolina Press, 1966. Online at <ref
+              target="https://archive.org/details/educationofheroi0000made/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/educationofheroi0000made/page/n5/mode/2up</ref>.</bibl>
+          <bibl>Critten, Rory G. “The Exploitation of French-English Lexical Transfer in Early
+            Middle English Poetry.” <hi rend="italic">Early Middle English</hi> 4, no. 1 (2022),
+            31–50. Online at <ref target="https://muse.jhu.edu/pub/306/article/857922"
+              type="external">https://muse.jhu.edu/pub/306/article/857922</ref>.</bibl>
+          <bibl>Critten, Rory G. “Sodomy and the East in the <hi rend="italic">Seven Sages of
+              Rome</hi>.” <hi rend="italic">Interfaces: A Journal of Medieval European
+              Literatures</hi>. 14 (2025). Online at <ref
+              target="https://riviste.unimi.it/index.php/interfaces/article/view/20563/25305"
+              type="external"
+              >https://riviste.unimi.it/index.php/interfaces/article/view/20563/25305</ref>.</bibl>
+          <bibl>Critten, Rory G. “Hating Women in the Middle English <hi rend="italic">Seven Sages
+              of Rome</hi>.” <hi rend="italic">Review of English Studies</hi>. Forthcoming.</bibl>
+          <bibl>Critten, Rory G. “The Affordances of Early Middle English and the Auchinleck <hi
+              rend="italic">Seven Sages of Rome</hi>.” <hi rend="italic">New Medieval
+              Literatures</hi> 27 (2027): forthcoming.</bibl>
+          <bibl>Critten, Rory G., Davide Picca, and Cyrille Gay-Crosier. “French Lexis in the
+            Auchinleck Manuscript: A Digital-Philological Approach.” <hi rend="italic">Digital
+              Scholarship in the Humanities</hi> 37, no. 2 (2022), 354–74. Online at <ref
+              target="https://doi.org/10.1093/llc/fqab054" type="external"
+              >https://doi.org/10.1093/llc/fqab054</ref>.</bibl>
+          <bibl><hi rend="italic">Dictionnaire du Moyen Français</hi>. ATILF – CNRS &amp; Université
+            de Lorraine, 2023. Online at <ref target="http://www.atilf.fr/dmf" type="external"
+              >http://www.atilf.fr/dmf</ref>.</bibl>
+          <bibl>Eichel-Lojkine, Patricia. “<hi rend="italic">Canis</hi> dans tous ses états: Récit
+            sériel, sagesse(s) et animal exemplaire.” <hi rend="italic">Cahiers de recherches
+              médiévales et humanistes</hi> 27 (2014), 313–42. Online at <ref
+              target="https://doi.org/10.4000/crm.13453" type="external"
+              >https://doi.org/10.4000/crm.13453</ref>.</bibl>
+          <bibl>Farmer, David Hugh. <hi rend="italic">Oxford Dictionary of Saints</hi>. 5th ed.
+            Oxford: Oxford University Press, 2011. Online at <ref
+              target="https://www.oxfordreference.com/display/10.1093/acref/9780199596607.001.0001/acref-9780199596607"
+              type="external"
+              >https://www.oxfordreference.com/display/10.1093/acref/9780199596607.001.0001/acref-9780199596607</ref>.</bibl>
+          <bibl>Faverty, Frederic Everett. “The Story of Joseph and Potiphar’s Wife in Mediaeval
+            Literature.” <hi rend="italic">Harvard Studies and Notes in Philology and
+              Literature</hi> 13 (1931), 81–127.</bibl>
+          <bibl>Fein, Susanna. “Introduction.” In Fein, <hi rend="italic">The Auchinleck
+              Manuscript</hi>. Pp. 1–10.</bibl>
+          <bibl>Fein, Susanna, ed. <hi rend="italic">The Auchinleck Manuscript: New
+              Perspectives</hi>. Manuscript Culture in the British Isles 7. Cambridge: D. S. Brewer,
+            2016.</bibl>
+          <bibl>Flynn, Caitlin. “A ‘Wyfis Sawe’: Antifeminism, Jurisprudence, and Critical Reading
+            in the Older Scots ‘The Buke of the Sevyne Sagis.’” <hi rend="italic">Das
+              Mittelalter</hi> 28, no. 1 (2023), 32–48. Online at <ref
+              target="https://doi.org/10.17885/heiup.mial.2023.1.24766" type="external"
+              >https://doi.org/10.17885/heiup.mial.2023.1.24766</ref>.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. “Le chien, la femme et le petit enfant: Apologie de la
+            fable dans le <hi rend="italic">Roman des sept sages de Rome</hi>.” <hi rend="italic"
+              >Vox Romanica</hi> 52 (1993), 147–63.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. <hi rend="italic">Le temps des fables: Le Roman des sept
+              sages ou l’autre voie du roman</hi>. Nouvelle bibliothèque du Moyen Age 27. Paris:
+            Honoré Champion, 1994.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. “La trahison des sages: Évolution de la clergie dans le <hi
+              rend="italic">Roman des sept sages</hi> et ses continuations.” In <hi rend="italic"
+              >Félonie, trahison, reniements au Moyen Age</hi>. Ed. Marcel Faure. Les cahiers du
+            CRISIMA 3. Montpellier: Université Paul-Valéry, 1997. Pp. 291–303.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. “Une recluse fort (peu) courtoise: Destin d’une anecdote
+            dans le <hi rend="italic">Roman des sept sages</hi>.” In Mullally and Thompson, <hi
+              rend="italic">The Court and Cultural Diversity</hi>. Pp. 385–94.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. “Mourir d’aimer: Le récit de la <hi rend="italic">Matrone
+              d’Éphèse</hi> dans le miroir des fabliaux du Moyen Age.” <hi rend="italic">Cahiers des
+              études anciennes</hi> 39 (2003), 89–100.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. “L’Art de ne rien dire: Philosophie du mutisme dans le <hi
+              rend="italic">Roman des sept sages de Rome</hi>.” <hi rend="italic">Micrologus</hi> 18
+            (2010), 91–111.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. “Arthur et les sept sages: Confluences de la fiction
+            bretonne et du roman de clergie?” In <hi rend="italic">Cultures courtoises en
+              mouvement</hi>. Ed. Isabelle Arseneau and Francis Gingras. Montréal: Presses de
+            l’Université de Montréal, 2011. Pp. 277–90.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. “La parole condensée: Poétique du récit bref dans les
+            recueils de contes enchâssés.” In <hi rend="italic">Faire court: L’esthétique de la
+              brièveté dans la littérature du Moyen Age</hi>. Ed. Catherine Croizy-Naquet, Laurence
+            Harf-Lancner, and Michelle Szkilnik. Paris: Presses Sorbonne Nouvelle, 2011. Pp.
+            229–48.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. “Quand les bêtes se taisent ou jacassent: Les fables
+            animales dans le <hi rend="italic">Roman des sept sages</hi>.” In <hi rend="italic">Les
+              Fables avant La Fontaine</hi>. Ed. Jeanne-Marie Boivin, Jacqueline Cerquiglini-Toulet,
+            and Laurence Harf-Lancner. Publications romanes et françaises 253. Geneva: Droz, 2011.
+            Pp. 319–31.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. <hi rend="italic">L’Histoire des sept sages: Un best-seller
+              genevois au quinzième siècle</hi>. Belle pages de la bibliothèque de Genève 11.
+            Geneva: La Baconnière, 2013.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. “De Jérusalem à Rome: Le <hi rend="italic">Roman des sept
+              sages</hi> dans le manuscrit de Paris, BnF, MS fr. 1553.” In Uhlig and Foehr-Janssens,
+              <hi rend="italic">D’Orient en Occident</hi>. Pp. 329–49.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. “Le désir et le savoir: Le <hi rend="italic">Roman des sept
+              sages</hi> et la quête du roi philosophe.” In <hi rend="italic">Enseñar deleitando:
+              Plaire et instruire</hi>. Ed. Constance Carta, Sarah Finici, and Dora Mancheva. Bern:
+            Peter Lang, 2016. Pp. 207–26.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. “Misogyny and the Trends of a European Success: The French
+            Prose <hi rend="italic">Roman des sept sages de Rome</hi>.” <hi rend="italic">Narrative
+              Culture</hi> 7, no. 2 (2020), 165–80. Online at <ref
+              target="https://dx.doi.org/10.13110/narrcult.7.2.0165" type="external"
+              >https://dx.doi.org/10.13110/narrcult.7.2.0165</ref>.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. “Le chien, l’enfant et le serpent: Un mythe domestique? A
+            propos du récit ‘Canis’ du <hi rend="italic">Roman des sept sages de Rome</hi>.” <hi
+              rend="italic">Reinardus</hi> 34, no. 1 (2022), 77–93.</bibl>
+          <bibl>Foehr-Janssens, Yasmina. “La femme de Putiphar, le viol et l’entrée en
+            hétérosexualité: Lectures de textes médiévaux et épistémologie féministe.” <hi
+              rend="italic">Médiévales</hi> 84 (2023), 155–75. Online at <ref
+              target="https://doi.org/10.4000/medievales.12510" type="external"
+              >https://doi.org/10.4000/medievales.12510</ref>.</bibl>
+          <bibl>Gadsden, Carys. “<hi rend="italic">Chwedleu Seith Doethon Rufein</hi>, the Middle
+            Welsh <hi rend="italic">Les Sept sages de Rome</hi>: An Inadequate Rendering or a New
+            Perspective on This Internationally Popular Tale?” <hi rend="italic">Narrative
+              Cultures</hi> 7, no. 2 (Fall 2020), 198–215. Online at <ref
+              target="https://doi.org/10.13110/narrcult.7.2.0198" type="external"
+              >https://doi.org/10.13110/narrcult.7.2.0198</ref>.</bibl>
+          <bibl>Gillespie, Alexandra. “Balliol MS 354: Histories of the Book at the End of the
+            Middle Ages.” <hi rend="italic">Poetica</hi> 60 (2003), 47–63.</bibl>
+          <bibl>Goedeke, Karl. “<hi rend="italic">Liber de septem sapientibus</hi>.” <hi
+              rend="italic">Orient und Occident</hi> 3 (1866): 385–423. Online at <ref
+              target="https://archive.org/details/benfey-v-3-1866/page/384/mode/2up" type="external"
+              >https://archive.org/details/benfey-v-3-1866/page/384/mode/2up</ref>.</bibl>
+          <bibl>Hanna, Ralph. <hi rend="italic">London Literature, 1300–1380</hi>. Cambridge Studies
+            in Medieval Literature 57. Cambridge: Cambridge University Press, 2005.</bibl>
+          <bibl>Hanna, Ralph. <hi rend="italic">Introducing English Medieval Book History:
+              Manuscripts, their Producers and their Readers</hi>. Exeter Medieval Texts and
+            Studies. Liverpool: Liverpool University Press, 2013.</bibl>
+          <bibl>Hanna, Ralph. “Cambridge University Library, MS Dd.1.17: Some Historical Notes,” <hi
+              rend="italic">Transactions of the Cambridge Bibliographical Society</hi> 16, no. 2
+            (2017), 141–60. Online at <ref target="https://www.jstor.org/stable/26626364"
+              type="external">https://www.jstor.org/stable/26626364</ref>.</bibl>
+          <bibl>Harper, Elizabeth. “Teaching the Potiphar’s Wife Motif in Marie de France’s <hi
+              rend="italic">Lanval</hi>.” In <hi rend="italic">Teaching Rape in the Medieval
+              Literature Classroom: Approaches to Difficult Texts</hi>. Ed. Alison Gulley. Teaching
+            the Middle Ages. Amsterdam: Arc Humanities Press, 2018. Pp. 128–37. Online at <ref
+              target="http://hdl.handle.net/10898/5139" type="external"
+              >http://hdl.handle.net/10898/5139</ref>.</bibl>
+          <bibl>Hazell, Dinah. “‘Trewe Man’ or ‘Wicke Traitour’? The Steward in Late Middle English
+            Literature.” <hi rend="italic">Medieval Forum</hi> 6 (2007). Online at <ref
+              target="https://web.archive.org/web/20230323201554/https://www.sfsu.edu/~medieval/Volume6/steward.html"
+              type="external"
+              >https://web.archive.org/web/20230323201554/https://www.sfsu.edu/~medieval/Volume6/steward.html</ref>.</bibl>
+          <bibl>Hilka, Alfons. “Zum <hi rend="italic">Roman des Sept Sages</hi> ed. Keller, v. 2169
+            ff.” <hi rend="italic">Archiv für das Studium der neueren Sprachen und Literaturen</hi>
+            129 (1912), 450–52. Online at <ref
+              target="https://babel.hathitrust.org/cgi/pt?id=uc1.b3642667&amp;seq=484"
+              type="external"
+            >https://babel.hathitrust.org/cgi/pt?id=uc1.b3642667&amp;seq=484</ref>.</bibl>
+          <bibl>Hilka, Alfons. “Die Wanderung der Erzählung von der Inclusa aus dem Volksbuch der
+            Sieben weisen Meister.” <hi rend="italic">Mitteilungen der Schlesischen Gesellschaft für
+              Volkskunde</hi> 19 (1917), 29–72. Online at <ref
+              target="https://sbc.org.pl/de/dlibra/publication/316752/edition/299381/mitteilungen-der-schlesischen-gesellschaft-fur-volkskunde-bd-19-1917"
+              type="external"
+              >https://sbc.org.pl/de/dlibra/publication/316752/edition/299381/mitteilungen-der-schlesischen-gesellschaft-fur-volkskunde-bd-19-1917</ref>.</bibl>
+          <bibl>Ho, Cynthia. “Framed Progeny: The Medieval Descendants of Shaharizad.” <hi
+              rend="italic">Medieval Perspectives</hi> 7 (1992), 91–107.</bibl>
+          <bibl>Horobin, Simon, and Jeremy Smith. <hi rend="italic">An Introduction to Middle
+              English</hi>. Edinburgh Textbooks on the English Language. Edinburgh: Edinburgh
+            University Press, 2002.</bibl>
+          <bibl>Jackson, Kate. “Chaucer’s <hi rend="italic">Melibee</hi>: What Can we Learn from
+            Some Late-Medieval Manuscripts?” <hi rend="italic">Leeds Studies in English</hi>, new
+            series, 43 (2012), 93–115. Online at <ref
+              target="http://digital.library.leeds.ac.uk/id/eprint/12207" type="external"
+              >http://digital.library.leeds.ac.uk/id/eprint/12207</ref>.</bibl>
+          <bibl>Jaunzems, John. “Structure and Meaning in the <hi rend="italic">Seven Sages of
+              Rome</hi>.” In Niedzielski, Runte, and Hendrickson, <hi rend="italic">Studies on the
+              Seven Sages and Other Essays in Medieval Literature</hi>. Pp. 43–62.</bibl>
+          <bibl>Jeay, Madeleine. “La mise en scène du narrateur dans le prologue du <hi
+              rend="italic">Roman des sept sages de Rome</hi> (Paris, BnF, MS fr. 1553).” In Uhlig
+            and Foehr-Janssens, <hi rend="italic">D’Orient en Occident</hi>. Pp. 147–64.</bibl>
+          <bibl>Johnston, Michael. “Two Leicestershire Romance Codices: Cambridge, University
+            Library MS Ff.2.38 and Oxford, Bodleian Library MS Ashmole 61.” <hi rend="italic"
+              >Journal of the Early Book Society</hi> 15 (2012), 85–100. Online at <ref
+              target="https://link.gale.com/apps/doc/A321462292/AONE?u=nysl_ro_acsl&amp;sid=googleScholar&amp;xid=8a45513f"
+              type="external"
+              >https://link.gale.com/apps/doc/A321462292/AONE?u=nysl_ro_acsl&amp;sid=googleScholar&amp;xid=8a45513f</ref>.</bibl>
+          <bibl>Johnston, Michael. <hi rend="italic">Romance and the Gentry in Late Medieval
+              England</hi>. Oxford: Oxford University Press, 2014.</bibl>
+          <bibl>Johnston, Michael. “Copying and Reading <hi rend="italic">The Prick of
+              Conscience</hi> in Late Medieval England.” <hi rend="italic">Speculum</hi> 95, no. 3
+            (2020), 742–801. Online at <ref target="https://doi.org/10.1086/709360" type="external"
+              >https://doi.org/10.1086/709360</ref>.</bibl>
+          <bibl>Kalmanofsky, Amy. <hi rend="italic">The Power of Equivocation: Complex Readers and
+              Readings of the Hebrew Bible</hi>. Minneapolis, MN: Fortress Press, 2022.</bibl>
+          <bibl>Kane, George. <hi rend="italic">Middle English Literature: A Critical Study of the
+              Romances, the Religious Lyrics, Piers Plowman</hi>. London: Methuen, 1951.</bibl>
+          <bibl>Krappe, Alexander Haggerty. “Note sur un épisode de l’<hi rend="italic">Historia
+              Britonum</hi> de Nennius.” <hi rend="italic">Revue celtique</hi> 41 (1924), 181–88.
+            Online at <ref
+              target="https://archive.org/details/revueceltique41pari/page/180/mode/2up"
+              type="external"
+              >https://archive.org/details/revueceltique41pari/page/180/mode/2up</ref>.</bibl>
+          <bibl>Krappe, Alexander Haggerty. “Studies on the <hi rend="italic">Seven Sages of
+              Rome</hi> [1].” <hi rend="italic">Archivum Romanicum</hi> 8, no. 2 (1924), 386–407.
+            Online at <ref
+              target="https://www.google.com/books/edition/Archivum_Romanicum/pmXi9fgX4XkC?hl=en&amp;gbpv=1"
+              type="external"
+              >https://www.google.com/books/edition/Archivum_Romanicum/pmXi9fgX4XkC?hl=en&amp;gbpv=1</ref>.</bibl>
+          <bibl>Krappe, Alexander Haggerty. “Studies on the <hi rend="italic">Seven Sages of
+              Rome</hi> [2].” <hi rend="italic">Archivum Romanicum</hi> 9, no. 4 (1925), 345–65.
+            Online at <ref target="https://archive.org/details/archivumromanicum9/page/344/mode/2up"
+              type="external"
+            >https://archive.org/details/archivumromanicum9/page/344/mode/2up</ref>.</bibl>
+          <bibl>Krappe, Alexander Haggerty. “Studies on the <hi rend="italic">Seven Sages of
+              Rome</hi> [3].” <hi rend="italic">Archivum Romanicum</hi> 11, no. 2 (1927), 163–76.
+            Online at <ref target="https://hdl.handle.net/2027/iau.31858042653364" type="external"
+              >https://hdl.handle.net/2027/iau.31858042653364</ref>.</bibl>
+          <bibl>Krappe, Alexander Haggerty. “Studies on the <hi rend="italic">Seven Sages of
+              Rome</hi> [4].” <hi rend="italic">Archivum Romanicum</hi> 16, no. 2 (1932),
+            271–82.</bibl>
+          <bibl>Krappe, Alexander Haggerty. “Studies on the <hi rend="italic">Seven Sages of
+              Rome</hi> [5].” <hi rend="italic">Archivum Romanicum</hi> 19, no. 1 (1935),
+            213–26.</bibl>
+          <bibl>Krönung, Bettina. “Fighting with Tales 1: The Arabic <hi rend="italic">Book of
+              Sindbad the Philosopher</hi>.” In <hi rend="italic">Fictional Storytelling in the
+              Medieval Eastern Mediterranean and Beyond</hi>. Ed. Carolina Cupane and Bettina
+            Krönung. Brill’s Companions to the Byzantine World 1. Leiden: Brill, 2016. Pp.
+            365–79.</bibl>
+          <bibl>Kuefler, Mathew. “Homoeroticism in Antiquity and the Middle Ages: Acts, Identities,
+            Cultures.” <hi rend="italic">American Historical Review</hi> 123, no. 4 (2018),
+            1246–1266. Online at <ref target="https://www.jstor.org/stable/26581375" type="external"
+              >https://www.jstor.org/stable/26581375</ref>.</bibl>
+          <bibl>Kunkel, Nico. “Misogyny, Wisdom, and Legal Practice: On Narrative Flexibility across
+            Different Versions of the <hi rend="italic">Seven Sages of Rome</hi>.” <hi rend="italic"
+              >Narrative Culture</hi> 7, no. 2 (2020), 181–97. Online at <ref
+              target="https://doi.org/10.13110/narrcult.7.2.0181" type="external"
+              >https://doi.org/10.13110/narrcult.7.2.0181</ref>.</bibl>
+          <bibl>Laing, Margaret. “Confusion <hi rend="italic">Wrs</hi> Confounded: Litteral
+            Substitution Sets in Early Middle English Writing Systems.” <hi rend="italic"
+              >Neuphilologische Mitteilungen</hi> 100, no. 3 (1999), 251–70. Online at <ref
+              target="https://www.jstor.org/stable/43346203" type="external"
+              >https://www.jstor.org/stable/43346203</ref>.</bibl>
+          <bibl>Leff, Gordon. “The <hi rend="italic">Trivium</hi> and the Three Philosophies.” In
+              <hi rend="italic">A History of the University in Europe, Vol 1: Universities in the
+              Middle Ages</hi>. Ed. Hilde de Ridder-Symoens. Cambridge: Cambridge University Press,
+            1991. Pp. 307–36.</bibl>
+          <bibl>Lewis, Robert E., and Angus McIntosh. <hi rend="italic">A Descriptive Guide to the
+              Manuscripts of the Prick of Conscience</hi>. Medium Aevum monographs, new series 12.
+            Oxford: Society for the Study of Mediaeval Languages and Literature, 1982.</bibl>
+          <bibl>Lindenbaum, Sheila. “London Texts and Literate Practice.” In <hi rend="italic">The
+              Cambridge History of Medieval English Literature</hi>. Ed. David Wallace. New
+            Cambridge History of English Literature. Cambridge: Cambridge University Press, 1999.
+            Pp. 284–309.</bibl>
+          <bibl>Lumiansky, R. M. “Thematic Antifeminism in the Middle English <hi rend="italic"
+              >Seven Sages of Rome</hi>.” <hi rend="italic">Tulane Studies in English</hi> 7 (1957),
+            5–16.</bibl>
+          <bibl>Lundt, Bea. “<hi rend="italic">The Seven Wise Masters</hi> as a Resource for
+            Studying Historical Diversity: Comparing Latin and Early German Versions with Texts from
+            the Eastern Tradition from a Postcolonial Studies Perspective.” <hi rend="italic"
+              >Narrative Culture</hi> 7, no. 2 (2020), 124–44. Online at <ref
+              target="https://doi.org/10.13110/narrcult.7.2.0124" type="external"
+              >https://doi.org/10.13110/narrcult.7.2.0124</ref>.</bibl>
+          <bibl>Mallette, Karla. “Reading Backward: The <hi rend="italic">1001 Nights</hi> and
+            Philological Practice.” In <hi rend="italic">A Sea of Languages: Rethinking the Arabic
+              Role in Medieval Literary History</hi>. Ed. Suzanne Conklin Akbari and Karla Mallette.
+            Toronto: University of Toronto Press, 2013. Pp. 100–16.</bibl>
+          <bibl>Mallette, Karla. “The <hi rend="italic">Seven Sages of Rome</hi>: Narration and
+            Silence.” In Uhlig and Foehr-Janssens, <hi rend="italic">D’Orient en Occident</hi>. Pp.
+            129–46.</bibl>
+          <bibl>Mann, Jill. “‘He Knew Nat Catoun:’ Medieval School-Texts and Middle English
+            Literature.” In <hi rend="italic">The Text in the Community: Essays on Medieval Works,
+              Manuscripts, Authors, and Readers</hi>. Ed. Jill Mann and Maura Nolan. Notre Dame, IN:
+            University of Notre Dame Press, 2006. Pp. 41–74.</bibl>
+          <bibl>Martin, Richard P. “The Seven Sages as Performers of Wisdom.” In <hi rend="italic"
+              >Cultural Poetics in Archaic Greece: Cult, Performance, Politics</hi>. Ed. Carol
+            Dougherty and Leslie Kurke. Cambridge: Cambridge University Press, 1993. Pp. 108–28.
+            Online at <ref
+              target="https://archive.org/details/culturalpoeticsi0000unse/page/n7/mode/2up"
+              type="external"
+              >https://archive.org/details/culturalpoeticsi0000unse/page/n7/mode/2up</ref>.</bibl>
+          <bibl>Matsubara, Hidéichi. “Chinese and Japanese Versions of <hi rend="italic">Gaza</hi>.”
+            In Niedzielski, Runte, and Hendrickson, <hi rend="italic">Studies on the Seven Sages and
+              Other Essays in Medieval Literature</hi>. Pp. 104–07.</bibl>
+          <bibl>Matsubara, Hidéichi. “Une version japonaise de Gaza.” In <hi rend="italic">Mélanges
+              de langue et littérature françaises du Moyen Age offerts à Pierre Jonin</hi>.
+            Senefiance 7. Provence: Presses universitaires de Provence, 1979. Pp. 427–35. Online at
+              <ref target="https://books.openedition.org/pup/3729" type="external"
+              >https://books.openedition.org/pup/3729</ref>.</bibl>
+          <bibl>McIntosh, Angus, M. L. Samuels, and Michael Benskin. <hi rend="italic">A Linguistic
+              Atlas of Mediaeval English (LALME)</hi>. 4 vols. Aberdeen: Aberdeen University Press,
+            1986. Rev. ed. Michael Benskin, Margaret Laing, Vasilis Karaiskos, and Keith Williamson.
+              <hi rend="italic">An Electronic Version of A Linguistic Atlas of Late Mediaeval
+              English (eLALME)</hi>. University of Edinburgh, 2013. Online at <ref
+              target="http://www.lel.ed.ac.uk/ihd/elalme/elalme.html" type="external"
+              >http://www.lel.ed.ac.uk/ihd/elalme/elalme.html</ref>.</bibl>
+          <bibl>McSparran, Frances, et al., eds. <hi rend="italic">Middle English Dictionary</hi>.
+            University of Michigan Press, 2001–. Online at <ref
+              target="http://quod.lib.umich.edu/m/med/" type="external"
+              >http://quod.lib.umich.edu/m/med/</ref>.</bibl>
+          <bibl>Meale, Carol M. “Deluxe Copies of Middle English Romance: Scribes and Book Artists.”
+            In <hi rend="italic">The Transmission of Medieval Romance: Metres, Manuscripts and Early
+              Prints</hi>. Ed. Ad Putter and Judith A. Jefferson. Studies in Medieval Romance 21.
+            Cambridge: D. S. Brewer, 2018. Pp. 91–115.</bibl>
+          <bibl>Mullally, Evelyn, and Thompson, John, eds. <hi rend="italic">The Court and Cultural
+              Diversity: Selected Papers from the Eighth Triennial Congress of the International
+              Courtly Literature Society</hi>. Cambridge: D. S. Brewer, 1997.</bibl>
+          <bibl>Nicolas, Catherine. “Fabrique du personnage et fabrique du roman: Hippocrate dans
+              <hi rend="italic">l’Estoire del Saint Graal</hi>.” In <hi rend="italic">Façonner son
+              personnage au Moyen Age</hi>. Ed. Chantal Connochie-Bourgne. Senefiance 53.
+            Aix-en-Provence: Presses universitaires de Provence, 2007. Pp. 255–71. Online at <ref
+              target="https://books.openedition.org/pup/2291" type="external"
+              >https://books.openedition.org/pup/2291</ref>.</bibl>
+          <bibl>Niedzielski, H., H. R. Runte, and W. L. Hendrickson, eds. <hi rend="italic">Studies
+              on the Seven Sages of Rome and Other Essays in Medieval Literature Dedicated to the
+              Memory of Jean Misrahi</hi>. Honolulu, HI: Educational Research Associates,
+            1978.</bibl>
+          <bibl>Olson, Linda. “Romancing the Book: Manuscripts for ‘Euerich Inglische.’” In Kathryn
+            Kerby-Fulton, Maidie Hilmo, and Linda Olson, <hi rend="italic">Opening Up Middle English
+              Manuscripts: Literary and Visual Approaches</hi>. Ithaca, NY: Cornell University
+            Press, 2012. Pp. 95–151.</bibl>
+          <bibl>Orme, Nicholas. <hi rend="italic">Medieval Children</hi>. New Haven: Yale University
+            Press, 2001. Online at <ref
+              target="https://archive.org/details/medievalchildren00orme/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/medievalchildren00orme/page/n5/mode/2up</ref>.</bibl>
+          <bibl>Orme, Nicholas. <hi rend="italic">Medieval Schools from Roman Britain to Renaissance
+              England</hi>. New Haven: Yale University Press, 2006. Online at <ref
+              target="https://archive.org/details/medievalschoolsf0000orme/page/n7/mode/2up"
+              type="external"
+              >https://archive.org/details/medievalschoolsf0000orme/page/n7/mode/2up</ref>.</bibl>
+          <bibl><hi rend="italic">The Oxford English Dictionary</hi>. 3rd ed. Oxford: Oxford
+            University Press, 2022. Online at <ref target="http://www.oed.com" type="external"
+              >http://www.oed.com</ref>.</bibl>
+          <bibl>Paris, Gaston. “Le récit <hi rend="italic">Roma</hi> dans les <hi rend="italic">Sept
+              sages</hi>.” <hi rend="italic">Romania</hi> 4, no. 13 (1875), 125–29. Online at <ref
+              target="https://www.persee.fr/doc/roma_0035-8029_1875_num_4_13_6716" type="external"
+              >https://www.persee.fr/doc/roma_0035-8029_1875_num_4_13_6716</ref>.</bibl>
+          <bibl>Paris, Gaston. “Le conte du trésor du roi Rhampsinite: Étude de mythographie
+            comparée.” <hi rend="italic">Revue de l’histoire des religions</hi> 55 (1907), 151–87
+            and 267–316. Online at <ref target="https://www.jstor.org/stable/23662072"
+              type="external">https://www.jstor.org/stable/23662072</ref> and <ref
+              target="https://www.jstor.org/stable/23662092" type="external"
+              >https://www.jstor.org/stable/23662092</ref>.</bibl>
+          <bibl>Parker, David R. <hi rend="italic">The Commonplace Book in Tudor London: An
+              Examination of BL MSS Egerton 1995, Harley 2252, Lansdowne 762, and Oxford Balliol
+              College MS 354</hi>. Lanham, MD: University Press of America, 1998.</bibl>
+          <bibl>Parkes, M. B. <hi rend="italic">English Cursive Book Hands, 1250-1500</hi>. Oxford
+            Palaeographical Handbooks. Berkeley: University of California Press, 1969.</bibl>
+          <bibl>Paton, Lucy Allen. “The Story of Vortigern’s Tower: An Analysis.” In <hi
+              rend="italic">Studies in English and Comparative Literature By Former and Present
+              Students at Radcliffe College, Presented to Agnes Irwin</hi>. Radcliffe College
+            Monographs 15. Boston: Ginn, 1910. Pp. 13–23. Online at <ref
+              target="https://archive.org/details/cu31924013346766/page/n28/mode/2up"
+              type="external"
+            >https://archive.org/details/cu31924013346766/page/n28/mode/2up</ref>.</bibl>
+          <bibl>Pearsall, Derek. “The Auchinleck Manuscript Forty Years On.” In Fein, <hi
+              rend="italic">The Auchinleck Manuscript</hi>. Pp. 11–25.</bibl>
+          <bibl>Perry, B. E. “The Origin of the Book of Sindbad.” <hi rend="italic">Fabula</hi> 3,
+            no. 1–2 (1960), 1–94.</bibl>
+          <bibl>Pifarré, Alexandra-Flora. “Le personnage de Virgile dans <hi rend="italic">Le Roman
+              de Dolopathos</hi>: Le philosophe élu de Dieu.” <hi rend="italic">Bien dire et bien
+              aprandre</hi> 24 (2006), 111–19. Online at <ref
+              target="https://www.peren-revues.fr/bien-dire-et-bien-aprandre/index.php?id=966"
+              type="external"
+              >https://www.peren-revues.fr/bien-dire-et-bien-aprandre/index.php?id=966</ref>.</bibl>
+          <bibl>Radulescu, Raluca. “Macrocosm and Microcosm in Household Manuscript Cambridge,
+            University Library MS Ff.2.38.” In <hi rend="italic">Household Knowledges in
+              Late-Medieval England and France</hi>. Ed. Glenn D. Burger and Rory G. Critten.
+            Manchester Medieval Literature and Culture 28. Manchester: Manchester University Press,
+            2020. Pp. 201–18.</bibl>
+          <bibl>Rajabzadeh, Shokoofeh. “The Depoliticized Saracen and Muslim Erasure.” <hi
+              rend="italic">Literature Compass</hi> 16, no. 9–10 (September–October 2019), 1–8.
+            Online at <ref target="https://doi.org/10.1111/lic3.12548" type="external"
+              >https://doi.org/10.1111/lic3.12548</ref>.</bibl>
+          <bibl>Reichl, Karl. “Orality and Performance.” In <hi rend="italic">A Companion to
+              Medieval Popular Romance</hi>. Ed. Raluca L. Radulescu and Cory James Rushton. Studies
+            in Medieval Romance 10. Cambridge: D. S. Brewer, 2009. Pp. 132–49. Online at <ref
+              target="https://www.publishersrow.com/dBookReader/default.asp?bvid=15581"
+              type="external"
+            >https://www.publishersrow.com/dBookReader/default.asp?bvid=15581</ref>.</bibl>
+          <bibl>Reynders, Anne. “How Lonely are Women in <hi rend="italic">Van den VII Vroeden van
+              binnen Rome</hi>? An Analysis of the Resources and Networks of the Female (and Male)
+            Characters in a Middle Dutch Version of the <hi rend="italic">Seven Sages of Rome</hi>.”
+              <hi rend="italic">Narrative Culture</hi> 7, no. 2 (Fall 2020), 216–26. Online at <ref
+              target="https://doi.org/10.13110/narrcult.7.2.0216" type="external"
+              >https://doi.org/10.13110/narrcult.7.2.0216</ref>.</bibl>
+          <bibl>Reynders, Anne, and Remco Sleiderink, eds. “Shades of Misogyny: Medieval Versions of
+            the Seven Sages Tradition from a Gender Perspective.” Special Issue, <hi rend="italic"
+              >Narrative Culture</hi> 7, no. 2 (Fall 2020), 118–22. Online at <ref
+              target="https://doi.org/10.13110/narrcult.7.2.0119" type="external"
+              >https://doi.org/10.13110/narrcult.7.2.0119</ref>.</bibl>
+          <bibl>Robbins, Mary. “Medieval Astrology and <hi rend="italic">The Buke of the Sevyne
+              Sagis</hi>.” <hi rend="italic">Forum for Modern Language Studies</hi> 38, no. 4
+            (October 2002), 420–34. Online at <ref target="https://doi.org/10.1093/fmls/38.4.420"
+              type="external">https://doi.org/10.1093/fmls/38.4.420</ref>.</bibl>
+          <bibl>Runde, Emily. “Reexamining Orthographic Practice in the Auchinleck Manuscript
+            Through Study of Complete Scribal Corpora.” In <hi rend="italic">Studies in the History
+              of the English Language V: Variation and Change in English Grammar and Lexicon:
+              Contemporary Approaches</hi>. Ed. Robert A. Cloutier, Anne Marie Hamilton-Brehm, and
+            William A. Kretzschmar, Jr. Topics in English Linguistics 68. Berlin: De Gruyter Mouton,
+            2010. Pp. 265–92. Online at <ref target="https://doi.org/10.1515/9783110220339"
+              type="external">https://doi.org/10.1515/9783110220339</ref>.</bibl>
+          <bibl>Runde, Emily, “Scribe 3’s Literary Project: Pedagogies of Reading in Auchinleck’s
+            Booklet 3.” In Fein, <hi rend="italic">The Auchinleck Manuscript</hi>. Pp. 67–87.</bibl>
+          <bibl>Runte, Hans R. “The Scribe and Miniaturist as Reader.” In <hi rend="italic">Essays
+              in Early French Literature Presented to Barbara M. Craig</hi>. Ed. Norris J. Lacy and
+            Jerry C. Nash. York, SC: French Literature Publications Company, 1982. Pp. 53–64. Online
+            at <ref target="https://archive.org/details/essayinearlyfren0000unse/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/essayinearlyfren0000unse/page/n5/mode/2up</ref>.</bibl>
+          <bibl>Runte, Hans R., J. Keith Wikeley, and Anthony J. Farrell. <hi rend="italic">The
+              Seven Sages of Rome and the Book of Sindbad: An Analytical Bibliography</hi>. Garland
+            Reference Library of the Humanities 387. New York: Garland, 1984. Online at <ref
+              target="https://archive.org/details/sevensagesofrome0000runt/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/sevensagesofrome0000runt/page/n5/mode/2up</ref>.</bibl>
+          <bibl>Runte, Hans R. “From the Vernacular to Latin and Back: The Case of <hi rend="italic"
+              >The Seven Sages of Rome</hi>.” In <hi rend="italic">Medieval Translators and their
+              Craft</hi>. Ed. Jeanette Beer. Studies in Medieval Culture 25. Kalamazoo, MI: Medieval
+            Institute Publications, 1989. Pp. 93–133. Online at <ref
+              target="https://archive.org/details/medievaltranslat0000unse/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/medievaltranslat0000unse/page/n5/mode/2up</ref>.</bibl>
+          <bibl>Samuels, M. L. “Some Applications of Middle English Dialectology.” <hi rend="italic"
+              >English Studies</hi> 44, no. 1–6 (1963), 81–94. Online at <ref
+              target="https://doi.org/10.1080/00138386308597155" type="external"
+              >https://doi.org/10.1080/00138386308597155</ref>.</bibl>
+          <bibl>Shonk, Timothy A. “A Study of the Auchinleck Manuscript: Bookmen and Bookmaking in
+            the Early Fourteenth Century.” <hi rend="italic">Speculum</hi> 60, no. 1 (January 1985),
+            71–91. Online at <ref target="https://doi.org/10.2307/2852134" type="external"
+              >https://doi.org/10.2307/2852134</ref>.</bibl>
+          <bibl><hi rend="italic">A Short-Title Catalogue of Books Printed in England, Scotland and
+              Ireland, and of English Books Printed Abroad 1475–1640</hi>. Ed. W. A. Jackson, F. S.
+            Ferguson, and Katharine F. Pantzer. 2nd ed. 3 vols. London: The Bibliographical Society,
+            1976–1991. Online at <ref
+              target="https://archive.org/details/shorttitlecatalo0001poll/page/n3/mode/2up"
+              type="external"
+              >https://archive.org/details/shorttitlecatalo0001poll/page/n3/mode/2up</ref> and <ref
+              target="https://archive.org/details/shorttitlecatalo0002wing/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/shorttitlecatalo0002wing/page/n5/mode/2up</ref> and <ref
+              target="https://archive.org/details/shorttitlecatalo0003wing_j2f8/page/n9/mode/2up"
+              type="external"
+              >https://archive.org/details/shorttitlecatalo0003wing_j2f8/page/n9/mode/2up</ref>.</bibl>
+          <bibl>Spargo, John Webster. <hi rend="italic">Virgil the Necromancer: Studies in Virgilian
+              Legends</hi>. Harvard Studies in Comparative Literature 10. Cambridge, MA: Harvard
+            University Press, 1934. Online at <ref
+              target="https://hdl.handle.net/2027/mdp.39015004198662" type="external"
+              >https://hdl.handle.net/2027/mdp.39015004198662</ref>.</bibl>
+          <bibl>Speer, Mary B. “Recycling the Seven Sages of Rome.” <hi rend="italic">Zeitschrift
+              für romanische Philologie</hi> 99 (1983), 288–303.</bibl>
+          <bibl>Speer, Mary B. “The Prince’s Baptism in the <hi rend="italic">Roman des sept
+              sages</hi>: Formal and Doctrinal Intertexts.” <hi rend="italic">Medievalia et
+              humanistica</hi> 14 (1986), 59–80.</bibl>
+          <bibl>Speer, Mary B. “Specularity in a Formulaic Frame Romance: ‘The Faithful Greyhound’
+            and the <hi rend="italic">Roman des sept sages</hi>.” In <hi rend="italic">Literary
+              Aspects of Courtly Culture: Selected Papers from the Seventh Triennial Congress of the
+              International Courtly Literature Society</hi>. Ed. Donald Maddox and Sara
+            Sturm-Maddox. Cambridge: D. S. Brewer, 1994. Pp. 231–40. Online at <ref
+              target="https://archive.org/details/literaryaspectso0000inte/page/n5/mode/2up"
+              type="external"
+              >https://archive.org/details/literaryaspectso0000inte/page/n5/mode/2up</ref>.</bibl>
+          <bibl>Speer, Mary B. “<hi rend="italic">Translatio</hi> as <hi rend="italic"
+            >Inventio</hi>: Gaston Paris and the ‘Treasure of Rhampsinitus’ (<hi rend="italic"
+              >Gaza</hi>) in the <hi rend="italic">Dolopathos</hi> Romance.” In <hi rend="italic"
+              >Transtextualities: Of Cycles and Cyclicity in Medieval French Literature</hi>. Ed.
+            Sara Sturm-Maddox and Donald Maddox. Medieval and Renaissance Texts and Studies 149.
+            Binghamton, NY: Center for Medieval and Early Renaissance Studies, 1996. Pp.
+            125–55.</bibl>
+          <bibl>Speer, Mary B. “The Prodigal Knight, the Hungry Mother, and the Triple Murder:
+            Mirrors and Marvels in the <hi rend="italic">Dolopathos</hi> Dog Story.” In Mullally and
+            Thompson, <hi rend="italic">The Court and Cultural Diversity</hi>. Pp. 375–83.</bibl>
+          <bibl>Speer, Mary B. “What Ails the Sodomite King of Egypt? ‘Senescalcus’ in the <hi
+              rend="italic">K Sept sages de Rome</hi>.” In Uhlig and Foehr-Janssens, <hi
+              rend="italic">D’Orient en Occident</hi>. Pp. 193–207.</bibl>
+          <bibl>Steel, Karl. “Ridiculous Mourning: Dead Pets and Lost Humans.” <hi rend="italic"
+              >Studies in the Age of Chaucer</hi> 34 (2012), 345–49. Online at <ref
+              target="https://doi.org/10.1353/sac.2012.0016" type="external"
+              >https://doi.org/10.1353/sac.2012.0016</ref>.</bibl>
+          <bibl>Steel, Karl. <hi rend="italic">How Not to Make a Human: Pets, Feral Children, Worms,
+              Sky Burial, Oysters</hi>. Minneapolis: University of Minnesota Press, 2019. Online at
+              <ref target="https://muse.jhu.edu/book/24262" type="external"
+              >https://muse.jhu.edu/book/24262</ref>.</bibl>
+          <bibl>Thompson, John J. “Texts and the City: William Caxton, Richard Hill, and
+            Metropolitan <hi rend="italic">Conjury</hi>.” <hi rend="italic">Chaucer Review</hi> 58,
+            no. 3–4 (2023), 523–34. Online at <ref
+              target="https://muse.jhu.edu/pub/2/article/902686" type="external"
+              >https://muse.jhu.edu/pub/2/article/902686</ref>.</bibl>
+          <bibl>Turville-Petre, Thorlac. <hi rend="italic">England the Nation: Language, Literature,
+              and National Identity 1290–1340</hi>. Oxford: Clarendon, 1996.</bibl>
+          <bibl>Uhlig, Marion, and Yasmina Foehr-Janssens, eds. <hi rend="italic">D’Orient en
+              Occident: Les recueils de fables enchâssées avant les Milles et une Nuits de Galland
+              (Barlaam et Josaphat, Calila et Dimna, Disciplina clericalis, Roman des sept
+              sages)</hi>. Cultural Encounters in Late Antiquity and the Middle Ages 16. Turnhout:
+            Brepols, 2014.</bibl>
+          <bibl>Upadhyaya, Hari S. “Indic Background of <hi rend="italic">The Book of
+            Sindibad</hi>.” <hi rend="italic">Asian Folklore Studies</hi> 27, no. 1 (1968), 101–29.
+            Online at <ref target="https://doi.org/10.2307/1177802" type="external"
+              >https://doi.org/10.2307/1177802</ref>.</bibl>
+          <bibl>Ure, Peter. “The Widow of Ephesus: Some Reflections on an International Comic
+            Theme.” <hi rend="italic">Durham University Journal</hi> 49, no. 1 (December 1956), 1–9.
+            Online at <ref
+              target="https://reed.dur.ac.uk/xtf/view?docId=bookreader/DU_Journals/DUJ49/duj49METSfile.xml#page/8/mode/2up"
+              type="external"
+              >https://reed.dur.ac.uk/xtf/view?docId=bookreader/DU_Journals/DUJ49/duj49METSfile.xml#page/8/mode/2up</ref>.</bibl>
+          <bibl>Vines, Amy N. “The Many Wives of Potiphar: Rape Culture in Medieval Romance.” In <hi
+              rend="italic">Rape Culture and Female Resistance in Late Medieval Literature</hi>. Ed.
+            Sarah Baechle, Carissa M. Harris, and Elizaveta Strakhov. University Park: Pennsylvania
+            State University Press, 2022. Pp. 97–113.</bibl>
+          <bibl>Wagner, David L., ed. <hi rend="italic">The Seven Liberal Arts in the Middle
+              Ages</hi>. A Midland Book 397. Bloomington: Indiana University Press, 1983. Online at
+              <ref
+              target="https://archive.org/details/sevenliberalarts0000unse_b3x5/page/n7/mode/2up"
+              type="external"
+              >https://archive.org/details/sevenliberalarts0000unse_b3x5/page/n7/mode/2up</ref>.</bibl>
+          <bibl>Watt, Diane. <hi rend="italic">God’s Own Gentlewoman: The Life of Margaret
+              Paston</hi>. London: Icon Books, 2024.</bibl>
+          <bibl>Wheatley, Edward. “The Manciple’s Tale.” In <hi rend="italic">Sources and Analogues
+              of The Canterbury Tales</hi>. Ed. Robert M. Correale and Mary Hamel. Vol. 2. Chaucer
+            Studies 35. Cambridge: D. S. Brewer, 2005. Pp. 749–73.</bibl>
+          <bibl>Whiting, Bartlett Jere, with the collaboration of Helen Wescott Whiting. <hi
+              rend="italic">Proverbs, Sentences, and Proverbial Phrases from English Writings Mainly
+              before 1500</hi>. Cambridge, MA: Harvard University Press, 1968.</bibl>
+          <bibl>Wiggins, Alison. “Guy of Warwick in Warwick?: Reconsidering the Dialect Evidence.”
+              <hi rend="italic">English Studies</hi> 84, no. 3 (2003), 219–30. Online at <ref
+              target="https://doi.org/10.1076/enst.84.3.219.16856" type="external"
+              >https://doi.org/10.1076/enst.84.3.219.16856</ref>.</bibl>
+          <bibl>Wiggins, Alison. “Are Auchinleck Manuscript Scribes 1 and 6 the Same Scribe?: The
+            Advantages of Whole-Data Analysis and Electronic Texts.” <hi rend="italic">Medium
+              Aevum</hi> 73, no. 1 (2004), 10–26. Online at <ref
+              target="https://doi.org/10.2307/43630696" type="external"
+              >https://doi.org/10.2307/43630696</ref>.</bibl>
+          <bibl>Wiggins, Alison. “Imagining the Compiler: <hi rend="italic">Guy of Warwick</hi> and
+            the Compilation of the Auchinleck Manuscript.” In <hi rend="italic">Imagining the
+              Book</hi>. Ed. Stephen Kelly and John J. Thompson. Medieval Texts and Cultures of
+            Northern Europe 7. Turnhout: Brepols, 2005. Pp. 61–73.</bibl>
+          <bibl>Wiggins, Alison, and Rosalind Field, eds. <hi rend="italic">Guy of Warwick: Icon and
+              Ancestor</hi>. Studies in Medieval Romance 4. Cambridge: D. S. Brewer, 2007.</bibl>
+          <bibl>Williams, Graham. “‘Lo!’ Exclamative Punctuation in Middle English Manuscripts.” In
+              <hi rend="italic">Philology Reimagined: English in Transmission</hi>. Ed. Joanna
+            Kopaczyk-McPherson, Fraser Dallachy, Jesús Romero Baranco, and Sabina Nedelius.
+            Cambridge: Cambridge University Press, forthcoming.</bibl>
+          <bibl>Ziolkowski, Jan. “Vergil as Shahrazad: How an Eastern Frame Tale was Authorized in
+            the West.” In <hi rend="italic">Studies for Dante: Essays in Honor of Dante Della
+              Terza</hi>. Ed. Franco Fido, Rena A. Syska-Lamparska, and Pamela D. Stewart. Fiesole:
+            Edizione Cadmo, 1998. Pp. 25–36.</bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>

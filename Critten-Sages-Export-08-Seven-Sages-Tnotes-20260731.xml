@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Critten-Sages-Export-08-Seven-Sages-Tnotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Textual Notes</title>
+        <author>Critten, Rory G.</author>
+        <author>Wiggins, Alison</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Anderson, Nick</persName>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2026-06" to="2026-07">Ensured adherence to METS Style Guide</resp>
+          <resp from="2026-06" to="2026-07">Entered corrections for digital edition</resp>
+          <resp from="2026-06" to="2026-06">Entered corrections for print edition</resp>
+          <resp from="2026-06" to="2026-06">Formatted for print edition</resp>
+          <resp from="2026-06" to="2026-07">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2025-09" to="2025-10">Checked and corrected bibliographic references</resp>
+          <resp from="2025-05" to="2025-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-05" to="2025-10">Entered corrections for print edition</resp>
+          <resp from="2025-05" to="2025-07">Reviewed transcription of base manuscript or early print
+            witness</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp from="2024-09" to="2024-10">Copyedited and proofread</resp>
+          <resp from="2024-09" to="2024-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-09" to="2024-10">Reviewed edition for content and scholarship</resp>
+          <resp from="2024-09" to="2024-10">Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Norris, James</persName>
+          <resp from="2025-08" to="2025-10">Checked and corrected bibliographic references</resp>
+          <resp from="2026-07" to="2026-07">Collected metadata</resp>
+          <resp from="2025-06" to="2025-10">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-06" to="2025-10">Entered corrections for print edition</resp>
+          <resp from="2025-06" to="2025-07">Reviewed transcription of base manuscript or early print
+            witness</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Price, Eleanor</persName>
+          <resp from="2025-12" to="2026-01">Audited documents prior to print/export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2025-11" to="2026-07">Audited documents prior to print/export</resp>
+          <resp from="2025-10" to="2025-11">Checked and corrected bibliographic references</resp>
+          <resp from="2024-10" to="2026-08">Collated and entered corrections</resp>
+          <resp from="2026-05" to="2026-05">Collected metadata</resp>
+          <resp from="2024-10" to="2025-12">Copyedited and proofread</resp>
+          <resp from="2026-07" to="2026-07">Encoded TEI</resp>
+          <resp from="2024-10" to="2025-11">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-10" to="2025-12">Entered corrections for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for print edition</resp>
+          <resp from="2025-12" to="2025-12">Formatted for XML export</resp>
+          <resp from="2024-10" to="2025-11">Reviewed edition for consistency and audience</resp>
+          <resp from="2024-10" to="2024-12">Reviewed edition for content and scholarship</resp>
+          <resp from="2026-08" to="2026-08">Uploaded / Published digital edition</resp>
+          <resp from="2024-10" to="2025-11">Wrote reader report</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2026</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Texas</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Critten, Rory G.</editor>
+            <editor>Wiggins, Alison</editor>
+            <title>The Middle English Seven Sages of Rome</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>2026</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/critten-sages/blob/main/critten-sages-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 2026</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Critten-Sages-Export-08-Seven-Sages-Tnotes"/>
+      <div type="text">
+        <note type="tnote" n="1">Title<space rend="indent1"/><p>E includes a title for the text
+            written over three lines linked by a bracket: <hi rend="italic">This boke ys / callyd
+              the vij / sages of Rome</hi>. The title is written in the outer margin, has an initial
+            rubricated capital <hi rend="italic">T</hi>, and is enclosed within an inked frame drawn
+            with cross-hatching and rubricaton.</p></note>
+        <note type="tnote" n="2"><hi rend="bold">E</hi>1<space rend="indent1"/><hi rend="italic"
+            >Herkenythe</hi>. The initial <hi rend="italic">H</hi> is an enlarged capital in red
+          ink, six lines high. The scribe of <hi rend="bold">E</hi> indented the text of lines 1–6
+          to allow space for the enlarged letter to be inserted and included a guide letter
+          (although incorrectly used a <hi rend="italic">t</hi> rather than an <hi rend="italic"
+            >h</hi>).</note>
+        <note type="tnote" n="3"><hi rend="bold">E</hi>31<space rend="indent1"/><hi rend="italic"
+            >Bancillas</hi>. The initial <hi rend="italic">B</hi> is an enlarged capital in red ink,
+          two lines high. The scribe indented the text of lines 31–32 to allow space for the
+          enlarged letter to be inserted and included a guide letter <hi rend="italic">b</hi>.
+          Enlarged two-line rubricated initial capitals appear throughout the <hi rend="italic"
+            >Seven Sages</hi> in <hi rend="bold">E</hi>; in our text at E39, E51, E61, E73, E89,
+          E99, E2870, E3236, E3284, E3464, E3486, E3514, E3526, E3534, and E3548. In every case, the
+          scribe of <hi rend="bold">E</hi> has allowed space in the text and a guide letter. All of
+          the initials and rubrication are in the same style and ink and by a single hand, added as
+          a batch. These initials are well-proportioned and drawn with skill, although they do not
+          include additional decorative or artistic features, such as calligraphic extensions,
+          flourishes, or penwork.</note>
+        <note type="tnote" n="4"><hi rend="bold">E</hi>52<space rend="indent1"/><hi rend="italic"
+            >swanne</hi>. <hi rend="bold">E</hi>: <hi rend="italic">swannne</hi>.</note>
+        <note type="tnote" n="5"><hi rend="bold">E</hi>53<space rend="indent1"/><hi rend="italic"
+            >cryspe</hi>. The <hi rend="italic">s</hi> is altered from another letter.</note>
+        <note type="tnote" n="6"><hi rend="bold">E</hi>61<space rend="indent1"/><hi rend="italic"
+            >red man</hi>. <hi rend="bold">E</hi>: <hi rend="italic">redman</hi>.</note>
+        <note type="tnote" n="7"><hi rend="bold">E</hi>92<space rend="indent1"/><hi rend="italic"
+            >man</hi>. <hi rend="bold">E</hi>: <hi rend="italic">ma</hi>.</note>
+        <note type="tnote" n="8"><hi rend="bold">A</hi>120<space rend="indent1"/>This is where the
+          poem begins in the Auchinleck Manuscript, whose text of the Middle English <hi
+            rend="italic">Seven Sages</hi> is damaged.</note>
+        <note type="tnote" n="9">125<space rend="indent1"/><p><hi rend="italic">Ich</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Iich</hi>.</p></note>
+        <note type="tnote" n="10">127<space rend="indent1"/><p><hi rend="italic">Dioclician</hi>.
+            The initial <hi rend="italic">D</hi> is an enlarged capital in blue ink, with red-ink
+            decoration, two lines high. The scribe of <hi rend="bold">A</hi> indented the text at
+            lines 127–28 to allow space for this enlarged letter to be added subsequently. Further
+            penwork initials of this kind appears throughout the <hi rend="italic">Seven Sages</hi>
+            in <hi rend="bold">A</hi>, at lines 209, 255, 287, 341, 457, 511, 551, 623, 645, 675,
+            701, 787, 843, 933, 967, 1003, 1103, 1169, 1219, 1275, 1329, 1351, 1401, 1511, 1549,
+            1645, 1663, 1933, 1955, 2015, 2057, 2155, 2189, 2265, 2311, 2329, 2417, 2467, 2519,
+            2553, and 2741. The scribe of <hi rend="bold">A</hi> allowed indented spaces in the text
+            of two or three lines high (switching from 2- to 3-lines deep from folio. 98v onwards)
+            and included guide letters for the artist (as is visible beneath the decoration of the
+            initial at line 843). All of these penwork initials are by the same hand, added as a
+            single batch. The penwork is finely drawn by an accomplished artist using linear and
+            foliate designs (there are no zoomorphic or anthropomorphic elements and no gilding).
+            Blue ink is used for each letter, with red ink reserved for the decorative penwork
+            surrounds and infills. The penwork includes lines, loops, lobes, dots, spirals,
+            cross-hatch, quatrefoils, hooked and serifed finials, extended calligraphic tendrils,
+            and tapering hairline strokes reaching into the margins (up to 17 lines in each vertical
+            direction, above and below).</p></note>
+        <note type="tnote" n="11">132<space rend="indent1"/><p><hi rend="italic">gentil</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">genal</hi>.</p></note>
+        <note type="tnote" n="12">138<space rend="indent1"/><p><hi rend="italic">And</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">An</hi>.</p></note>
+        <note type="tnote" n="13">159<space rend="indent1"/><p><hi rend="italic">founden</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">fomden</hi>.</p></note>
+        <note type="tnote" n="14">171<space rend="indent1"/><p><hi rend="italic">metrike</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">mutike</hi>.</p></note>
+        <note type="tnote" n="15">181<space rend="indent1"/><p><hi rend="italic">yer</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">ȝe</hi>.</p></note>
+        <note type="tnote" n="16">199<space rend="indent1"/><p><hi rend="italic">wexen</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">weren</hi>.</p></note>
+        <note type="tnote" n="17">215<space rend="indent1"/><p><hi rend="italic">might</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">mit</hi>.</p></note>
+        <note type="tnote" n="18">220<space rend="indent1"/><p><hi rend="italic">the barons
+            had</hi>. Erasure between <hi rend="italic">the</hi> and <hi rend="italic">had</hi> in
+              <hi rend="bold">A</hi>, which may have been the word <hi rend="italic">þemperour</hi>
+            but is now illegible. Emended from <hi rend="bold">E</hi>: <hi rend="italic"
+            >barons</hi>. <hi rend="bold">B</hi>: <hi rend="italic">conselle</hi>.</p></note>
+        <note type="tnote" n="19">247<space rend="indent1"/><p><hi rend="italic">and</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">an</hi>.</p></note>
+        <note type="tnote" n="20">250<space rend="indent1"/><p><hi rend="italic">falsenesse to
+              torne</hi>. <hi rend="bold">A</hi>: <hi rend="italic">falsenesse
+          torne</hi>.</p></note>
+        <note type="tnote" n="21">261<space rend="indent1"/><p><hi rend="italic">sikerli</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">sikeli</hi>.</p></note>
+        <note type="tnote" n="22">266<space rend="indent1"/><p><hi rend="italic">fram me hedde</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">fram hedde</hi>.</p></note>
+        <note type="tnote" n="23">272<space rend="indent1"/><p><hi rend="italic">ending</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">eding</hi>.</p></note>
+        <note type="tnote" n="24">286<space rend="indent1"/><p><hi rend="italic">thousend</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">þounsed</hi>.</p></note>
+        <note type="tnote" n="25">288–92<space rend="indent1"/><p>There is a mark or smudge that
+            extends across lines 288–92 and partially obscures the words <hi rend="italic">to</hi>,
+              <hi rend="italic">toforn</hi>, and <hi rend="italic">with his</hi>.</p></note>
+        <note type="tnote" n="26">331<space rend="indent1"/><p><hi rend="italic">Themperour</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">Þenperour</hi>.</p></note>
+        <note type="tnote" n="27">356<space rend="indent1"/><p><hi rend="italic">The</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Þ</hi>.</p></note>
+        <note type="tnote" n="28">379<space rend="indent1"/><p><hi rend="italic">wald with wit</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">wald wit</hi>.</p></note>
+        <note type="tnote" n="29">383<space rend="indent1"/><p><hi rend="italic">hit</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">hi</hi>.</p></note>
+        <note type="tnote" n="30">402<space rend="indent1"/><p><hi rend="italic">destrers</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">destres</hi>.</p></note>
+        <note type="tnote" n="31">426<space rend="indent1"/><p><hi rend="italic">And in hire</hi><hi
+              rend="subscript">1</hi>. <hi rend="bold">A</hi>: <hi rend="italic">And
+          hire</hi>.</p></note>
+        <note type="tnote" n="32">446<space rend="indent1"/><p><hi rend="italic">maidenhod</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">maindenhod</hi>.</p></note>
+        <note type="tnote" n="33">474<space rend="indent1"/><p><hi rend="italic">hadde</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">dhadde</hi>.</p></note>
+        <note type="tnote" n="34">475<space rend="indent1"/><p><hi rend="italic">had</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">ad</hi>.</p></note>
+        <note type="tnote" n="35">478<space rend="indent1"/><p><hi rend="italic">is</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">his</hi>.</p></note>
+        <note type="tnote" n="36">541<space rend="indent1"/><p><hi rend="italic">appel tres and
+              of</hi>. <hi rend="bold">A</hi>: <hi rend="italic">appel-tres and and
+          of</hi>.</p></note>
+        <note type="tnote" n="37">550<space rend="indent1"/><p><hi rend="italic">solas</hi>. Erasure
+            of one letter in <hi rend="bold">A</hi> after this word.</p></note>
+        <note type="tnote" n="38">557<space rend="indent1"/><p><hi rend="italic">light</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">liȝ</hi>.</p></note>
+        <note type="tnote" n="39">567<space rend="indent1"/><p><hi rend="italic">Seste</hi>. Erasure
+            of one or two letters in <hi rend="bold">A</hi> after this word.</p></note>
+        <note type="tnote" n="40">590<space rend="indent1"/><p><hi rend="italic">iket</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">ikest</hi>.</p></note>
+        <note type="tnote" n="41">604<space rend="indent1"/><p><hi rend="italic">Hit is so</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Hit so</hi>.</p></note>
+        <note type="tnote" n="42">625<space rend="indent1"/><p><hi rend="italic">Ich</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Iich</hi>.</p></note>
+        <note type="tnote" n="43">628<space rend="indent1"/><p><hi rend="italic">ferste</hi>. <hi
+              rend="italic">r</hi> added above in <hi rend="bold">A</hi>.</p></note>
+        <note type="tnote" n="44">647<space rend="indent1"/><p><hi rend="italic">deciple</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">deciphe</hi>.</p></note>
+        <note type="tnote" n="45">655<space rend="indent1"/><p>There is an in initial paraph mark in
+            blue ink.</p></note>
+        <note type="tnote" n="46">679<space rend="indent1"/><p><hi rend="italic">hale</hi>. Erasure
+            of one letter or space between <hi rend="italic">a</hi> and <hi rend="italic">l</hi> in
+            this word in <hi rend="bold">A</hi>.</p></note>
+        <note type="tnote" n="47">714<space rend="indent1"/><p><hi rend="italic">soukeying</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">souke ȝing</hi>.</p></note>
+        <note type="tnote" n="48">718<space rend="indent1"/><p><hi rend="italic">and</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">an</hi>.</p></note>
+        <note type="tnote" n="49">720<space rend="indent1"/><p><hi rend="italic">Ther</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Þ</hi>.</p></note>
+        <note type="tnote" n="50">735<space rend="indent1"/><p><hi rend="italic">wal</hi>. Deletion
+            or damage after <hi rend="italic">wal</hi>.</p></note>
+        <note type="tnote" n="51">751<space rend="indent1"/><p><hi rend="italic">strong</hi>. <hi
+              rend="italic">g</hi> added above in <hi rend="bold">A</hi>.</p></note>
+        <note type="tnote" n="52">775<space rend="indent1"/><p><hi rend="italic">greihound</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">greihoun</hi>.</p></note>
+        <note type="tnote" n="53">796<space rend="indent1"/><p><hi rend="italic">Right</hi>. <hi
+              rend="italic">t</hi> added above in <hi rend="bold">A</hi>.</p></note>
+        <note type="tnote" n="54">803<space rend="indent1"/><p><hi rend="italic">forth goth</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">goþ forþ</hi>.</p></note>
+        <note type="tnote" n="55">804<space rend="indent1"/><p><hi rend="italic">and</hi>. <hi
+              rend="italic">d</hi> added above in <hi rend="bold">A</hi>.</p></note>
+        <note type="tnote" n="56">817<space rend="indent1"/><p><hi rend="italic">And</hi><hi
+              rend="subscript">1</hi>. <hi rend="bold">A</hi>: <hi rend="italic">&amp;
+          and</hi>.</p></note>
+        <note type="tnote" n="57">853<space rend="indent1"/><p><hi rend="italic">sweting</hi>. <hi
+              rend="italic">g</hi> added above in <hi rend="bold">A</hi>.</p></note>
+        <note type="tnote" n="58">871<space rend="indent1"/><p>There is a mark on the <hi
+              rend="italic">a</hi> of <hi rend="italic">was</hi>.</p></note>
+        <note type="tnote" n="59">878<space rend="indent1"/><p><hi rend="italic">Ech dai he</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">Ech he</hi>.</p></note>
+        <note type="tnote" n="60">880<space rend="indent1"/><p><hi rend="italic">and</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">an</hi>.</p></note>
+        <note type="tnote" n="61">903–07<space rend="indent1"/><p><hi rend="italic">And nyste what .
+              . . wombe fulle withalle</hi>. Not in <hi rend="bold">A</hi>. These lines are supplied
+            from <hi rend="bold">E</hi> (folio 16r).</p></note>
+        <note type="tnote" n="62">909<space rend="indent1"/><p><hi rend="italic">Tho</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Þ</hi>.</p></note>
+        <note type="tnote" n="63">923<space rend="indent1"/><p><hi rend="italic">herd</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">bor</hi>.</p></note>
+        <note type="tnote" n="64">939<space rend="indent1"/><p><hi rend="italic">strengthe</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">strengye</hi>.</p></note>
+        <note type="tnote" n="65">941<space rend="indent1"/><p><hi rend="italic">night</hi>. <hi
+              rend="italic">t</hi> added above in <hi rend="bold">A</hi>.</p></note>
+        <note type="tnote" n="66">945<space rend="indent1"/><p><hi rend="italic">unlek</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">unkek</hi>.</p></note>
+        <note type="tnote" n="67">967<space rend="indent1"/><p><hi rend="italic">Than</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Þþan</hi>.</p></note>
+        <note type="tnote" n="68">983<space rend="indent1"/><p><hi rend="italic">him sle bi</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">him bi</hi>.</p></note>
+        <note type="tnote" n="69">985<space rend="indent1"/><p><hi rend="italic">Ypocras</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Þpocras</hi>. The initial letter <hi
+              rend="italic">Þ</hi>, sometimes with a dot above, appears several times and is
+            transcribed here as <hi rend="italic">Y</hi>.</p></note>
+        <note type="tnote" n="70">992<space rend="indent1"/><p><hi rend="italic">schal</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">scha</hi>.</p></note>
+        <note type="tnote" n="71">1006<space rend="indent1"/><p><hi rend="italic">lere</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">l</hi> altered from another letter.</p></note>
+        <note type="tnote" n="72">1019<space rend="indent1"/><p><hi rend="italic">thing</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">ȝing</hi>.</p></note>
+        <note type="tnote" n="73">1054<space rend="indent1"/><p><hi rend="italic">schal</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">scha</hi>.</p></note>
+        <note type="tnote" n="74">1066<space rend="indent1"/><p><hi rend="italic">Ich</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Iich</hi>.</p></note>
+        <note type="tnote" n="75">1096<space rend="indent1"/><p><hi rend="italic">and</hi><hi
+              rend="subscript">2</hi>. <hi rend="bold">A</hi>: <hi rend="italic">a</hi>.</p></note>
+        <note type="tnote" n="76">1102<space rend="indent1"/><p><hi rend="italic">To</hi> is written
+            in the separated initial column.</p></note>
+        <note type="tnote" n="77">1110<space rend="indent1"/><p><hi rend="italic">nas</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">was</hi>.</p></note>
+        <note type="tnote" n="78">1130<space rend="indent1"/><p>There is fading or smudging on <hi
+              rend="italic">hi</hi> of <hi rend="italic">his</hi>.</p></note>
+        <note type="tnote" n="79"><space rend="indent1"/><p><hi rend="italic">was</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">wa</hi>.</p></note>
+        <note type="tnote" n="80">1151<space rend="indent1"/><p><hi rend="italic">Ich</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Iich</hi>.</p></note>
+        <note type="tnote" n="81">1153<space rend="indent1"/><p><hi rend="italic">Ich</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Iich</hi>.</p></note>
+        <note type="tnote" n="82">1219<space rend="indent1"/><p><hi rend="italic">An</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">A</hi>.</p></note>
+        <note type="tnote" n="83">1228<space rend="indent1"/><p><hi rend="italic">he</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">ȝhe</hi>.</p></note>
+        <note type="tnote" n="84">1249<space rend="indent1"/><p><hi rend="italic">Forth</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">For</hi>.</p></note>
+        <note type="tnote" n="85">1272<space rend="indent1"/><p><hi rend="italic">the</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">þe þe</hi>.</p></note>
+        <note type="tnote" n="86">1277<space rend="indent1"/><p><hi rend="italic">bi store</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">bistore</hi>.</p></note>
+        <note type="tnote" n="87">1294<space rend="indent1"/><p><hi rend="italic">ischent</hi>. <hi
+              rend="italic">t</hi> added above in <hi rend="bold">A</hi>.</p></note>
+        <note type="tnote" n="88">1310<space rend="indent1"/><p><hi rend="italic">louerdes</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">loruedes</hi>.</p></note>
+        <note type="tnote" n="89">1311<space rend="indent1"/><p><hi rend="italic">an</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">and</hi>.</p></note>
+        <note type="tnote" n="90">1316<space rend="indent1"/><p><hi rend="italic">his fet
+            faste</hi>. <hi rend="bold">A</hi>: <hi rend="italic">his fet fet faste</hi>.</p></note>
+        <note type="tnote" n="91">1327<space rend="indent1"/><p><hi rend="italic">and</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">an</hi>.</p></note>
+        <note type="tnote" n="92">1344<space rend="indent1"/><p><hi rend="italic">might</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">miȝ</hi>.</p></note>
+        <note type="tnote" n="93">1356<space rend="indent1"/><p><hi rend="italic">And</hi>. <hi
+              rend="italic">d</hi> added above in <hi rend="bold">A</hi>.</p></note>
+        <note type="tnote" n="94">1363<space rend="indent1"/><p><hi rend="italic">sikerlik</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">sikerklik</hi>.</p></note>
+        <note type="tnote" n="95">1373<space rend="indent1"/><p>Damage or smudge in <hi rend="bold"
+              >A</hi> over <hi rend="italic">Lentilioun</hi>.</p></note>
+        <note type="tnote" n="96">1403<space rend="indent1"/><p><hi rend="italic">neyhebours</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">neþhebours</hi>.</p></note>
+        <note type="tnote" n="97">1416<space rend="indent1"/><p><hi rend="italic">husbounde</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">bounde</hi>.</p></note>
+        <note type="tnote" n="98">1422<space rend="indent1"/><p><hi rend="italic">folk</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">fokk</hi>.</p></note>
+        <note type="tnote" n="99">1435<space rend="indent1"/><p><hi rend="italic">and</hi><hi
+              rend="subscript">3</hi>. <hi rend="bold">A</hi>: <hi rend="italic">an</hi>.</p></note>
+        <note type="tnote" n="100">1442<space rend="indent1"/><p><hi rend="italic">Ich</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Iich</hi>.</p></note>
+        <note type="tnote" n="101">1472<space rend="indent1"/><p><hi rend="italic">give thee
+              kare</hi>. <hi rend="bold">A</hi>: <hi rend="italic">ȝiue kare</hi>.</p></note>
+        <note type="tnote" n="102">1476<space rend="indent1"/><p><hi rend="italic">Ich</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Iich</hi>.</p></note>
+        <note type="tnote" n="103">1481<space rend="indent1"/><p><hi rend="italic">an</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">and</hi>.</p></note>
+        <note type="tnote" n="104">1492<space rend="indent1"/><p><hi rend="italic">him in ar</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">him ar</hi>.</p></note>
+        <note type="tnote" n="105">1493<space rend="indent1"/><p><hi rend="italic">answered</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">answere</hi>.</p></note>
+        <note type="tnote" n="106">1480–94<space rend="indent1"/><p>There is no rubrication of the
+            initial separated letter of these lines, as is found throughout this text. These are the
+            final 15 lines of folio 92v, column a, in <hi rend="bold">A</hi> and the rubrication
+            recommences at the start of the next column.</p></note>
+        <note type="tnote" n="107">1553<space rend="indent1"/><p><hi rend="italic">Wimmen he loved
+              swithe</hi>. <hi rend="bold">A</hi>: <hi rend="italic">Wimmen he louede he louede
+              swiþe</hi>.</p></note>
+        <note type="tnote" n="108">1554<space rend="indent1"/><p><hi rend="italic">sodomighte</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">so do miȝte</hi>.</p></note>
+        <note type="tnote" n="109">1573<space rend="indent1"/><p><hi rend="italic">with hire
+              plai</hi>. <hi rend="bold">A</hi>: <hi rend="italic">with plai</hi>.</p></note>
+        <note type="tnote" n="110">1579<space rend="indent1"/><p><hi rend="italic">Bihot</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Bi hot</hi>.</p></note>
+        <note type="tnote" n="111">1580<space rend="indent1"/><p><hi rend="italic">me</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">þe</hi>.</p></note>
+        <note type="tnote" n="112">1585<space rend="indent1"/><p><hi rend="italic">whiderward</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">whideward</hi>.</p></note>
+        <note type="tnote" n="113">1601<space rend="indent1"/><p><hi rend="italic">again</hi>.
+            Second <hi rend="italic">a</hi> corrected from <hi rend="italic">o</hi> in <hi
+              rend="bold">A</hi>. <hi rend="bold">A</hi>: <hi rend="italic">agoin</hi>.</p></note>
+        <note type="tnote" n="114">1610<space rend="indent1"/><p><hi rend="italic">uprape</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">vrape</hi>.</p></note>
+        <note type="tnote" n="115">1631<space rend="indent1"/><p><hi rend="italic">winning</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">winnng</hi>.</p></note>
+        <note type="tnote" n="116">1654<space rend="indent1"/><p><hi rend="italic">whil</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">til</hi>.</p></note>
+        <note type="tnote" n="117">1700<space rend="indent1"/><p><hi rend="italic">of</hi>. Altered
+            from <hi rend="italic">oþ</hi> in <hi rend="bold">A</hi>.</p></note>
+        <note type="tnote" n="118">1717<space rend="indent1"/><p><hi rend="italic">old and wis</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">old wis</hi>.</p></note>
+        <note type="tnote" n="119">1727<space rend="indent1"/><p><hi rend="italic">And bad him</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">And him</hi>.</p></note>
+        <note type="tnote" n="120">1732<space rend="indent1"/><p><hi rend="italic">and</hi><hi
+              rend="subscript">2</hi>. <hi rend="italic">d</hi> added above in <hi rend="bold"
+              >A</hi>.</p></note>
+        <note type="tnote" n="121">1749<space rend="indent1"/><p><hi rend="italic">hath</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">had</hi>.</p></note>
+        <note type="tnote" n="122">1764<space rend="indent1"/><p><hi rend="italic">ympe</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">þmpe</hi>.</p></note>
+        <note type="tnote" n="123">1767<space rend="indent1"/><p><hi rend="italic">ympe</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">þmpe</hi>.</p></note>
+        <note type="tnote" n="124">1789<space rend="indent1"/><p><hi rend="italic">louerd</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">louer</hi>.</p></note>
+        <note type="tnote" n="125">1799<space rend="indent1"/><p><hi rend="italic">afterward</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">afterwar</hi>.</p></note>
+        <note type="tnote" n="126">1807<space rend="indent1"/><p><hi rend="italic">knif and
+              smot</hi>. <hi rend="bold">A</hi>: <hi rend="italic">knif and here
+          smot</hi>.</p></note>
+        <note type="tnote" n="127">1850<space rend="indent1"/><p><hi rend="italic">Of</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">O</hi>.</p></note>
+        <note type="tnote" n="128">1864<space rend="indent1"/><p><hi rend="italic">understonde</hi>.
+              <hi rend="italic">r</hi> added above in <hi rend="bold">A</hi>.</p></note>
+        <note type="tnote" n="129">1866<space rend="indent1"/><p><hi rend="italic">misdedes</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">misddedes</hi>.</p></note>
+        <note type="tnote" n="130">1875<space rend="indent1"/><p><hi rend="italic">And</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">An</hi>.</p></note>
+        <note type="tnote" n="131">1881<space rend="indent1"/><p><hi rend="italic">veyn</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">vreyn</hi>.</p></note>
+        <note type="tnote" n="132">1903<space rend="indent1"/><p><hi rend="italic">nou red me
+              red</hi>. <hi rend="bold">A</hi>: <hi rend="italic">nou red me red me
+          red</hi>.</p></note>
+        <note type="tnote" n="133">1943<space rend="indent1"/><p><hi rend="italic">wroth</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">wroȝt</hi>.</p></note>
+        <note type="tnote" n="134">1949<space rend="indent1"/><p><hi rend="italic">and</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">an</hi>.</p></note>
+        <note type="tnote" n="135">1965<space rend="indent1"/><p><hi rend="italic">on a
+            donjoun</hi>. <hi rend="bold">A</hi>: <hi rend="italic">on o donioun</hi>.</p></note>
+        <note type="tnote" n="136">1980<space rend="indent1"/><p><hi rend="italic">ymage</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">þmage</hi>. The initial letter <hi rend="italic"
+              >Þ</hi>, sometimes appears several times and is transcribed here as <hi rend="italic"
+              >y</hi>.</p></note>
+        <note type="tnote" n="137">1981<space rend="indent1"/><p><hi rend="italic">The</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Þ</hi>.</p></note>
+        <note type="tnote" n="138">2013<space rend="indent1"/><p><hi rend="italic">biwraid</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">bi wraid</hi>.</p></note>
+        <note type="tnote" n="139">2039<space rend="indent1"/><p><hi rend="italic">And</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">An</hi>.</p></note>
+        <note type="tnote" n="140">2051<space rend="indent1"/><p><hi rend="italic">elder</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">elderer</hi>.</p></note>
+        <note type="tnote" n="141">2072<space rend="indent1"/><p><hi rend="italic">gave</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">haue</hi>.</p></note>
+        <note type="tnote" n="142">2075<space rend="indent1"/><p><hi rend="italic">and</hi>. <hi
+              rend="italic">d</hi> added above in <hi rend="bold">A</hi>.</p></note>
+        <note type="tnote" n="143">2212<space rend="indent1"/><p><hi rend="italic">The</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Þ</hi>.</p></note>
+        <note type="tnote" n="144">2236<space rend="indent1"/><p><hi rend="italic">Thai</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Þa</hi>.</p></note>
+        <note type="tnote" n="145">2267<space rend="indent1"/><p>Staining in <hi rend="bold">A</hi>
+            over <hi rend="italic">night</hi>.</p></note>
+        <note type="tnote" n="146">2275<space rend="indent1"/><p><hi rend="italic">hir wete and
+              his</hi>. There is a word missing in <hi rend="bold">A</hi>, with a space of around
+            four letters <hi rend="italic">hire . . . and his</hi>; <hi rend="italic">wete</hi> is
+            supplied from <hi rend="bold">E</hi>.</p></note>
+        <note type="tnote" n="147">2301<space rend="indent1"/><p><hi rend="italic">thee sschal
+              despise</hi>. <hi rend="bold">A</hi>: <hi rend="italic">þe spise</hi>.</p></note>
+        <note type="tnote" n="148">2353<space rend="indent1"/><p><hi rend="italic">fourten</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">r</hi> added above.</p></note>
+        <note type="tnote" n="149">2430<space rend="indent1"/><p><hi rend="italic">thing</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">king</hi>.</p></note>
+        <note type="tnote" n="150">2442<space rend="indent1"/><p><hi rend="italic">Sir</hi> is
+            written in the separated initial column.</p></note>
+        <note type="tnote" n="151">2456<space rend="indent1"/><p><hi rend="italic">wel have</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">wel wel haue</hi>.</p></note>
+        <note type="tnote" n="152">2467<space rend="indent1"/><p><hi rend="italic">themperour</hi>.
+              <hi rend="bold">A</hi>: <hi rend="italic">þempour</hi>.</p></note>
+        <note type="tnote" n="153">2521<space rend="indent1"/><p><hi rend="italic">Fro</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">For</hi>.</p></note>
+        <note type="tnote" n="154">2525<space rend="indent1"/><p><hi rend="italic">and</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">an</hi>.</p></note>
+        <note type="tnote" n="155">2539<space rend="indent1"/><p><hi rend="italic">That</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Þa</hi>.</p></note>
+        <note type="tnote" n="156">2546<space rend="indent1"/><p><hi rend="italic">Ich</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Iich</hi>.</p></note>
+        <note type="tnote" n="157">2555<space rend="indent1"/><p><hi rend="italic">And had a
+              yong</hi>. <hi rend="bold">A</hi>: <hi rend="italic">And ȝong</hi>.</p></note>
+        <note type="tnote" n="158">2556<space rend="indent1"/><p><hi rend="italic">lovede hire
+              has</hi>. <hi rend="bold">A</hi>: <hi rend="italic">louede has</hi>.</p></note>
+        <note type="tnote" n="159">2566<space rend="indent1"/><p><hi rend="italic">his</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">hir</hi>.</p></note>
+        <note type="tnote" n="160">2568<space rend="indent1"/><p><hi rend="italic">He</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">Ȝhe</hi>.</p></note>
+        <note type="tnote" n="161">2570<space rend="indent1"/><p><hi rend="italic">he</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">sche</hi>.</p></note>
+        <note type="tnote" n="162">2573<space rend="indent1"/><p><hi rend="italic">hir</hi><hi
+              rend="subscript">2</hi>. <hi rend="bold">A</hi>: <hi rend="italic"
+          >him</hi>.</p></note>
+        <note type="tnote" n="163">2574<space rend="indent1"/><p><hi rend="italic">and</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">an</hi>.</p></note>
+        <note type="tnote" n="164">2591<space rend="indent1"/><p><hi rend="italic">confort</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">confor</hi>.</p></note>
+        <note type="tnote" n="165">2595<space rend="indent1"/><p><hi rend="italic">hire</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">him</hi>.</p></note>
+        <note type="tnote" n="166">2647<space rend="indent1"/><p><hi rend="italic">He thought
+              that</hi>. <hi rend="bold">A</hi>: <hi rend="italic">He þat</hi>.</p></note>
+        <note type="tnote" n="167">2699<space rend="indent1"/><p><hi rend="italic">he</hi>. <hi
+              rend="bold">A</hi>: <hi rend="italic">ȝhe</hi>.</p></note>
+        <note type="tnote" n="168">2768<space rend="indent1"/><p>Blot or stain in <hi rend="bold"
+              >A</hi> over the <hi rend="italic">u</hi> of <hi rend="italic"
+          >thousand</hi>.</p></note>
+        <note type="tnote" n="169"><hi rend="bold">A</hi>2770<space rend="indent1"/>This is where
+          the poem ends in the Auchinleck Manuscript, whose text of the Middle English <hi
+            rend="italic">Seven Sages</hi> is damaged.</note>
+        <note type="tnote" n="170"><hi rend="bold">E</hi>2820<space rend="indent1"/><hi
+            rend="italic">shulle</hi>. <hi rend="bold">E</hi>: <hi rend="italic">shullt</hi>.</note>
+        <note type="tnote" n="171"><hi rend="bold">E</hi>2841<space rend="indent1"/><hi
+            rend="italic">knave</hi>. <hi rend="bold">E</hi>: <hi rend="italic">knawe</hi>.</note>
+        <note type="tnote" n="172"><hi rend="bold">E</hi>2843<space rend="indent1"/><hi
+            rend="italic">noldyste</hi>. <hi rend="bold">E</hi>: <hi rend="italic"
+          >woldyste</hi>.</note>
+        <note type="tnote" n="173"><hi rend="bold">E</hi>2994<space rend="indent1"/><hi
+            rend="italic">hys</hi>. <hi rend="bold">E</hi>: <hi rend="italic">hyr</hi>.</note>
+        <note type="tnote" n="174"><hi rend="bold">E</hi>3002<space rend="indent1"/><hi
+            rend="italic">went yare</hi>. <hi rend="bold">E</hi>: <hi rend="italic">went </hi><hi
+            rend="italicstrikethrough">yar</hi><hi rend="italic"> yare</hi>.</note>
+        <note type="tnote" n="175"><hi rend="bold">E</hi>3072<space rend="indent1"/><hi
+            rend="italic">a robe of</hi>. <hi rend="bold">E</hi>: <hi rend="italic">a </hi><hi
+            rend="italicstrikethrough">bo</hi><hi rend="italic"> robe of</hi>.</note>
+        <note type="tnote" n="176"><hi rend="bold">E</hi>3096<space rend="indent1"/><hi
+            rend="italic">evyr hadde he</hi>. <hi rend="bold">E</hi>: <hi rend="italic">euyr
+            </hi><hi rend="italicstrikethrough">he</hi><hi rend="italic"> hadde he</hi>.</note>
+        <note type="tnote" n="177"><hi rend="bold">E</hi>3121<space rend="indent1"/><hi
+            rend="italic">good</hi>. <hi rend="bold">E</hi>: <hi rend="italic">goo</hi>.</note>
+        <note type="tnote" n="178"><hi rend="bold">E</hi>3170<space rend="indent1"/>This verse line
+          is written across two manuscript lines (the second line starting <hi rend="italic">Hit
+            is</hi> . . . ).</note>
+        <note type="tnote" n="179"><hi rend="bold">E</hi>3219<space rend="indent1"/><hi
+            rend="italic">Ye</hi>. <hi rend="bold">E</hi>: <hi rend="italic">She</hi>.</note>
+        <note type="tnote" n="180"><hi rend="bold">E</hi>3396<space rend="indent1"/><hi
+            rend="italic">grete ravyn</hi>. <hi rend="bold">E</hi>: <hi rend="italic">grete </hi><hi
+            rend="italicstrikethrough">female</hi><hi rend="italic"> rauyn</hi>.</note>
+        <note type="tnote" n="181"><hi rend="bold">E</hi>3474<space rend="indent1"/><hi
+            rend="italic">And</hi>. <hi rend="bold">E</hi>: <hi rend="italic">A</hi>.</note>
+        <note type="tnote" n="182"><hi rend="bold">E</hi>3502<space rend="indent1"/><hi
+            rend="italic">I be</hi>. <hi rend="bold">E</hi>: <hi rend="italic">I be be</hi>.</note>
+        <note type="tnote" n="183"><hi rend="bold">E</hi>3521<space rend="indent1"/><hi
+            rend="italic">he</hi>. <hi rend="bold">E</hi>: <hi rend="italic">she</hi>.</note>
+        <note type="tnote" n="184"><hi rend="bold">E</hi>3552<space rend="indent1"/><hi
+            rend="italic">fadyr dede was</hi>. <hi rend="bold">E</hi>: <hi rend="italic">fadyr
+            </hi><hi rend="italicstrikethrough">was</hi><hi rend="italic"> dede was</hi>.</note>
+        <note type="tnote" n="185"><hi rend="bold">E</hi>3580<space rend="indent1"/><hi
+            rend="italic">Amen</hi>. Underlined in red ink.</note>
+        <note type="tnote" n="186">Explicit<space rend="indent1"/><p>The explicit is marked with a
+            rubricated paraph mark.</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>
